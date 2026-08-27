@@ -1,3537 +1,3797 @@
-﻿[
-    {
-        "code":  "76001",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76002",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76004",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76005",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76006",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76007",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76008",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76009",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76010",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76011",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76012",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76013",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76014",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76015",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76016",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76017",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76018",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76019",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76020",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76021",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76022",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76023",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76024",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76025",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76026",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76028",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76029",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76030",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76032",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76033",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76034",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76035",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76036",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76038",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76039",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
+[
     {
         "code":  "76040",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76041",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76042",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76043",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76045",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76046",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76047",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76048",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76049",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76050",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76051",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  1943,
+        "houseSales":  12
     },
     {
         "code":  "76052",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76053",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76054",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76055",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76056",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76057",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76058",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76059",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76060",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76062",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76063",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76064",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76065",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76066",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76067",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76068",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76069",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76070",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76071",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76072",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76074",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76075",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76076",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76077",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76079",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76082",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76083",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76084",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76085",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76086",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76087",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76088",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76090",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76091",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76092",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76093",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76094",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76095",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76096",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76097",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76099",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76100",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76101",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76103",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76104",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76105",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76106",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76107",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76108",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76109",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76110",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76111",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76112",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76113",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76114",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76115",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76116",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76117",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76118",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76119",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76120",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76121",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76122",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76123",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76124",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76125",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76126",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76128",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76129",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76130",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76131",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76132",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76133",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76134",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76135",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76136",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76138",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76139",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76140",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76141",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76142",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76143",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76144",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76146",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76147",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76148",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76149",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76151",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76152",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76153",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76154",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76155",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76156",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76157",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76158",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76159",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76160",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76161",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76162",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76163",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76164",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76165",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76166",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76167",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76168",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76169",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76170",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76171",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76172",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76173",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76174",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76175",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76176",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76177",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76178",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76179",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76180",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76181",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76182",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76183",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76184",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76185",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76186",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76187",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76188",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76189",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76190",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76192",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76193",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76194",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76195",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76196",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76197",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76198",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76199",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76200",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76201",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76202",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76203",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76204",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76205",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76206",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76207",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76208",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76209",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76210",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76211",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76212",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76213",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76214",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76216",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76217",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76218",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76219",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76220",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76221",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76222",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76223",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76224",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76225",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76226",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76227",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76228",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76229",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76230",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76231",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76232",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76233",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76234",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76235",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76236",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76237",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76238",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76239",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76240",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76241",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76242",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76243",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76244",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76245",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76247",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76249",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76250",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76251",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76252",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76253",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76254",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76255",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76257",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76258",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76259",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76260",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76261",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76262",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76263",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76264",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76265",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76266",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76268",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76269",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76270",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76271",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76272",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76273",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76274",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76275",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76276",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76278",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76279",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76280",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76281",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76282",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76283",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76284",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76285",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76286",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76287",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76288",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76289",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76290",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76291",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76292",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76293",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76294",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76295",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76296",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76297",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76298",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76299",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76300",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76302",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76303",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76304",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76305",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76306",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76307",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76308",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76309",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76311",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76312",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76313",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76314",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76315",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76316",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76317",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76318",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76319",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76320",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76321",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76322",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76323",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76324",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76325",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76327",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76328",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76329",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76330",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76331",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76332",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76333",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76334",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76335",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76336",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76338",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76339",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76340",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76341",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76342",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76343",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76344",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76345",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76346",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76347",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76348",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76349",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76350",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76351",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76352",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76353",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76354",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76355",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76356",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76357",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76359",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76360",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76361",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76362",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76363",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76364",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76365",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76366",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76367",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76368",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76369",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76370",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76371",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76372",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76373",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76374",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76375",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76377",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76378",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76379",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76380",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76381",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76382",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76383",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76384",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76385",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76386",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76387",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76388",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76389",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76390",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76391",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76392",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76393",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76394",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76395",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76396",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76397",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76398",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76399",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76400",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76401",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76402",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76403",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76404",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76405",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76406",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76407",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76408",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76409",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76410",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76411",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76412",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76413",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76414",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76415",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76416",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76417",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76418",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76419",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76420",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76421",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76422",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76423",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76424",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76425",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76426",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  636,
+        "houseSales":  3
     },
     {
         "code":  "76427",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  1553,
+        "houseSales":  33
     },
     {
-        "code":  "76428",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76669",
+        "housePriceM2":  1675,
+        "houseSales":  30
     },
     {
-        "code":  "76429",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76666",
+        "housePriceM2":  1375,
+        "houseSales":  27
     },
     {
-        "code":  "76430",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76576",
+        "housePriceM2":  1876,
+        "houseSales":  61
     },
     {
-        "code":  "76431",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76711",
+        "housePriceM2":  1994,
+        "houseSales":  370
     },
     {
-        "code":  "76432",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76684",
+        "housePriceM2":  2052,
+        "houseSales":  78
     },
     {
-        "code":  "76433",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76416",
+        "housePriceM2":  1658,
+        "houseSales":  19
     },
     {
-        "code":  "76434",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76512",
+        "housePriceM2":  664,
+        "houseSales":  2
     },
     {
-        "code":  "76435",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76415",
+        "housePriceM2":  1304,
+        "houseSales":  17
     },
     {
-        "code":  "76436",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76513",
+        "housePriceM2":  2243,
+        "houseSales":  34
     },
     {
-        "code":  "76437",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76438",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76439",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76440",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76441",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76442",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76443",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76445",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76446",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76447",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76448",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76449",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76450",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76451",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76452",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76453",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76454",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76455",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76456",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76457",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76458",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76459",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76460",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76461",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76462",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76463",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76464",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76465",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76467",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76468",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76469",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76470",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76471",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76472",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76473",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76474",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76475",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76476",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76477",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76478",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76479",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76480",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76481",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76482",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76483",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76484",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76485",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76486",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76487",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76488",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76489",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76490",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76491",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76492",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76493",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76494",
+        "code":  "76150",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
         "code":  "76495",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  1869,
+        "houseSales":  306
     },
     {
-        "code":  "76497",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76615",
+        "housePriceM2":  2477,
+        "houseSales":  33
     },
     {
-        "code":  "76498",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76596",
+        "housePriceM2":  2434,
+        "houseSales":  95
     },
     {
-        "code":  "76499",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76178",
+        "housePriceM2":  1872,
+        "houseSales":  152
     },
     {
-        "code":  "76500",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76168",
+        "housePriceM2":  1650,
+        "houseSales":  5
     },
     {
-        "code":  "76501",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76350",
+        "housePriceM2":  1953,
+        "houseSales":  16
     },
     {
-        "code":  "76502",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76503",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76504",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76505",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76506",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76507",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76508",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76509",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76510",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76511",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76512",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76513",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76514",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76515",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76516",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76517",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76518",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76519",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76520",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76521",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76522",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76523",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76524",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76526",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76527",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76528",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76529",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76530",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76531",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76532",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76750",
+        "housePriceM2":  1882,
+        "houseSales":  68
     },
     {
         "code":  "76533",
+        "housePriceM2":  2517,
+        "houseSales":  79
+    },
+    {
+        "code":  "76445",
+        "housePriceM2":  1816,
+        "houseSales":  28
+    },
+    {
+        "code":  "76633",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76534",
+        "code":  "76259",
+        "housePriceM2":  2106,
+        "houseSales":  982
+    },
+    {
+        "code":  "76008",
+        "housePriceM2":  1939,
+        "houseSales":  33
+    },
+    {
+        "code":  "76254",
+        "housePriceM2":  2933,
+        "houseSales":  157
+    },
+    {
+        "code":  "76587",
+        "housePriceM2":  2146,
+        "houseSales":  32
+    },
+    {
+        "code":  "76523",
+        "housePriceM2":  1366,
+        "houseSales":  12
+    },
+    {
+        "code":  "76186",
+        "housePriceM2":  1386,
+        "houseSales":  29
+    },
+    {
+        "code":  "76185",
+        "housePriceM2":  1810,
+        "houseSales":  14
+    },
+    {
+        "code":  "76406",
+        "housePriceM2":  2064,
+        "houseSales":  22
+    },
+    {
+        "code":  "76442",
+        "housePriceM2":  1791,
+        "houseSales":  25
+    },
+    {
+        "code":  "76193",
+        "housePriceM2":  1905,
+        "houseSales":  20
+    },
+    {
+        "code":  "76636",
+        "housePriceM2":  2137,
+        "houseSales":  127
+    },
+    {
+        "code":  "76408",
+        "housePriceM2":  2086,
+        "houseSales":  74
+    },
+    {
+        "code":  "76635",
+        "housePriceM2":  1642,
+        "houseSales":  8
+    },
+    {
+        "code":  "76528",
+        "housePriceM2":  1687,
+        "houseSales":  18
+    },
+    {
+        "code":  "76413",
+        "housePriceM2":  1798,
+        "houseSales":  23
+    },
+    {
+        "code":  "76526",
+        "housePriceM2":  1600,
+        "houseSales":  17
+    },
+    {
+        "code":  "76244",
+        "housePriceM2":  1741,
+        "houseSales":  24
+    },
+    {
+        "code":  "76370",
+        "housePriceM2":  1790,
+        "houseSales":  17
+    },
+    {
+        "code":  "76385",
+        "housePriceM2":  1965,
+        "houseSales":  90
+    },
+    {
+        "code":  "76272",
+        "housePriceM2":  1698,
+        "houseSales":  48
+    },
+    {
+        "code":  "76196",
+        "housePriceM2":  2477,
+        "houseSales":  128
+    },
+    {
+        "code":  "76023",
+        "housePriceM2":  1818,
+        "houseSales":  19
+    },
+    {
+        "code":  "76271",
+        "housePriceM2":  2013,
+        "houseSales":  89
+    },
+    {
+        "code":  "76441",
+        "housePriceM2":  1500,
+        "houseSales":  41
+    },
+    {
+        "code":  "76081",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76535",
+        "code":  "76044",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76536",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76198",
+        "housePriceM2":  1907,
+        "houseSales":  45
     },
     {
-        "code":  "76537",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76238",
+        "housePriceM2":  2391,
+        "houseSales":  143
+    },
+    {
+        "code":  "76162",
+        "housePriceM2":  1800,
+        "houseSales":  21
+    },
+    {
+        "code":  "76626",
+        "housePriceM2":  2000,
+        "houseSales":  29
+    },
+    {
+        "code":  "76679",
+        "housePriceM2":  1464,
+        "houseSales":  5
     },
     {
         "code":  "76538",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76540",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76541",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76542",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76543",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76544",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76545",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76546",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76547",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76548",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76549",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76550",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76551",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76552",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76553",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76554",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76555",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76556",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76557",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76558",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76559",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76560",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76561",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76562",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76563",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76564",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76565",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76566",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  1605,
+        "houseSales":  24
     },
     {
         "code":  "76567",
+        "housePriceM2":  1550,
+        "houseSales":  12
+    },
+    {
+        "code":  "76457",
+        "housePriceM2":  1947,
+        "houseSales":  61
+    },
+    {
+        "code":  "76552",
+        "housePriceM2":  3581,
+        "houseSales":  299
+    },
+    {
+        "code":  "76670",
+        "housePriceM2":  2149,
+        "houseSales":  52
+    },
+    {
+        "code":  "76279",
+        "housePriceM2":  1784,
+        "houseSales":  14
+    },
+    {
+        "code":  "76274",
+        "housePriceM2":  1773,
+        "houseSales":  1
+    },
+    {
+        "code":  "76323",
+        "housePriceM2":  1404,
+        "houseSales":  12
+    },
+    {
+        "code":  "76591",
+        "housePriceM2":  2412,
+        "houseSales":  138
+    },
+    {
+        "code":  "76397",
+        "housePriceM2":  1729,
+        "houseSales":  55
+    },
+    {
+        "code":  "76456",
+        "housePriceM2":  1674,
+        "houseSales":  47
+    },
+    {
+        "code":  "76322",
+        "housePriceM2":  2512,
+        "houseSales":  467
+    },
+    {
+        "code":  "76603",
+        "housePriceM2":  1898,
+        "houseSales":  34
+    },
+    {
+        "code":  "76171",
+        "housePriceM2":  1731,
+        "houseSales":  5
+    },
+    {
+        "code":  "76462",
+        "housePriceM2":  1690,
+        "houseSales":  211
+    },
+    {
+        "code":  "76303",
+        "housePriceM2":  2243,
+        "houseSales":  41
+    },
+    {
+        "code":  "76275",
+        "housePriceM2":  2635,
+        "houseSales":  73
+    },
+    {
+        "code":  "76172",
+        "housePriceM2":  2024,
+        "houseSales":  17
+    },
+    {
+        "code":  "76371",
+        "housePriceM2":  1597,
+        "houseSales":  7
+    },
+    {
+        "code":  "76087",
+        "housePriceM2":  1799,
+        "houseSales":  39
+    },
+    {
+        "code":  "76562",
+        "housePriceM2":  2059,
+        "houseSales":  47
+    },
+    {
+        "code":  "76291",
+        "housePriceM2":  2170,
+        "houseSales":  73
+    },
+    {
+        "code":  "76165",
+        "housePriceM2":  1640,
+        "houseSales":  404
+    },
+    {
+        "code":  "76579",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76568",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76249",
+        "housePriceM2":  1988,
+        "houseSales":  43
     },
     {
-        "code":  "76569",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76235",
+        "housePriceM2":  1760,
+        "houseSales":  108
     },
     {
-        "code":  "76570",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76571",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76572",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76573",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76574",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76575",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76576",
+        "code":  "76267",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
         "code":  "76577",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  1756,
+        "houseSales":  24
     },
     {
-        "code":  "76578",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76264",
+        "housePriceM2":  1917,
+        "houseSales":  25
     },
     {
-        "code":  "76580",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76179",
+        "housePriceM2":  2197,
+        "houseSales":  67
     },
     {
-        "code":  "76581",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76091",
+        "housePriceM2":  1987,
+        "houseSales":  7
     },
     {
-        "code":  "76582",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76516",
+        "housePriceM2":  1781,
+        "houseSales":  24
     },
     {
-        "code":  "76583",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76584",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76585",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76586",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76587",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76588",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76589",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76590",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76591",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76592",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76593",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76594",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76595",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76596",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76597",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76598",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76599",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76600",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76601",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76602",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76603",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76604",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76605",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76606",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76608",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76609",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76610",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76611",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76612",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76613",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76614",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76615",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76616",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76617",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76618",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76619",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76620",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76621",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76622",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76623",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76624",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76626",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76627",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76628",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76629",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76630",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76631",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76632",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76634",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76635",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76636",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76637",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76638",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76640",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76641",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76642",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76644",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76645",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76646",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76647",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76648",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76649",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76650",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76651",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76652",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76653",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76654",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76655",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76656",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76657",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76658",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76660",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76662",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76663",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76664",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76665",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76666",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76177",
+        "housePriceM2":  1954,
+        "houseSales":  18
     },
     {
         "code":  "76667",
+        "housePriceM2":  1758,
+        "houseSales":  19
+    },
+    {
+        "code":  "76662",
+        "housePriceM2":  2867,
+        "houseSales":  9
+    },
+    {
+        "code":  "76698",
+        "housePriceM2":  1806,
+        "houseSales":  46
+    },
+    {
+        "code":  "76098",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76668",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76095",
+        "housePriceM2":  3000,
+        "houseSales":  299
     },
     {
-        "code":  "76669",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76096",
+        "housePriceM2":  1812,
+        "houseSales":  41
     },
     {
-        "code":  "76670",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76544",
+        "housePriceM2":  1375,
+        "houseSales":  20
     },
     {
-        "code":  "76671",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76226",
+        "housePriceM2":  1812,
+        "houseSales":  6
     },
     {
-        "code":  "76672",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76121",
+        "housePriceM2":  1663,
+        "houseSales":  24
     },
     {
-        "code":  "76673",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76228",
+        "housePriceM2":  1839,
+        "houseSales":  17
     },
     {
-        "code":  "76675",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76751",
+        "housePriceM2":  1826,
+        "houseSales":  54
     },
     {
-        "code":  "76676",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76136",
+        "housePriceM2":  1733,
+        "houseSales":  55
     },
     {
-        "code":  "76677",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76282",
+        "housePriceM2":  1860,
+        "houseSales":  78
     },
     {
-        "code":  "76678",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76679",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76680",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76681",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76682",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76683",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76684",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76685",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76686",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76688",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76689",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76690",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76691",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76692",
+        "code":  "76625",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
         "code":  "76693",
+        "housePriceM2":  2500,
+        "houseSales":  39
+    },
+    {
+        "code":  "76342",
+        "housePriceM2":  1900,
+        "houseSales":  29
+    },
+    {
+        "code":  "76522",
+        "housePriceM2":  2192,
+        "houseSales":  69
+    },
+    {
+        "code":  "76680",
+        "housePriceM2":  1343,
+        "houseSales":  9
+    },
+    {
+        "code":  "76688",
+        "housePriceM2":  1769,
+        "houseSales":  15
+    },
+    {
+        "code":  "76188",
+        "housePriceM2":  1920,
+        "houseSales":  27
+    },
+    {
+        "code":  "76685",
+        "housePriceM2":  2007,
+        "houseSales":  42
+    },
+    {
+        "code":  "76744",
+        "housePriceM2":  1549,
+        "houseSales":  9
+    },
+    {
+        "code":  "76686",
+        "housePriceM2":  1937,
+        "houseSales":  28
+    },
+    {
+        "code":  "76428",
+        "housePriceM2":  1656,
+        "houseSales":  2
+    },
+    {
+        "code":  "76320",
+        "housePriceM2":  965,
+        "houseSales":  38
+    },
+    {
+        "code":  "76747",
+        "housePriceM2":  2281,
+        "houseSales":  14
+    },
+    {
+        "code":  "76108",
+        "housePriceM2":  3264,
+        "houseSales":  661
+    },
+    {
+        "code":  "76133",
+        "housePriceM2":  1751,
+        "houseSales":  44
+    },
+    {
+        "code":  "76648",
+        "housePriceM2":  1504,
+        "houseSales":  114
+    },
+    {
+        "code":  "76510",
+        "housePriceM2":  2011,
+        "houseSales":  11
+    },
+    {
+        "code":  "76345",
+        "housePriceM2":  1497,
+        "houseSales":  28
+    },
+    {
+        "code":  "76657",
+        "housePriceM2":  2489,
+        "houseSales":  57
+    },
+    {
+        "code":  "76280",
+        "housePriceM2":  1345,
+        "houseSales":  12
+    },
+    {
+        "code":  "76742",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76694",
+        "code":  "76140",
+        "housePriceM2":  1479,
+        "houseSales":  9
+    },
+    {
+        "code":  "76754",
+        "housePriceM2":  2891,
+        "houseSales":  105
+    },
+    {
+        "code":  "76308",
+        "housePriceM2":  1593,
+        "houseSales":  24
+    },
+    {
+        "code":  "76759",
+        "housePriceM2":  1773,
+        "houseSales":  23
+    },
+    {
+        "code":  "76570",
+        "housePriceM2":  1938,
+        "houseSales":  7
+    },
+    {
+        "code":  "76304",
+        "housePriceM2":  2099,
+        "houseSales":  18
+    },
+    {
+        "code":  "76715",
+        "housePriceM2":  1970,
+        "houseSales":  40
+    },
+    {
+        "code":  "76540",
+        "housePriceM2":  2777,
+        "houseSales":  1892
+    },
+    {
+        "code":  "76387",
+        "housePriceM2":  1747,
+        "houseSales":  32
+    },
+    {
+        "code":  "76500",
+        "housePriceM2":  1382,
+        "houseSales":  30
+    },
+    {
+        "code":  "76386",
+        "housePriceM2":  1889,
+        "houseSales":  17
+    },
+    {
+        "code":  "76054",
+        "housePriceM2":  1484,
+        "houseSales":  35
+    },
+    {
+        "code":  "76340",
+        "housePriceM2":  1542,
+        "houseSales":  38
+    },
+    {
+        "code":  "76654",
+        "housePriceM2":  1880,
+        "houseSales":  16
+    },
+    {
+        "code":  "76727",
+        "housePriceM2":  1746,
+        "houseSales":  67
+    },
+    {
+        "code":  "76331",
+        "housePriceM2":  1810,
+        "houseSales":  46
+    },
+    {
+        "code":  "76278",
+        "housePriceM2":  1132,
+        "houseSales":  30
+    },
+    {
+        "code":  "76465",
+        "housePriceM2":  1507,
+        "houseSales":  32
+    },
+    {
+        "code":  "76315",
+        "housePriceM2":  1605,
+        "houseSales":  52
+    },
+    {
+        "code":  "76099",
+        "housePriceM2":  1935,
+        "houseSales":  43
+    },
+    {
+        "code":  "76469",
+        "housePriceM2":  1685,
+        "houseSales":  32
+    },
+    {
+        "code":  "76473",
+        "housePriceM2":  1930,
+        "houseSales":  36
+    },
+    {
+        "code":  "76460",
+        "housePriceM2":  1308,
+        "houseSales":  38
+    },
+    {
+        "code":  "76131",
+        "housePriceM2":  1930,
+        "houseSales":  41
+    },
+    {
+        "code":  "76374",
+        "housePriceM2":  1514,
+        "houseSales":  84
+    },
+    {
+        "code":  "76025",
+        "housePriceM2":  1461,
+        "houseSales":  29
+    },
+    {
+        "code":  "76696",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76695",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76490",
+        "housePriceM2":  1620,
+        "houseSales":  65
     },
     {
-        "code":  "76697",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76207",
+        "housePriceM2":  1481,
+        "houseSales":  15
     },
     {
-        "code":  "76698",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76135",
+        "housePriceM2":  1875,
+        "houseSales":  48
     },
     {
-        "code":  "76699",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76677",
+        "housePriceM2":  1273,
+        "houseSales":  13
     },
     {
-        "code":  "76700",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76206",
+        "housePriceM2":  2388,
+        "houseSales":  23
     },
     {
-        "code":  "76702",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76183",
+        "housePriceM2":  1779,
+        "houseSales":  32
     },
     {
-        "code":  "76703",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76209",
+        "housePriceM2":  1677,
+        "houseSales":  35
     },
     {
-        "code":  "76705",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76360",
+        "housePriceM2":  1605,
+        "houseSales":  35
     },
     {
-        "code":  "76706",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76389",
+        "housePriceM2":  2047,
+        "houseSales":  15
     },
     {
-        "code":  "76707",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76184",
+        "housePriceM2":  1984,
+        "houseSales":  9
     },
     {
-        "code":  "76708",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76208",
+        "housePriceM2":  1869,
+        "houseSales":  43
     },
     {
-        "code":  "76709",
+        "code":  "76086",
+        "housePriceM2":  1636,
+        "houseSales":  11
+    },
+    {
+        "code":  "76332",
+        "housePriceM2":  1319,
+        "houseSales":  30
+    },
+    {
+        "code":  "76251",
+        "housePriceM2":  1415,
+        "houseSales":  19
+    },
+    {
+        "code":  "76421",
+        "housePriceM2":  1990,
+        "houseSales":  61
+    },
+    {
+        "code":  "76388",
+        "housePriceM2":  1857,
+        "houseSales":  29
+    },
+    {
+        "code":  "76396",
+        "housePriceM2":  1964,
+        "houseSales":  16
+    },
+    {
+        "code":  "76639",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
         "code":  "76710",
+        "housePriceM2":  2319,
+        "houseSales":  5
+    },
+    {
+        "code":  "76634",
+        "housePriceM2":  1802,
+        "houseSales":  34
+    },
+    {
+        "code":  "76437",
+        "housePriceM2":  1761,
+        "houseSales":  44
+    },
+    {
+        "code":  "76622",
+        "housePriceM2":  1865,
+        "houseSales":  14
+    },
+    {
+        "code":  "76029",
+        "housePriceM2":  1600,
+        "houseSales":  13
+    },
+    {
+        "code":  "76436",
+        "housePriceM2":  2247,
+        "houseSales":  36
+    },
+    {
+        "code":  "76024",
+        "housePriceM2":  2053,
+        "houseSales":  12
+    },
+    {
+        "code":  "76620",
+        "housePriceM2":  1892,
+        "houseSales":  20
+    },
+    {
+        "code":  "76531",
+        "housePriceM2":  2289,
+        "houseSales":  15
+    },
+    {
+        "code":  "76499",
+        "housePriceM2":  1959,
+        "houseSales":  79
+    },
+    {
+        "code":  "76027",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76711",
+        "code":  "76532",
+        "housePriceM2":  1696,
+        "houseSales":  48
+    },
+    {
+        "code":  "76439",
+        "housePriceM2":  1808,
+        "houseSales":  18
+    },
+    {
+        "code":  "76197",
+        "housePriceM2":  1641,
+        "houseSales":  14
+    },
+    {
+        "code":  "76022",
+        "housePriceM2":  1755,
+        "houseSales":  16
+    },
+    {
+        "code":  "76194",
+        "housePriceM2":  2000,
+        "houseSales":  27
+    },
+    {
+        "code":  "76240",
+        "housePriceM2":  2045,
+        "houseSales":  45
+    },
+    {
+        "code":  "76199",
+        "housePriceM2":  1529,
+        "houseSales":  50
+    },
+    {
+        "code":  "76438",
+        "housePriceM2":  1493,
+        "houseSales":  11
+    },
+    {
+        "code":  "76403",
+        "housePriceM2":  1882,
+        "houseSales":  14
+    },
+    {
+        "code":  "76119",
+        "housePriceM2":  2151,
+        "houseSales":  6
+    },
+    {
+        "code":  "76161",
+        "housePriceM2":  1609,
+        "houseSales":  7
+    },
+    {
+        "code":  "76391",
+        "housePriceM2":  2000,
+        "houseSales":  113
+    },
+    {
+        "code":  "76116",
+        "housePriceM2":  2429,
+        "houseSales":  201
+    },
+    {
+        "code":  "76392",
+        "housePriceM2":  1481,
+        "houseSales":  71
+    },
+    {
+        "code":  "76627",
+        "housePriceM2":  2052,
+        "houseSales":  102
+    },
+    {
+        "code":  "76026",
+        "housePriceM2":  1886,
+        "houseSales":  158
+    },
+    {
+        "code":  "76624",
+        "housePriceM2":  1782,
+        "houseSales":  242
+    },
+    {
+        "code":  "76539",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76712",
+        "code":  "76117",
+        "housePriceM2":  2228,
+        "houseSales":  47
+    },
+    {
+        "code":  "76580",
+        "housePriceM2":  2366,
+        "houseSales":  41
+    },
+    {
+        "code":  "76566",
+        "housePriceM2":  1774,
+        "houseSales":  36
+    },
+    {
+        "code":  "76549",
+        "housePriceM2":  1840,
+        "houseSales":  4
+    },
+    {
+        "code":  "76569",
+        "housePriceM2":  1766,
+        "houseSales":  8
+    },
+    {
+        "code":  "76537",
+        "housePriceM2":  1518,
+        "houseSales":  13
+    },
+    {
+        "code":  "76034",
+        "housePriceM2":  1792,
+        "houseSales":  147
+    },
+    {
+        "code":  "76277",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76714",
+        "code":  "76394",
+        "housePriceM2":  1597,
+        "houseSales":  29
+    },
+    {
+        "code":  "76263",
+        "housePriceM2":  1618,
+        "houseSales":  76
+    },
+    {
+        "code":  "76559",
+        "housePriceM2":  1689,
+        "houseSales":  30
+    },
+    {
+        "code":  "76169",
+        "housePriceM2":  2269,
+        "houseSales":  72
+    },
+    {
+        "code":  "76032",
+        "housePriceM2":  2479,
+        "houseSales":  13
+    },
+    {
+        "code":  "76221",
+        "housePriceM2":  2230,
+        "houseSales":  18
+    },
+    {
+        "code":  "76164",
+        "housePriceM2":  1783,
+        "houseSales":  180
+    },
+    {
+        "code":  "76602",
+        "housePriceM2":  1870,
+        "houseSales":  21
+    },
+    {
+        "code":  "76381",
+        "housePriceM2":  1633,
+        "houseSales":  11
+    },
+    {
+        "code":  "76173",
+        "housePriceM2":  1763,
+        "houseSales":  26
+    },
+    {
+        "code":  "76550",
+        "housePriceM2":  2239,
+        "houseSales":  47
+    },
+    {
+        "code":  "76085",
+        "housePriceM2":  1790,
+        "houseSales":  17
+    },
+    {
+        "code":  "76561",
+        "housePriceM2":  1873,
+        "houseSales":  382
+    },
+    {
+        "code":  "76104",
+        "housePriceM2":  2152,
+        "houseSales":  24
+    },
+    {
+        "code":  "76575",
+        "housePriceM2":  2113,
+        "houseSales":  1068
+    },
+    {
+        "code":  "76262",
+        "housePriceM2":  1594,
+        "houseSales":  8
+    },
+    {
+        "code":  "76293",
+        "housePriceM2":  1844,
+        "houseSales":  19
+    },
+    {
+        "code":  "76227",
+        "housePriceM2":  2057,
+        "houseSales":  34
+    },
+    {
+        "code":  "76094",
+        "housePriceM2":  2276,
+        "houseSales":  21
+    },
+    {
+        "code":  "76268",
+        "housePriceM2":  1611,
+        "houseSales":  9
+    },
+    {
+        "code":  "76511",
+        "housePriceM2":  1360,
+        "houseSales":  7
+    },
+    {
+        "code":  "76265",
+        "housePriceM2":  952,
+        "houseSales":  12
+    },
+    {
+        "code":  "76548",
+        "housePriceM2":  2193,
+        "houseSales":  34
+    },
+    {
+        "code":  "76541",
+        "housePriceM2":  2252,
+        "houseSales":  62
+    },
+    {
+        "code":  "76092",
+        "housePriceM2":  1830,
+        "houseSales":  51
+    },
+    {
+        "code":  "76174",
+        "housePriceM2":  1981,
+        "houseSales":  20
+    },
+    {
+        "code":  "76674",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76715",
+        "code":  "76295",
+        "housePriceM2":  1286,
+        "houseSales":  77
+    },
+    {
+        "code":  "76663",
+        "housePriceM2":  2000,
+        "houseSales":  73
+    },
+    {
+        "code":  "76298",
+        "housePriceM2":  1924,
+        "houseSales":  36
+    },
+    {
+        "code":  "76551",
+        "housePriceM2":  2466,
+        "houseSales":  36
+    },
+    {
+        "code":  "76134",
+        "housePriceM2":  1661,
+        "houseSales":  28
+    },
+    {
+        "code":  "76489",
+        "housePriceM2":  2252,
+        "houseSales":  28
+    },
+    {
+        "code":  "76573",
+        "housePriceM2":  1989,
+        "houseSales":  25
+    },
+    {
+        "code":  "76061",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76716",
+        "code":  "76547",
+        "housePriceM2":  2319,
+        "houseSales":  45
+    },
+    {
+        "code":  "76064",
+        "housePriceM2":  2067,
+        "houseSales":  29
+    },
+    {
+        "code":  "76067",
+        "housePriceM2":  1779,
+        "houseSales":  53
+    },
+    {
+        "code":  "76224",
+        "housePriceM2":  2306,
+        "houseSales":  55
+    },
+    {
+        "code":  "76474",
+        "housePriceM2":  2218,
+        "houseSales":  320
+    },
+    {
+        "code":  "76229",
+        "housePriceM2":  1772,
+        "houseSales":  20
+    },
+    {
+        "code":  "76477",
+        "housePriceM2":  2412,
+        "houseSales":  22
+    },
+    {
+        "code":  "76137",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76717",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76149",
+        "housePriceM2":  1909,
+        "houseSales":  12
     },
     {
-        "code":  "76718",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76305",
+        "housePriceM2":  2236,
+        "houseSales":  256
+    },
+    {
+        "code":  "76692",
+        "housePriceM2":  1801,
+        "houseSales":  16
+    },
+    {
+        "code":  "76144",
+        "housePriceM2":  1850,
+        "houseSales":  13
+    },
+    {
+        "code":  "76341",
+        "housePriceM2":  2255,
+        "houseSales":  278
+    },
+    {
+        "code":  "76481",
+        "housePriceM2":  3006,
+        "houseSales":  278
+    },
+    {
+        "code":  "76287",
+        "housePriceM2":  2112,
+        "houseSales":  56
+    },
+    {
+        "code":  "76152",
+        "housePriceM2":  1912,
+        "houseSales":  48
+    },
+    {
+        "code":  "76288",
+        "housePriceM2":  1741,
+        "houseSales":  22
+    },
+    {
+        "code":  "76689",
+        "housePriceM2":  1839,
+        "houseSales":  22
     },
     {
         "code":  "76719",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  1540,
+        "houseSales":  45
     },
     {
-        "code":  "76720",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76721",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76723",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76724",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76725",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76726",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76727",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76728",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76730",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76731",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76732",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76733",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76734",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76735",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76736",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76737",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76738",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76739",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76740",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76741",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76743",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76744",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76745",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76676",
+        "housePriceM2":  1638,
+        "houseSales":  43
     },
     {
         "code":  "76746",
+        "housePriceM2":  1915,
+        "houseSales":  23
+    },
+    {
+        "code":  "76073",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76747",
-        "housePriceM2":  null,
-        "houseSales":  0
-    },
-    {
-        "code":  "76748",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76109",
+        "housePriceM2":  1817,
+        "houseSales":  5
     },
     {
         "code":  "76749",
+        "housePriceM2":  1422,
+        "houseSales":  26
+    },
+    {
+        "code":  "76717",
+        "housePriceM2":  2100,
+        "houseSales":  39
+    },
+    {
+        "code":  "76074",
+        "housePriceM2":  2262,
+        "houseSales":  1
+    },
+    {
+        "code":  "76642",
+        "housePriceM2":  1714,
+        "houseSales":  19
+    },
+    {
+        "code":  "76106",
+        "housePriceM2":  2250,
+        "houseSales":  26
+    },
+    {
+        "code":  "76723",
+        "housePriceM2":  1714,
+        "houseSales":  21
+    },
+    {
+        "code":  "76011",
+        "housePriceM2":  2167,
+        "houseSales":  17
+    },
+    {
+        "code":  "76079",
+        "housePriceM2":  2598,
+        "houseSales":  10
+    },
+    {
+        "code":  "76349",
+        "housePriceM2":  2650,
+        "houseSales":  100
+    },
+    {
+        "code":  "76643",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76750",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76344",
+        "housePriceM2":  1178,
+        "houseSales":  36
     },
     {
-        "code":  "76751",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76681",
+        "housePriceM2":  2251,
+        "houseSales":  1332
     },
     {
-        "code":  "76752",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76157",
+        "housePriceM2":  2051,
+        "houseSales":  271
     },
     {
-        "code":  "76753",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76347",
+        "housePriceM2":  1732,
+        "houseSales":  14
     },
     {
-        "code":  "76754",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "code":  "76154",
+        "housePriceM2":  1438,
+        "houseSales":  26
+    },
+    {
+        "code":  "76353",
+        "housePriceM2":  1753,
+        "houseSales":  14
+    },
+    {
+        "code":  "76535",
+        "housePriceM2":  1600,
+        "houseSales":  35
+    },
+    {
+        "code":  "76733",
+        "housePriceM2":  1683,
+        "houseSales":  12
+    },
+    {
+        "code":  "76741",
+        "housePriceM2":  2320,
+        "houseSales":  23
     },
     {
         "code":  "76755",
-        "housePriceM2":  null,
-        "houseSales":  0
+        "housePriceM2":  1604,
+        "houseSales":  34
     },
     {
         "code":  "76756",
+        "housePriceM2":  1796,
+        "houseSales":  12
+    },
+    {
+        "code":  "76176",
+        "housePriceM2":  2121,
+        "houseSales":  15
+    },
+    {
+        "code":  "76725",
+        "housePriceM2":  1980,
+        "houseSales":  29
+    },
+    {
+        "code":  "76598",
+        "housePriceM2":  1269,
+        "houseSales":  34
+    },
+    {
+        "code":  "76354",
+        "housePriceM2":  2220,
+        "houseSales":  73
+    },
+    {
+        "code":  "76470",
+        "housePriceM2":  1768,
+        "houseSales":  40
+    },
+    {
+        "code":  "76362",
+        "housePriceM2":  1651,
+        "houseSales":  23
+    },
+    {
+        "code":  "76118",
+        "housePriceM2":  1821,
+        "houseSales":  12
+    },
+    {
+        "code":  "76361",
+        "housePriceM2":  2484,
+        "houseSales":  35
+    },
+    {
+        "code":  "76120",
+        "housePriceM2":  1920,
+        "houseSales":  28
+    },
+    {
+        "code":  "76058",
+        "housePriceM2":  1959,
+        "houseSales":  13
+    },
+    {
+        "code":  "76753",
+        "housePriceM2":  2296,
+        "houseSales":  73
+    },
+    {
+        "code":  "76055",
+        "housePriceM2":  1882,
+        "houseSales":  24
+    },
+    {
+        "code":  "76501",
+        "housePriceM2":  2349,
+        "houseSales":  14
+    },
+    {
+        "code":  "76057",
+        "housePriceM2":  2011,
+        "houseSales":  539
+    },
+    {
+        "code":  "76056",
+        "housePriceM2":  1844,
+        "houseSales":  42
+    },
+    {
+        "code":  "76113",
+        "housePriceM2":  1872,
+        "houseSales":  20
+    },
+    {
+        "code":  "76697",
+        "housePriceM2":  1594,
+        "houseSales":  51
+    },
+    {
+        "code":  "76317",
+        "housePriceM2":  1966,
+        "houseSales":  22
+    },
+    {
+        "code":  "76369",
+        "housePriceM2":  1804,
+        "houseSales":  33
+    },
+    {
+        "code":  "76318",
+        "housePriceM2":  1963,
+        "houseSales":  21
+    },
+    {
+        "code":  "76316",
+        "housePriceM2":  2063,
+        "houseSales":  22
+    },
+    {
+        "code":  "76103",
+        "housePriceM2":  2713,
+        "houseSales":  227
+    },
+    {
+        "code":  "76191",
         "housePriceM2":  null,
         "houseSales":  0
+    },
+    {
+        "code":  "76640",
+        "housePriceM2":  1908,
+        "houseSales":  398
+    },
+    {
+        "code":  "76668",
+        "housePriceM2":  1852,
+        "houseSales":  28
+    },
+    {
+        "code":  "76337",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76296",
+        "housePriceM2":  2410,
+        "houseSales":  119
+    },
+    {
+        "code":  "76326",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76325",
+        "housePriceM2":  1816,
+        "houseSales":  38
+    },
+    {
+        "code":  "76578",
+        "housePriceM2":  1746,
+        "houseSales":  21
+    },
+    {
+        "code":  "76328",
+        "housePriceM2":  1988,
+        "houseSales":  22
+    },
+    {
+        "code":  "76498",
+        "housePriceM2":  1981,
+        "houseSales":  883
+    },
+    {
+        "code":  "76453",
+        "housePriceM2":  2087,
+        "houseSales":  67
+    },
+    {
+        "code":  "76266",
+        "housePriceM2":  1992,
+        "houseSales":  24
+    },
+    {
+        "code":  "76450",
+        "housePriceM2":  1806,
+        "houseSales":  23
+    },
+    {
+        "code":  "76607",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76142",
+        "housePriceM2":  1688,
+        "houseSales":  21
+    },
+    {
+        "code":  "76346",
+        "housePriceM2":  1339,
+        "houseSales":  16
+    },
+    {
+        "code":  "76250",
+        "housePriceM2":  2250,
+        "houseSales":  45
+    },
+    {
+        "code":  "76605",
+        "housePriceM2":  2909,
+        "houseSales":  43
+    },
+    {
+        "code":  "76336",
+        "housePriceM2":  2012,
+        "houseSales":  40
+    },
+    {
+        "code":  "76515",
+        "housePriceM2":  2405,
+        "houseSales":  53
+    },
+    {
+        "code":  "76338",
+        "housePriceM2":  1568,
+        "houseSales":  15
+    },
+    {
+        "code":  "76028",
+        "housePriceM2":  1252,
+        "houseSales":  6
+    },
+    {
+        "code":  "76021",
+        "housePriceM2":  1982,
+        "houseSales":  33
+    },
+    {
+        "code":  "76649",
+        "housePriceM2":  1789,
+        "houseSales":  36
+    },
+    {
+        "code":  "76090",
+        "housePriceM2":  2080,
+        "houseSales":  72
+    },
+    {
+        "code":  "76311",
+        "housePriceM2":  2024,
+        "houseSales":  13
+    },
+    {
+        "code":  "76621",
+        "housePriceM2":  1761,
+        "houseSales":  66
+    },
+    {
+        "code":  "76652",
+        "housePriceM2":  1634,
+        "houseSales":  55
+    },
+    {
+        "code":  "76558",
+        "housePriceM2":  2294,
+        "houseSales":  67
+    },
+    {
+        "code":  "76379",
+        "housePriceM2":  2000,
+        "houseSales":  9
+    },
+    {
+        "code":  "76038",
+        "housePriceM2":  2261,
+        "houseSales":  11
+    },
+    {
+        "code":  "76035",
+        "housePriceM2":  1253,
+        "houseSales":  112
+    },
+    {
+        "code":  "76036",
+        "housePriceM2":  1996,
+        "houseSales":  46
+    },
+    {
+        "code":  "76527",
+        "housePriceM2":  1288,
+        "houseSales":  38
+    },
+    {
+        "code":  "76123",
+        "housePriceM2":  2398,
+        "houseSales":  66
+    },
+    {
+        "code":  "76033",
+        "housePriceM2":  2200,
+        "houseSales":  27
+    },
+    {
+        "code":  "76412",
+        "housePriceM2":  1898,
+        "houseSales":  46
+    },
+    {
+        "code":  "76432",
+        "housePriceM2":  1643,
+        "houseSales":  19
+    },
+    {
+        "code":  "76390",
+        "housePriceM2":  2175,
+        "houseSales":  83
+    },
+    {
+        "code":  "76166",
+        "housePriceM2":  1425,
+        "houseSales":  20
+    },
+    {
+        "code":  "76270",
+        "housePriceM2":  3114,
+        "houseSales":  142
+    },
+    {
+        "code":  "76572",
+        "housePriceM2":  1677,
+        "houseSales":  6
+    },
+    {
+        "code":  "76563",
+        "housePriceM2":  2347,
+        "houseSales":  92
+    },
+    {
+        "code":  "76292",
+        "housePriceM2":  1472,
+        "houseSales":  7
+    },
+    {
+        "code":  "76330",
+        "housePriceM2":  2009,
+        "houseSales":  51
+    },
+    {
+        "code":  "76463",
+        "housePriceM2":  1741,
+        "houseSales":  33
+    },
+    {
+        "code":  "76435",
+        "housePriceM2":  1878,
+        "houseSales":  44
+    },
+    {
+        "code":  "76175",
+        "housePriceM2":  1577,
+        "houseSales":  13
+    },
+    {
+        "code":  "76294",
+        "housePriceM2":  1880,
+        "houseSales":  37
+    },
+    {
+        "code":  "76422",
+        "housePriceM2":  1260,
+        "houseSales":  12
+    },
+    {
+        "code":  "76491",
+        "housePriceM2":  1769,
+        "houseSales":  50
+    },
+    {
+        "code":  "76297",
+        "housePriceM2":  1659,
+        "houseSales":  22
+    },
+    {
+        "code":  "76616",
+        "housePriceM2":  2576,
+        "houseSales":  101
+    },
+    {
+        "code":  "76728",
+        "housePriceM2":  2333,
+        "houseSales":  63
+    },
+    {
+        "code":  "76300",
+        "housePriceM2":  2113,
+        "houseSales":  34
+    },
+    {
+        "code":  "76195",
+        "housePriceM2":  1384,
+        "houseSales":  12
+    },
+    {
+        "code":  "76083",
+        "housePriceM2":  2250,
+        "houseSales":  5
+    },
+    {
+        "code":  "76143",
+        "housePriceM2":  2097,
+        "houseSales":  60
+    },
+    {
+        "code":  "76487",
+        "housePriceM2":  1659,
+        "houseSales":  24
+    },
+    {
+        "code":  "76281",
+        "housePriceM2":  2000,
+        "houseSales":  98
+    },
+    {
+        "code":  "76546",
+        "housePriceM2":  1538,
+        "houseSales":  18
+    },
+    {
+        "code":  "76484",
+        "housePriceM2":  1900,
+        "houseSales":  511
+    },
+    {
+        "code":  "76063",
+        "housePriceM2":  1734,
+        "houseSales":  36
+    },
+    {
+        "code":  "76545",
+        "housePriceM2":  2130,
+        "houseSales":  88
+    },
+    {
+        "code":  "76066",
+        "housePriceM2":  2085,
+        "houseSales":  8
+    },
+    {
+        "code":  "76018",
+        "housePriceM2":  1752,
+        "houseSales":  85
+    },
+    {
+        "code":  "76713",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76069",
+        "housePriceM2":  2584,
+        "houseSales":  97
+    },
+    {
+        "code":  "76015",
+        "housePriceM2":  1905,
+        "houseSales":  65
+    },
+    {
+        "code":  "76476",
+        "housePriceM2":  1808,
+        "houseSales":  539
+    },
+    {
+        "code":  "76592",
+        "housePriceM2":  1904,
+        "houseSales":  36
+    },
+    {
+        "code":  "76012",
+        "housePriceM2":  1754,
+        "houseSales":  13
+    },
+    {
+        "code":  "76479",
+        "housePriceM2":  988,
+        "houseSales":  21
+    },
+    {
+        "code":  "76148",
+        "housePriceM2":  1647,
+        "houseSales":  23
+    },
+    {
+        "code":  "76147",
+        "housePriceM2":  1847,
+        "houseSales":  61
+    },
+    {
+        "code":  "76455",
+        "housePriceM2":  1739,
+        "houseSales":  23
+    },
+    {
+        "code":  "76593",
+        "housePriceM2":  2050,
+        "houseSales":  32
+    },
+    {
+        "code":  "76482",
+        "housePriceM2":  2277,
+        "houseSales":  134
+    },
+    {
+        "code":  "76284",
+        "housePriceM2":  1763,
+        "houseSales":  8
+    },
+    {
+        "code":  "76153",
+        "housePriceM2":  1632,
+        "houseSales":  10
+    },
+    {
+        "code":  "76682",
+        "housePriceM2":  2218,
+        "houseSales":  31
+    },
+    {
+        "code":  "76343",
+        "housePriceM2":  1141,
+        "houseSales":  18
+    },
+    {
+        "code":  "76289",
+        "housePriceM2":  1857,
+        "houseSales":  83
+    },
+    {
+        "code":  "76261",
+        "housePriceM2":  1624,
+        "houseSales":  28
+    },
+    {
+        "code":  "76748",
+        "housePriceM2":  1870,
+        "houseSales":  55
+    },
+    {
+        "code":  "76714",
+        "housePriceM2":  2185,
+        "houseSales":  51
+    },
+    {
+        "code":  "76075",
+        "housePriceM2":  1912,
+        "houseSales":  24
+    },
+    {
+        "code":  "76722",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76480",
+        "housePriceM2":  2100,
+        "houseSales":  32
+    },
+    {
+        "code":  "76076",
+        "housePriceM2":  1772,
+        "houseSales":  13
+    },
+    {
+        "code":  "76721",
+        "housePriceM2":  1623,
+        "houseSales":  15
+    },
+    {
+        "code":  "76348",
+        "housePriceM2":  1808,
+        "houseSales":  44
+    },
+    {
+        "code":  "76466",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76158",
+        "housePriceM2":  1789,
+        "houseSales":  23
+    },
+    {
+        "code":  "76612",
+        "housePriceM2":  1273,
+        "houseSales":  19
+    },
+    {
+        "code":  "76683",
+        "housePriceM2":  2128,
+        "houseSales":  27
     },
     {
         "code":  "76757",
+        "housePriceM2":  1811,
+        "houseSales":  39
+    },
+    {
+        "code":  "76729",
         "housePriceM2":  null,
         "houseSales":  0
+    },
+    {
+        "code":  "76204",
+        "housePriceM2":  1683,
+        "houseSales":  18
+    },
+    {
+        "code":  "76724",
+        "housePriceM2":  1913,
+        "houseSales":  11
+    },
+    {
+        "code":  "76732",
+        "housePriceM2":  1947,
+        "houseSales":  23
+    },
+    {
+        "code":  "76002",
+        "housePriceM2":  1983,
+        "houseSales":  36
+    },
+    {
+        "code":  "76740",
+        "housePriceM2":  2206,
+        "houseSales":  22
+    },
+    {
+        "code":  "76049",
+        "housePriceM2":  1421,
+        "houseSales":  27
+    },
+    {
+        "code":  "76571",
+        "housePriceM2":  1882,
+        "houseSales":  39
+    },
+    {
+        "code":  "76631",
+        "housePriceM2":  1907,
+        "houseSales":  77
+    },
+    {
+        "code":  "76355",
+        "housePriceM2":  1707,
+        "houseSales":  69
+    },
+    {
+        "code":  "76459",
+        "housePriceM2":  1194,
+        "houseSales":  27
+    },
+    {
+        "code":  "76003",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76356",
+        "housePriceM2":  1347,
+        "houseSales":  11
+    },
+    {
+        "code":  "76752",
+        "housePriceM2":  1842,
+        "houseSales":  142
+    },
+    {
+        "code":  "76720",
+        "housePriceM2":  3171,
+        "houseSales":  77
+    },
+    {
+        "code":  "76242",
+        "housePriceM2":  1972,
+        "houseSales":  15
+    },
+    {
+        "code":  "76365",
+        "housePriceM2":  2316,
+        "houseSales":  11
+    },
+    {
+        "code":  "76410",
+        "housePriceM2":  2115,
+        "houseSales":  270
+    },
+    {
+        "code":  "76507",
+        "housePriceM2":  1589,
+        "houseSales":  54
+    },
+    {
+        "code":  "76243",
+        "housePriceM2":  2006,
+        "houseSales":  15
+    },
+    {
+        "code":  "76504",
+        "housePriceM2":  1909,
+        "houseSales":  14
+    },
+    {
+        "code":  "76053",
+        "housePriceM2":  1754,
+        "houseSales":  18
+    },
+    {
+        "code":  "76485",
+        "housePriceM2":  1495,
+        "houseSales":  19
+    },
+    {
+        "code":  "76737",
+        "housePriceM2":  1863,
+        "houseSales":  38
+    },
+    {
+        "code":  "76429",
+        "housePriceM2":  2763,
+        "houseSales":  368
+    },
+    {
+        "code":  "76509",
+        "housePriceM2":  2362,
+        "houseSales":  90
+    },
+    {
+        "code":  "76734",
+        "housePriceM2":  2420,
+        "houseSales":  21
+    },
+    {
+        "code":  "76425",
+        "housePriceM2":  1652,
+        "houseSales":  18
+    },
+    {
+        "code":  "76656",
+        "housePriceM2":  1707,
+        "houseSales":  39
+    },
+    {
+        "code":  "76006",
+        "housePriceM2":  1832,
+        "houseSales":  15
+    },
+    {
+        "code":  "76486",
+        "housePriceM2":  1627,
+        "houseSales":  61
+    },
+    {
+        "code":  "76659",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76314",
+        "housePriceM2":  2136,
+        "houseSales":  29
+    },
+    {
+        "code":  "76368",
+        "housePriceM2":  2430,
+        "houseSales":  15
+    },
+    {
+        "code":  "76319",
+        "housePriceM2":  1975,
+        "houseSales":  366
+    },
+    {
+        "code":  "76367",
+        "housePriceM2":  2590,
+        "houseSales":  140
+    },
+    {
+        "code":  "76373",
+        "housePriceM2":  1807,
+        "houseSales":  22
+    },
+    {
+        "code":  "76060",
+        "housePriceM2":  1619,
+        "houseSales":  36
+    },
+    {
+        "code":  "76610",
+        "housePriceM2":  2193,
+        "houseSales":  67
+    },
+    {
+        "code":  "76709",
+        "housePriceM2":  1667,
+        "houseSales":  282
+    },
+    {
+        "code":  "76400",
+        "housePriceM2":  1883,
+        "houseSales":  115
+    },
+    {
+        "code":  "76651",
+        "housePriceM2":  1537,
+        "houseSales":  6
+    },
+    {
+        "code":  "76586",
+        "housePriceM2":  2088,
+        "houseSales":  44
+    },
+    {
+        "code":  "76645",
+        "housePriceM2":  1705,
+        "houseSales":  9
+    },
+    {
+        "code":  "76585",
+        "housePriceM2":  1751,
+        "houseSales":  10
+    },
+    {
+        "code":  "76312",
+        "housePriceM2":  1574,
+        "houseSales":  272
+    },
+    {
+        "code":  "76324",
+        "housePriceM2":  2091,
+        "houseSales":  29
+    },
+    {
+        "code":  "76378",
+        "housePriceM2":  1970,
+        "houseSales":  100
+    },
+    {
+        "code":  "76020",
+        "housePriceM2":  1889,
+        "houseSales":  61
+    },
+    {
+        "code":  "76375",
+        "housePriceM2":  2129,
+        "houseSales":  19
+    },
+    {
+        "code":  "76716",
+        "housePriceM2":  2313,
+        "houseSales":  65
+    },
+    {
+        "code":  "76215",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76701",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76218",
+        "housePriceM2":  1875,
+        "houseSales":  15
+    },
+    {
+        "code":  "76702",
+        "housePriceM2":  2116,
+        "houseSales":  58
+    },
+    {
+        "code":  "76600",
+        "housePriceM2":  2226,
+        "houseSales":  119
+    },
+    {
+        "code":  "76718",
+        "housePriceM2":  1959,
+        "houseSales":  80
+    },
+    {
+        "code":  "76514",
+        "housePriceM2":  2333,
+        "houseSales":  49
+    },
+    {
+        "code":  "76687",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76080",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76101",
+        "housePriceM2":  1468,
+        "houseSales":  142
+    },
+    {
+        "code":  "76180",
+        "housePriceM2":  1619,
+        "houseSales":  12
+    },
+    {
+        "code":  "76472",
+        "housePriceM2":  1878,
+        "houseSales":  43
+    },
+    {
+        "code":  "76417",
+        "housePriceM2":  1682,
+        "houseSales":  17
+    },
+    {
+        "code":  "76222",
+        "housePriceM2":  2049,
+        "houseSales":  195
+    },
+    {
+        "code":  "76334",
+        "housePriceM2":  1555,
+        "houseSales":  42
+    },
+    {
+        "code":  "76339",
+        "housePriceM2":  1589,
+        "houseSales":  11
+    },
+    {
+        "code":  "76213",
+        "housePriceM2":  1847,
+        "houseSales":  23
+    },
+    {
+        "code":  "76223",
+        "housePriceM2":  1954,
+        "houseSales":  27
+    },
+    {
+        "code":  "76630",
+        "housePriceM2":  1832,
+        "houseSales":  10
+    },
+    {
+        "code":  "76398",
+        "housePriceM2":  1966,
+        "houseSales":  50
+    },
+    {
+        "code":  "76132",
+        "housePriceM2":  1771,
+        "houseSales":  28
+    },
+    {
+        "code":  "76155",
+        "housePriceM2":  1795,
+        "houseSales":  24
+    },
+    {
+        "code":  "76380",
+        "housePriceM2":  1713,
+        "houseSales":  15
+    },
+    {
+        "code":  "76694",
+        "housePriceM2":  2007,
+        "houseSales":  5
+    },
+    {
+        "code":  "76039",
+        "housePriceM2":  2183,
+        "houseSales":  68
+    },
+    {
+        "code":  "76030",
+        "housePriceM2":  1971,
+        "houseSales":  29
+    },
+    {
+        "code":  "76037",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76125",
+        "housePriceM2":  1756,
+        "houseSales":  88
+    },
+    {
+        "code":  "76145",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76665",
+        "housePriceM2":  1731,
+        "houseSales":  26
+    },
+    {
+        "code":  "76431",
+        "housePriceM2":  1732,
+        "houseSales":  12
     },
     {
         "code":  "76758",
+        "housePriceM2":  2118,
+        "houseSales":  467
+    },
+    {
+        "code":  "76574",
+        "housePriceM2":  1951,
+        "houseSales":  36
+    },
+    {
+        "code":  "76521",
+        "housePriceM2":  2092,
+        "houseSales":  7
+    },
+    {
+        "code":  "76231",
+        "housePriceM2":  1720,
+        "houseSales":  307
+    },
+    {
+        "code":  "76160",
+        "housePriceM2":  2042,
+        "houseSales":  27
+    },
+    {
+        "code":  "76599",
+        "housePriceM2":  2318,
+        "houseSales":  222
+    },
+    {
+        "code":  "76672",
+        "housePriceM2":  1385,
+        "houseSales":  61
+    },
+    {
+        "code":  "76494",
+        "housePriceM2":  2312,
+        "houseSales":  33
+    },
+    {
+        "code":  "76423",
+        "housePriceM2":  2381,
+        "houseSales":  12
+    },
+    {
+        "code":  "76736",
+        "housePriceM2":  2395,
+        "houseSales":  41
+    },
+    {
+        "code":  "76497",
+        "housePriceM2":  2062,
+        "houseSales":  289
+    },
+    {
+        "code":  "76434",
+        "housePriceM2":  2257,
+        "houseSales":  62
+    },
+    {
+        "code":  "76220",
+        "housePriceM2":  1769,
+        "houseSales":  29
+    },
+    {
+        "code":  "76690",
+        "housePriceM2":  2014,
+        "houseSales":  36
+    },
+    {
+        "code":  "76496",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "76759",
+        "code":  "76283",
+        "housePriceM2":  2295,
+        "houseSales":  11
+    },
+    {
+        "code":  "76062",
+        "housePriceM2":  1737,
+        "houseSales":  14
+    },
+    {
+        "code":  "76200",
+        "housePriceM2":  2153,
+        "houseSales":  24
+    },
+    {
+        "code":  "76065",
+        "housePriceM2":  1609,
+        "houseSales":  39
+    },
+    {
+        "code":  "76019",
+        "housePriceM2":  1987,
+        "houseSales":  25
+    },
+    {
+        "code":  "76068",
+        "housePriceM2":  1806,
+        "houseSales":  57
+    },
+    {
+        "code":  "76016",
+        "housePriceM2":  1906,
+        "houseSales":  13
+    },
+    {
+        "code":  "76013",
+        "housePriceM2":  2038,
+        "houseSales":  51
+    },
+    {
+        "code":  "76478",
+        "housePriceM2":  1446,
+        "houseSales":  15
+    },
+    {
+        "code":  "76424",
+        "housePriceM2":  1988,
+        "houseSales":  16
+    },
+    {
+        "code":  "76146",
+        "housePriceM2":  2006,
+        "houseSales":  155
+    },
+    {
+        "code":  "76285",
+        "housePriceM2":  1999,
+        "houseSales":  35
+    },
+    {
+        "code":  "76411",
+        "housePriceM2":  1503,
+        "houseSales":  14
+    },
+    {
+        "code":  "76286",
+        "housePriceM2":  1492,
+        "houseSales":  48
+    },
+    {
+        "code":  "76071",
+        "housePriceM2":  1720,
+        "houseSales":  30
+    },
+    {
+        "code":  "76557",
+        "housePriceM2":  1837,
+        "houseSales":  63
+    },
+    {
+        "code":  "76383",
+        "housePriceM2":  1440,
+        "houseSales":  5
+    },
+    {
+        "code":  "76072",
+        "housePriceM2":  1992,
+        "houseSales":  38
+    },
+    {
+        "code":  "76554",
+        "housePriceM2":  1624,
+        "houseSales":  18
+    },
+    {
+        "code":  "76077",
+        "housePriceM2":  1533,
+        "houseSales":  19
+    },
+    {
+        "code":  "76704",
         "housePriceM2":  null,
         "houseSales":  0
+    },
+    {
+        "code":  "76214",
+        "housePriceM2":  1329,
+        "houseSales":  9
+    },
+    {
+        "code":  "76078",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76467",
+        "housePriceM2":  1770,
+        "houseSales":  117
+    },
+    {
+        "code":  "76629",
+        "housePriceM2":  1806,
+        "houseSales":  14
+    },
+    {
+        "code":  "76468",
+        "housePriceM2":  1964,
+        "houseSales":  70
+    },
+    {
+        "code":  "76529",
+        "housePriceM2":  2317,
+        "houseSales":  9
+    },
+    {
+        "code":  "76159",
+        "housePriceM2":  1554,
+        "houseSales":  193
+    },
+    {
+        "code":  "76611",
+        "housePriceM2":  1884,
+        "houseSales":  18
+    },
+    {
+        "code":  "76107",
+        "housePriceM2":  1727,
+        "houseSales":  21
+    },
+    {
+        "code":  "76156",
+        "housePriceM2":  2033,
+        "houseSales":  28
+    },
+    {
+        "code":  "76351",
+        "housePriceM2":  2410,
+        "houseSales":  4146
+    },
+    {
+        "code":  "76695",
+        "housePriceM2":  1864,
+        "houseSales":  13
+    },
+    {
+        "code":  "76560",
+        "housePriceM2":  2426,
+        "houseSales":  54
+    },
+    {
+        "code":  "76105",
+        "housePriceM2":  2084,
+        "houseSales":  35
+    },
+    {
+        "code":  "76082",
+        "housePriceM2":  1899,
+        "houseSales":  35
+    },
+    {
+        "code":  "76138",
+        "housePriceM2":  1864,
+        "houseSales":  22
+    },
+    {
+        "code":  "76043",
+        "housePriceM2":  1983,
+        "houseSales":  49
+    },
+    {
+        "code":  "76100",
+        "housePriceM2":  2142,
+        "houseSales":  61
+    },
+    {
+        "code":  "76745",
+        "housePriceM2":  1254,
+        "houseSales":  6
+    },
+    {
+        "code":  "76046",
+        "housePriceM2":  2033,
+        "houseSales":  40
+    },
+    {
+        "code":  "76045",
+        "housePriceM2":  1805,
+        "houseSales":  16
+    },
+    {
+        "code":  "76619",
+        "housePriceM2":  1946,
+        "houseSales":  19
+    },
+    {
+        "code":  "76048",
+        "housePriceM2":  2070,
+        "houseSales":  20
+    },
+    {
+        "code":  "76614",
+        "housePriceM2":  2570,
+        "houseSales":  85
+    },
+    {
+        "code":  "76359",
+        "housePriceM2":  1817,
+        "houseSales":  14
+    },
+    {
+        "code":  "76047",
+        "housePriceM2":  1614,
+        "houseSales":  11
+    },
+    {
+        "code":  "76617",
+        "housePriceM2":  2856,
+        "houseSales":  123
+    },
+    {
+        "code":  "76122",
+        "housePriceM2":  1386,
+        "houseSales":  26
+    },
+    {
+        "code":  "76553",
+        "housePriceM2":  1558,
+        "houseSales":  20
+    },
+    {
+        "code":  "76458",
+        "housePriceM2":  1564,
+        "houseSales":  7
+    },
+    {
+        "code":  "76115",
+        "housePriceM2":  1886,
+        "houseSales":  40
+    },
+    {
+        "code":  "76201",
+        "housePriceM2":  1765,
+        "houseSales":  30
+    },
+    {
+        "code":  "76357",
+        "housePriceM2":  2403,
+        "houseSales":  24
+    },
+    {
+        "code":  "76363",
+        "housePriceM2":  1443,
+        "houseSales":  24
+    },
+    {
+        "code":  "76524",
+        "housePriceM2":  1526,
+        "houseSales":  10
+    },
+    {
+        "code":  "76203",
+        "housePriceM2":  1812,
+        "houseSales":  41
+    },
+    {
+        "code":  "76253",
+        "housePriceM2":  2049,
+        "houseSales":  33
+    },
+    {
+        "code":  "76202",
+        "housePriceM2":  1717,
+        "houseSales":  16
+    },
+    {
+        "code":  "76505",
+        "housePriceM2":  1420,
+        "houseSales":  7
+    },
+    {
+        "code":  "76307",
+        "housePriceM2":  2506,
+        "houseSales":  64
+    },
+    {
+        "code":  "76738",
+        "housePriceM2":  2138,
+        "houseSales":  36
+    },
+    {
+        "code":  "76051",
+        "housePriceM2":  1756,
+        "houseSales":  89
+    },
+    {
+        "code":  "76675",
+        "housePriceM2":  2021,
+        "houseSales":  52
+    },
+    {
+        "code":  "76655",
+        "housePriceM2":  1977,
+        "houseSales":  262
+    },
+    {
+        "code":  "76446",
+        "housePriceM2":  2792,
+        "houseSales":  78
+    },
+    {
+        "code":  "76658",
+        "housePriceM2":  2163,
+        "houseSales":  35
+    },
+    {
+        "code":  "76632",
+        "housePriceM2":  1895,
+        "houseSales":  21
+    },
+    {
+        "code":  "76366",
+        "housePriceM2":  1921,
+        "houseSales":  255
+    },
+    {
+        "code":  "76258",
+        "housePriceM2":  1797,
+        "houseSales":  206
+    },
+    {
+        "code":  "76009",
+        "housePriceM2":  1688,
+        "houseSales":  11
+    },
+    {
+        "code":  "76256",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76502",
+        "housePriceM2":  2202,
+        "houseSales":  26
+    },
+    {
+        "code":  "76211",
+        "housePriceM2":  1351,
+        "houseSales":  17
+    },
+    {
+        "code":  "76536",
+        "housePriceM2":  2423,
+        "houseSales":  70
+    },
+    {
+        "code":  "76705",
+        "housePriceM2":  2121,
+        "houseSales":  110
+    },
+    {
+        "code":  "76706",
+        "housePriceM2":  2113,
+        "houseSales":  57
+    },
+    {
+        "code":  "76276",
+        "housePriceM2":  1571,
+        "houseSales":  215
+    },
+    {
+        "code":  "76216",
+        "housePriceM2":  2156,
+        "houseSales":  407
+    },
+    {
+        "code":  "76589",
+        "housePriceM2":  2035,
+        "houseSales":  8
+    },
+    {
+        "code":  "76443",
+        "housePriceM2":  2168,
+        "houseSales":  42
+    },
+    {
+        "code":  "76167",
+        "housePriceM2":  2511,
+        "houseSales":  85
+    },
+    {
+        "code":  "76653",
+        "housePriceM2":  1713,
+        "houseSales":  30
+    },
+    {
+        "code":  "76430",
+        "housePriceM2":  1429,
+        "houseSales":  9
+    },
+    {
+        "code":  "76584",
+        "housePriceM2":  1380,
+        "houseSales":  14
+    },
+    {
+        "code":  "76382",
+        "housePriceM2":  1791,
+        "houseSales":  81
+    },
+    {
+        "code":  "76313",
+        "housePriceM2":  2279,
+        "houseSales":  46
+    },
+    {
+        "code":  "76327",
+        "housePriceM2":  1976,
+        "houseSales":  28
+    },
+    {
+        "code":  "76376",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76329",
+        "housePriceM2":  1887,
+        "houseSales":  151
+    },
+    {
+        "code":  "76248",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76217",
+        "housePriceM2":  2176,
+        "houseSales":  939
+    },
+    {
+        "code":  "76245",
+        "housePriceM2":  2198,
+        "houseSales":  82
+    },
+    {
+        "code":  "76414",
+        "housePriceM2":  2205,
+        "houseSales":  76
+    },
+    {
+        "code":  "76582",
+        "housePriceM2":  1776,
+        "houseSales":  15
+    },
+    {
+        "code":  "76703",
+        "housePriceM2":  1847,
+        "houseSales":  6
+    },
+    {
+        "code":  "76246",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76306",
+        "housePriceM2":  1743,
+        "houseSales":  11
+    },
+    {
+        "code":  "76493",
+        "housePriceM2":  1556,
+        "houseSales":  13
+    },
+    {
+        "code":  "76464",
+        "housePriceM2":  2272,
+        "houseSales":  128
+    },
+    {
+        "code":  "76594",
+        "housePriceM2":  2274,
+        "houseSales":  84
+    },
+    {
+        "code":  "76321",
+        "housePriceM2":  1916,
+        "houseSales":  116
+    },
+    {
+        "code":  "76335",
+        "housePriceM2":  1146,
+        "houseSales":  2
+    },
+    {
+        "code":  "76452",
+        "housePriceM2":  2079,
+        "houseSales":  249
+    },
+    {
+        "code":  "76212",
+        "housePriceM2":  2075,
+        "houseSales":  349
+    },
+    {
+        "code":  "76440",
+        "housePriceM2":  2036,
+        "houseSales":  14
+    },
+    {
+        "code":  "76405",
+        "housePriceM2":  1229,
+        "houseSales":  7
+    },
+    {
+        "code":  "76520",
+        "housePriceM2":  1490,
+        "houseSales":  36
+    },
+    {
+        "code":  "76678",
+        "housePriceM2":  1560,
+        "houseSales":  75
+    },
+    {
+        "code":  "76102",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76583",
+        "housePriceM2":  2097,
+        "houseSales":  15
+    },
+    {
+        "code":  "76001",
+        "housePriceM2":  1810,
+        "houseSales":  48
+    },
+    {
+        "code":  "76299",
+        "housePriceM2":  1912,
+        "houseSales":  20
+    },
+    {
+        "code":  "76712",
+        "housePriceM2":  1917,
+        "houseSales":  41
+    },
+    {
+        "code":  "76352",
+        "housePriceM2":  1777,
+        "houseSales":  30
+    },
+    {
+        "code":  "76111",
+        "housePriceM2":  2260,
+        "houseSales":  29
+    },
+    {
+        "code":  "76699",
+        "housePriceM2":  1558,
+        "houseSales":  31
+    },
+    {
+        "code":  "76234",
+        "housePriceM2":  2000,
+        "houseSales":  33
+    },
+    {
+        "code":  "76129",
+        "housePriceM2":  1792,
+        "houseSales":  11
+    },
+    {
+        "code":  "76128",
+        "housePriceM2":  1822,
+        "houseSales":  48
+    },
+    {
+        "code":  "76650",
+        "housePriceM2":  2278,
+        "houseSales":  55
+    },
+    {
+        "code":  "76236",
+        "housePriceM2":  1731,
+        "houseSales":  27
+    },
+    {
+        "code":  "76646",
+        "housePriceM2":  1765,
+        "houseSales":  43
+    },
+    {
+        "code":  "76492",
+        "housePriceM2":  1859,
+        "houseSales":  36
+    },
+    {
+        "code":  "76451",
+        "housePriceM2":  3394,
+        "houseSales":  541
+    },
+    {
+        "code":  "76141",
+        "housePriceM2":  1933,
+        "houseSales":  70
+    },
+    {
+        "code":  "76433",
+        "housePriceM2":  1987,
+        "houseSales":  38
+    },
+    {
+        "code":  "76609",
+        "housePriceM2":  2282,
+        "houseSales":  20
+    },
+    {
+        "code":  "76604",
+        "housePriceM2":  1600,
+        "houseSales":  13
+    },
+    {
+        "code":  "76070",
+        "housePriceM2":  1414,
+        "houseSales":  49
+    },
+    {
+        "code":  "76608",
+        "housePriceM2":  2000,
+        "houseSales":  97
+    },
+    {
+        "code":  "76233",
+        "housePriceM2":  1378,
+        "houseSales":  11
+    },
+    {
+        "code":  "76302",
+        "housePriceM2":  2152,
+        "houseSales":  134
+    },
+    {
+        "code":  "76384",
+        "housePriceM2":  1613,
+        "houseSales":  413
+    },
+    {
+        "code":  "76260",
+        "housePriceM2":  1698,
+        "houseSales":  97
+    },
+    {
+        "code":  "76726",
+        "housePriceM2":  2253,
+        "houseSales":  22
+    },
+    {
+        "code":  "76647",
+        "housePriceM2":  2361,
+        "houseSales":  239
+    },
+    {
+        "code":  "76290",
+        "housePriceM2":  2206,
+        "houseSales":  16
+    },
+    {
+        "code":  "76404",
+        "housePriceM2":  2326,
+        "houseSales":  91
+    },
+    {
+        "code":  "76730",
+        "housePriceM2":  1542,
+        "houseSales":  10
+    },
+    {
+        "code":  "76644",
+        "housePriceM2":  1684,
+        "houseSales":  27
+    },
+    {
+        "code":  "76471",
+        "housePriceM2":  1938,
+        "houseSales":  64
+    },
+    {
+        "code":  "76660",
+        "housePriceM2":  2250,
+        "houseSales":  41
+    },
+    {
+        "code":  "76017",
+        "housePriceM2":  2496,
+        "houseSales":  28
+    },
+    {
+        "code":  "76014",
+        "housePriceM2":  2474,
+        "houseSales":  74
+    },
+    {
+        "code":  "76420",
+        "housePriceM2":  1929,
+        "houseSales":  22
+    },
+    {
+        "code":  "76419",
+        "housePriceM2":  1879,
+        "houseSales":  15
+    },
+    {
+        "code":  "76377",
+        "housePriceM2":  2957,
+        "houseSales":  155
+    },
+    {
+        "code":  "76230",
+        "housePriceM2":  1894,
+        "houseSales":  26
+    },
+    {
+        "code":  "76418",
+        "housePriceM2":  1936,
+        "houseSales":  46
+    },
+    {
+        "code":  "76310",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76664",
+        "housePriceM2":  1321,
+        "houseSales":  25
+    },
+    {
+        "code":  "76700",
+        "housePriceM2":  1534,
+        "houseSales":  66
+    },
+    {
+        "code":  "76050",
+        "housePriceM2":  1861,
+        "houseSales":  54
+    },
+    {
+        "code":  "76010",
+        "housePriceM2":  1430,
+        "houseSales":  14
+    },
+    {
+        "code":  "76590",
+        "housePriceM2":  1562,
+        "houseSales":  19
+    },
+    {
+        "code":  "76301",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76564",
+        "housePriceM2":  2315,
+        "houseSales":  36
+    },
+    {
+        "code":  "76613",
+        "housePriceM2":  2017,
+        "houseSales":  75
+    },
+    {
+        "code":  "76743",
+        "housePriceM2":  1885,
+        "houseSales":  116
+    },
+    {
+        "code":  "76130",
+        "housePriceM2":  1541,
+        "houseSales":  19
+    },
+    {
+        "code":  "76088",
+        "housePriceM2":  1798,
+        "houseSales":  35
+    },
+    {
+        "code":  "76731",
+        "housePriceM2":  2409,
+        "houseSales":  5
+    },
+    {
+        "code":  "76112",
+        "housePriceM2":  2018,
+        "houseSales":  13
+    },
+    {
+        "code":  "76042",
+        "housePriceM2":  1708,
+        "houseSales":  8
+    },
+    {
+        "code":  "76041",
+        "housePriceM2":  2060,
+        "houseSales":  60
+    },
+    {
+        "code":  "76461",
+        "housePriceM2":  1802,
+        "houseSales":  21
+    },
+    {
+        "code":  "76525",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76618",
+        "housePriceM2":  2000,
+        "houseSales":  516
+    },
+    {
+        "code":  "76358",
+        "housePriceM2":  1912,
+        "houseSales":  15
+    },
+    {
+        "code":  "76004",
+        "housePriceM2":  1935,
+        "houseSales":  23
+    },
+    {
+        "code":  "76454",
+        "housePriceM2":  567,
+        "houseSales":  5
+    },
+    {
+        "code":  "76151",
+        "housePriceM2":  1923,
+        "houseSales":  13
+    },
+    {
+        "code":  "76114",
+        "housePriceM2":  1458,
+        "houseSales":  658
+    },
+    {
+        "code":  "76252",
+        "housePriceM2":  1910,
+        "houseSales":  49
+    },
+    {
+        "code":  "76506",
+        "housePriceM2":  1875,
+        "houseSales":  23
+    },
+    {
+        "code":  "76739",
+        "housePriceM2":  1176,
+        "houseSales":  29
+    },
+    {
+        "code":  "76205",
+        "housePriceM2":  1663,
+        "houseSales":  20
+    },
+    {
+        "code":  "76448",
+        "housePriceM2":  2351,
+        "houseSales":  81
+    },
+    {
+        "code":  "76508",
+        "housePriceM2":  2412,
+        "houseSales":  31
+    },
+    {
+        "code":  "76182",
+        "housePriceM2":  1732,
+        "houseSales":  8
+    },
+    {
+        "code":  "76447",
+        "housePriceM2":  2393,
+        "houseSales":  722
+    },
+    {
+        "code":  "76181",
+        "housePriceM2":  2271,
+        "houseSales":  12
+    },
+    {
+        "code":  "76059",
+        "housePriceM2":  1771,
+        "houseSales":  19
+    },
+    {
+        "code":  "76444",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76449",
+        "housePriceM2":  1738,
+        "houseSales":  37
+    },
+    {
+        "code":  "76005",
+        "housePriceM2":  2088,
+        "houseSales":  197
+    },
+    {
+        "code":  "76139",
+        "housePriceM2":  1538,
+        "houseSales":  13
+    },
+    {
+        "code":  "76735",
+        "housePriceM2":  3240,
+        "houseSales":  55
+    },
+    {
+        "code":  "76110",
+        "housePriceM2":  1903,
+        "houseSales":  10
+    },
+    {
+        "code":  "76255",
+        "housePriceM2":  1802,
+        "houseSales":  382
+    },
+    {
+        "code":  "76503",
+        "housePriceM2":  1995,
+        "houseSales":  43
+    },
+    {
+        "code":  "76187",
+        "housePriceM2":  1715,
+        "houseSales":  12
+    },
+    {
+        "code":  "76707",
+        "housePriceM2":  2076,
+        "houseSales":  74
+    },
+    {
+        "code":  "76399",
+        "housePriceM2":  1295,
+        "houseSales":  22
+    },
+    {
+        "code":  "76708",
+        "housePriceM2":  1862,
+        "houseSales":  30
+    },
+    {
+        "code":  "76588",
+        "housePriceM2":  1841,
+        "houseSales":  28
+    },
+    {
+        "code":  "76407",
+        "housePriceM2":  2148,
+        "houseSales":  24
+    },
+    {
+        "code":  "76192",
+        "housePriceM2":  2241,
+        "houseSales":  331
+    },
+    {
+        "code":  "76556",
+        "housePriceM2":  2024,
+        "houseSales":  52
+    },
+    {
+        "code":  "76638",
+        "housePriceM2":  1733,
+        "houseSales":  50
+    },
+    {
+        "code":  "76483",
+        "housePriceM2":  1807,
+        "houseSales":  22
+    },
+    {
+        "code":  "76637",
+        "housePriceM2":  2131,
+        "houseSales":  79
+    },
+    {
+        "code":  "76409",
+        "housePriceM2":  2495,
+        "houseSales":  43
+    },
+    {
+        "code":  "76623",
+        "housePriceM2":  1734,
+        "houseSales":  10
+    },
+    {
+        "code":  "76007",
+        "housePriceM2":  1963,
+        "houseSales":  40
+    },
+    {
+        "code":  "76671",
+        "housePriceM2":  1756,
+        "houseSales":  13
+    },
+    {
+        "code":  "76219",
+        "housePriceM2":  1581,
+        "houseSales":  160
+    },
+    {
+        "code":  "76247",
+        "housePriceM2":  2055,
+        "houseSales":  30
+    },
+    {
+        "code":  "76364",
+        "housePriceM2":  1889,
+        "houseSales":  27
+    },
+    {
+        "code":  "76273",
+        "housePriceM2":  2562,
+        "houseSales":  38
+    },
+    {
+        "code":  "76475",
+        "housePriceM2":  2733,
+        "houseSales":  328
+    },
+    {
+        "code":  "76402",
+        "housePriceM2":  2143,
+        "houseSales":  332
+    },
+    {
+        "code":  "76641",
+        "housePriceM2":  2003,
+        "houseSales":  22
+    },
+    {
+        "code":  "76401",
+        "housePriceM2":  1818,
+        "houseSales":  156
+    },
+    {
+        "code":  "76606",
+        "housePriceM2":  1321,
+        "houseSales":  10
+    },
+    {
+        "code":  "76517",
+        "housePriceM2":  2571,
+        "houseSales":  153
+    },
+    {
+        "code":  "76530",
+        "housePriceM2":  2023,
+        "houseSales":  17
+    },
+    {
+        "code":  "76163",
+        "housePriceM2":  2053,
+        "houseSales":  35
+    },
+    {
+        "code":  "76372",
+        "housePriceM2":  1637,
+        "houseSales":  20
+    },
+    {
+        "code":  "76595",
+        "housePriceM2":  2448,
+        "houseSales":  118
+    },
+    {
+        "code":  "76393",
+        "housePriceM2":  950,
+        "houseSales":  1
+    },
+    {
+        "code":  "76628",
+        "housePriceM2":  1722,
+        "houseSales":  44
+    },
+    {
+        "code":  "76426",
+        "housePriceM2":  1930,
+        "houseSales":  16
+    },
+    {
+        "code":  "76518",
+        "housePriceM2":  1592,
+        "houseSales":  38
+    },
+    {
+        "code":  "76189",
+        "housePriceM2":  2034,
+        "houseSales":  15
+    },
+    {
+        "code":  "76565",
+        "housePriceM2":  2200,
+        "houseSales":  49
+    },
+    {
+        "code":  "76257",
+        "housePriceM2":  1296,
+        "houseSales":  15
+    },
+    {
+        "code":  "76568",
+        "housePriceM2":  2008,
+        "houseSales":  31
+    },
+    {
+        "code":  "76555",
+        "housePriceM2":  2121,
+        "houseSales":  49
+    },
+    {
+        "code":  "76488",
+        "housePriceM2":  1678,
+        "houseSales":  20
+    },
+    {
+        "code":  "76395",
+        "housePriceM2":  2072,
+        "houseSales":  43
+    },
+    {
+        "code":  "76031",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76601",
+        "housePriceM2":  1758,
+        "houseSales":  22
+    },
+    {
+        "code":  "76309",
+        "housePriceM2":  1912,
+        "houseSales":  10
+    },
+    {
+        "code":  "76126",
+        "housePriceM2":  2079,
+        "houseSales":  21
+    },
+    {
+        "code":  "76673",
+        "housePriceM2":  2073,
+        "houseSales":  63
+    },
+    {
+        "code":  "76210",
+        "housePriceM2":  1820,
+        "houseSales":  38
+    },
+    {
+        "code":  "76190",
+        "housePriceM2":  1614,
+        "houseSales":  17
+    },
+    {
+        "code":  "76333",
+        "housePriceM2":  1285,
+        "houseSales":  20
+    },
+    {
+        "code":  "76089",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76597",
+        "housePriceM2":  1192,
+        "houseSales":  49
+    },
+    {
+        "code":  "76084",
+        "housePriceM2":  1725,
+        "houseSales":  10
+    },
+    {
+        "code":  "76237",
+        "housePriceM2":  1895,
+        "houseSales":  27
+    },
+    {
+        "code":  "76269",
+        "housePriceM2":  1364,
+        "houseSales":  13
+    },
+    {
+        "code":  "76241",
+        "housePriceM2":  1778,
+        "houseSales":  11
+    },
+    {
+        "code":  "76239",
+        "housePriceM2":  2393,
+        "houseSales":  50
+    },
+    {
+        "code":  "76124",
+        "housePriceM2":  1651,
+        "houseSales":  32
+    },
+    {
+        "code":  "76093",
+        "housePriceM2":  1714,
+        "houseSales":  27
+    },
+    {
+        "code":  "76127",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76534",
+        "housePriceM2":  2088,
+        "houseSales":  55
+    },
+    {
+        "code":  "76542",
+        "housePriceM2":  1576,
+        "houseSales":  16
+    },
+    {
+        "code":  "76661",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "76097",
+        "housePriceM2":  1865,
+        "houseSales":  4
+    },
+    {
+        "code":  "76232",
+        "housePriceM2":  1791,
+        "houseSales":  37
+    },
+    {
+        "code":  "76581",
+        "housePriceM2":  1759,
+        "houseSales":  22
+    },
+    {
+        "code":  "76225",
+        "housePriceM2":  1812,
+        "houseSales":  36
+    },
+    {
+        "code":  "76543",
+        "housePriceM2":  2049,
+        "houseSales":  47
+    },
+    {
+        "code":  "76691",
+        "housePriceM2":  1543,
+        "houseSales":  12
+    },
+    {
+        "code":  "76519",
+        "housePriceM2":  1618,
+        "houseSales":  7
+    },
+    {
+        "code":  "76170",
+        "housePriceM2":  1798,
+        "houseSales":  5
     }
 ]

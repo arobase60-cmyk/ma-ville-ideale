@@ -1,621 +1,996 @@
-﻿[
+[
     {
-        "code":  "2A001",
+        "code":  "20054",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A004",
+        "code":  "20051",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A006",
+        "code":  "20052",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A008",
+        "code":  "20069",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A011",
+        "code":  "20064",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A014",
+        "code":  "20159",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A017",
+        "code":  "20063",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A018",
+        "code":  "20157",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A019",
+        "code":  "20110",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A021",
+        "code":  "20077",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A022",
+        "code":  "20071",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A024",
+        "code":  "20102",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A026",
+        "code":  "20078",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A027",
+        "code":  "20130",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A028",
+        "code":  "20192",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A031",
+        "code":  "20129",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A032",
+        "code":  "20124",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A035",
+        "code":  "20132",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A038",
+        "code":  "20033",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A040",
+        "code":  "20060",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A041",
+        "code":  "20137",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A048",
+        "code":  "20134",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A056",
+        "code":  "20146",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A060",
+        "code":  "20149",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A061",
+        "code":  "20141",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A062",
+        "code":  "20156",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A064",
+        "code":  "20048",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A065",
+        "code":  "20046",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A066",
+        "code":  "20041",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A070",
+        "code":  "20167",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A071",
+        "code":  "20169",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A085",
+        "code":  "20058",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A089",
+        "code":  "20055",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A090",
+        "code":  "20056",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A091",
+        "code":  "20053",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A092",
+        "code":  "20162",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A094",
+        "code":  "20199",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A098",
+        "code":  "20161",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A099",
+        "code":  "20175",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A100",
+        "code":  "20068",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A103",
+        "code":  "20062",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A104",
+        "code":  "20061",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A108",
+        "code":  "20025",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A114",
+        "code":  "20172",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A115",
+        "code":  "20188",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A117",
+        "code":  "20009",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A118",
+        "code":  "20186",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A119",
+        "code":  "20007",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A127",
+        "code":  "20075",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A128",
+        "code":  "20022",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A129",
+        "code":  "20072",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A130",
+        "code":  "20183",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A131",
+        "code":  "20120",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A132",
+        "code":  "20020",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A133",
+        "code":  "20112",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A139",
+        "code":  "20090",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A141",
+        "code":  "20016",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A142",
+        "code":  "20014",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A144",
+        "code":  "20143",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A146",
+        "code":  "20168",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A154",
+        "code":  "20158",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A158",
+        "code":  "20166",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A160",
+        "code":  "20165",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A163",
+        "code":  "20176",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A174",
+        "code":  "20178",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A181",
+        "code":  "20150",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A186",
+        "code":  "20066",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A189",
+        "code":  "20065",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A191",
+        "code":  "20104",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A196",
+        "code":  "20173",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A197",
+        "code":  "20185",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A198",
+        "code":  "20004",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A200",
+        "code":  "20079",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A203",
+        "code":  "20002",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A204",
+        "code":  "20073",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A209",
+        "code":  "20084",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A211",
+        "code":  "20087",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A212",
+        "code":  "20182",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A215",
+        "code":  "20083",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A228",
+        "code":  "20197",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A232",
+        "code":  "20070",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A240",
+        "code":  "20094",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A247",
+        "code":  "20191",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A249",
+        "code":  "20099",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A253",
+        "code":  "20154",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A254",
+        "code":  "20080",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A258",
+        "code":  "20074",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A259",
+        "code":  "20076",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A262",
+        "code":  "20140",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A266",
+        "code":  "20029",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A268",
+        "code":  "20100",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A269",
+        "code":  "20030",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A270",
+        "code":  "20040",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A271",
+        "code":  "20001",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A272",
+        "code":  "20163",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A276",
+        "code":  "20177",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A278",
+        "code":  "20006",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A279",
+        "code":  "20174",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A282",
+        "code":  "20179",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A284",
+        "code":  "20171",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A285",
+        "code":  "20189",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A288",
+        "code":  "20184",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A295",
+        "code":  "20008",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A300",
+        "code":  "20187",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A308",
+        "code":  "20005",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A310",
+        "code":  "20003",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A312",
+        "code":  "20113",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A322",
+        "code":  "20086",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A323",
+        "code":  "20181",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A324",
+        "code":  "20089",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A326",
+        "code":  "20082",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A330",
+        "code":  "20194",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A331",
+        "code":  "20114",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A336",
+        "code":  "20122",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A345",
+        "code":  "20121",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A348",
+        "code":  "20095",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A349",
+        "code":  "20096",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A351",
+        "code":  "20193",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A357",
+        "code":  "20091",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A358",
+        "code":  "20092",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A359",
+        "code":  "20027",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A360",
+        "code":  "20026",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A362",
+        "code":  "20021",
         "housePriceM2":  null,
         "houseSales":  0
     },
     {
-        "code":  "2A363",
+        "code":  "20109",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20024",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20011",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20017",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20018",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20023",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20028",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20155",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20031",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20036",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20038",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20101",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20190",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20097",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20085",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20088",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20198",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20081",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20195",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20118",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20196",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20115",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20116",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20098",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20093",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20128",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20107",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20127",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20133",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20105",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20067",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20106",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20138",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20135",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20145",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20103",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20148",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20019",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20045",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20043",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20160",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20032",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20037",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20034",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20059",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20039",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20057",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20180",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20050",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20035",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20111",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20119",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20117",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20015",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20123",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20012",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20013",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20170",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20126",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20125",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20153",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20131",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20108",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20139",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20136",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20144",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20147",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20010",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20142",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20049",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20044",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20047",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20042",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20151",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20152",
+        "housePriceM2":  null,
+        "houseSales":  0
+    },
+    {
+        "code":  "20164",
         "housePriceM2":  null,
         "houseSales":  0
     }
