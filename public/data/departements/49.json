@@ -46,8 +46,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  2.5,
+                         "burglaryRate":  8.3472931,
+                         "burglaryCount":  12
                      }
     },
     {
@@ -97,8 +98,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.7424774,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -148,8 +150,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  7,
+                         "burglaryRate":  1.6884713,
+                         "burglaryCount":  156
                      }
     },
     {
@@ -454,8 +457,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  2.5,
+                         "burglaryRate":  9.263347,
+                         "burglaryCount":  69
                      }
     },
     {
@@ -556,8 +560,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.3060557,
+                         "burglaryCount":  32
                      }
     },
     {
@@ -607,8 +612,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6.5,
+                         "burglaryRate":  2.3013277,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -658,8 +664,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.208213,
+                         "burglaryCount":  10
                      }
     },
     {
@@ -760,8 +767,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6.5,
+                         "burglaryRate":  2.6674774,
+                         "burglaryCount":  28
                      }
     },
     {
@@ -811,8 +819,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.5080775,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -913,8 +922,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  8,
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -1066,8 +1076,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.0921524,
+                         "burglaryCount":  18
                      }
     },
     {
@@ -1321,8 +1332,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.6187254,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -1372,8 +1384,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.7546249,
+                         "burglaryCount":  23
                      }
     },
     {
@@ -1474,8 +1487,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  1,
+                         "burglaryRate":  13.8312586,
+                         "burglaryCount":  20
                      }
     },
     {
@@ -1729,8 +1743,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  2.5,
+                         "burglaryRate":  8.7528995,
+                         "burglaryCount":  15
                      }
     },
     {
@@ -1831,8 +1846,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.5216817,
+                         "burglaryCount":  15
                      }
     },
     {
@@ -1984,8 +2000,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  1,
+                         "burglaryRate":  10.7553904,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -2137,8 +2154,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.9703759,
+                         "burglaryCount":  28
                      }
     },
     {
@@ -2392,8 +2410,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  7,
+                         "burglaryRate":  1.9920982,
+                         "burglaryCount":  19
                      }
     },
     {
@@ -2443,8 +2462,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.3596534,
+                         "burglaryCount":  122
                      }
     },
     {
@@ -2545,8 +2565,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  8,
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -2698,8 +2719,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  1,
+                         "burglaryRate":  13.1147496,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -3055,8 +3077,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.8088671,
+                         "burglaryCount":  32
                      }
     },
     {
@@ -3106,8 +3129,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.1486107,
+                         "burglaryCount":  39
                      }
     },
     {
@@ -3157,8 +3181,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6.5,
+                         "burglaryRate":  2.8719542,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -3208,8 +3233,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.1541492,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -3769,8 +3795,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.2665113,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -3973,8 +4000,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.3744803,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -4075,8 +4103,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.8343057,
+                         "burglaryCount":  20
                      }
     },
     {
@@ -4177,8 +4206,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.0485193,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -4279,8 +4309,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.5957913,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -4381,8 +4412,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.2888527,
+                         "burglaryCount":  13
                      }
     },
     {
@@ -4483,8 +4515,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  2.5,
+                         "burglaryRate":  7.7677697,
+                         "burglaryCount":  21
                      }
     },
     {
@@ -4738,8 +4771,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.1733785,
+                         "burglaryCount":  18
                      }
     },
     {
@@ -4789,8 +4823,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6.5,
+                         "burglaryRate":  2.4466618,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -4942,8 +4977,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.4871166,
+                         "burglaryCount":  32
                      }
     },
     {
@@ -5044,8 +5080,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.8806941,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -5197,8 +5234,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.8988415,
+                         "burglaryCount":  17
                      }
     },
     {
@@ -5299,8 +5337,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.097561,
+                         "burglaryCount":  21
                      }
     },
     {
@@ -5503,8 +5542,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  8,
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -5605,8 +5645,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  1,
+                         "burglaryRate":  11.1008326,
+                         "burglaryCount":  12
                      }
     },
     {
@@ -5656,8 +5697,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6.5,
+                         "burglaryRate":  2.9106795,
+                         "burglaryCount":  25
                      }
     },
     {
@@ -5707,8 +5749,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.285659,
+                         "burglaryCount":  35
                      }
     },
     {
@@ -5758,8 +5801,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  1,
+                         "burglaryRate":  11.0759104,
+                         "burglaryCount":  12
                      }
     },
     {
@@ -5809,8 +5853,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.3968968,
+                         "burglaryCount":  24
                      }
     },
     {
@@ -6064,8 +6109,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.6210081,
+                         "burglaryCount":  21
                      }
     },
     {
@@ -6217,8 +6263,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.1394856,
+                         "burglaryCount":  19
                      }
     },
     {
@@ -6319,8 +6366,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  2.5,
+                         "burglaryRate":  8.1029105,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -6421,8 +6469,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.2621257,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -6472,8 +6521,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.685007,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -6523,8 +6573,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  1,
+                         "burglaryRate":  11.0073462,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -6574,8 +6625,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  8,
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -6778,8 +6830,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  2.5,
+                         "burglaryRate":  8.5078534,
+                         "burglaryCount":  13
                      }
     },
     {
@@ -6880,8 +6933,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.5983562,
+                         "burglaryCount":  51
                      }
     },
     {
@@ -7033,8 +7087,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.5302046,
+                         "burglaryCount":  32
                      }
     },
     {
@@ -7237,8 +7292,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.2972467,
+                         "burglaryCount":  23
                      }
     },
     {
@@ -7339,8 +7395,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  5,
+                         "burglaryRate":  4.615723,
+                         "burglaryCount":  74
                      }
     },
     {
@@ -7492,8 +7549,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.2313422,
+                         "burglaryCount":  28
                      }
     },
     {
@@ -7594,8 +7652,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.6582275,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -7696,8 +7755,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  8,
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -7900,8 +7960,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  6.4697062,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -8053,8 +8114,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6.5,
+                         "burglaryRate":  2.3587681,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -8155,8 +8217,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.018234,
+                         "burglaryCount":  22
                      }
     },
     {
@@ -8308,8 +8371,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  8,
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -8512,8 +8576,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.8583762,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -8767,8 +8832,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  7,
+                         "burglaryRate":  1.7864284,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -8869,8 +8935,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  6,
+                         "burglaryRate":  3.8259999,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -8920,8 +8987,9 @@
                       "lastFloodCatNat":  null
                   },
         "security":  {
-                         "score":  null,
-                         "burglaryRate":  null
+                         "score":  4,
+                         "burglaryRate":  5.9939385,
+                         "burglaryCount":  7
                      }
     },
     {

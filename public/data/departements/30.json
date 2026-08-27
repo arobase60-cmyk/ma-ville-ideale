@@ -152,7 +152,8 @@
                   },
         "security":  {
                          "score":  6.5,
-                         "burglaryRate":  2.6037905
+                         "burglaryRate":  2.6037905,
+                         "burglaryCount":  14
                      }
     },
     {
@@ -204,7 +205,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.5259818
+                         "burglaryRate":  5.5259818,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -308,7 +310,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.1698949
+                         "burglaryRate":  3.1698949,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -360,7 +363,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.1468547
+                         "burglaryRate":  6.1468547,
+                         "burglaryCount":  158
                      }
     },
     {
@@ -464,7 +468,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -568,7 +573,8 @@
                   },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  14.3969263
+                         "burglaryRate":  14.3969263,
+                         "burglaryCount":  74
                      }
     },
     {
@@ -620,7 +626,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.2110092
+                         "burglaryRate":  3.2110092,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -724,7 +731,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.800312
+                         "burglaryRate":  7.800312,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -828,7 +836,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -880,7 +889,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -1140,7 +1150,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -1296,7 +1307,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -1452,7 +1464,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.2824405
+                         "burglaryRate":  3.2824405,
+                         "burglaryCount":  34
                      }
     },
     {
@@ -1660,7 +1673,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.3013228
+                         "burglaryRate":  3.3013228,
+                         "burglaryCount":  26
                      }
     },
     {
@@ -1712,7 +1726,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.1981507
+                         "burglaryRate":  3.1981507,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -1764,7 +1779,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.6982975
+                         "burglaryRate":  6.6982975,
+                         "burglaryCount":  24
                      }
     },
     {
@@ -1868,7 +1884,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.8293412
+                         "burglaryRate":  5.8293412,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -2024,7 +2041,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.2333037
+                         "burglaryRate":  6.2333037,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -2076,7 +2094,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -2284,7 +2303,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -2440,7 +2460,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.4680601
+                         "burglaryRate":  4.4680601,
+                         "burglaryCount":  13
                      }
     },
     {
@@ -3064,7 +3085,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.0754717
+                         "burglaryRate":  7.0754717,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -3116,7 +3138,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.0442487
+                         "burglaryRate":  3.0442487,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -3168,7 +3191,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.5181592
+                         "burglaryRate":  6.5181592,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -3220,7 +3244,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.4381675
+                         "burglaryRate":  3.4381675,
+                         "burglaryCount":  12
                      }
     },
     {
@@ -3272,7 +3297,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -3740,7 +3766,8 @@
                   },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  11.6685489
+                         "burglaryRate":  11.6685489,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -3792,7 +3819,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -3844,7 +3872,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.2341581
+                         "burglaryRate":  6.2341581,
+                         "burglaryCount":  13
                      }
     },
     {
@@ -4156,7 +4185,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.6825591
+                         "burglaryRate":  5.6825591,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -4208,7 +4238,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.5770944
+                         "burglaryRate":  6.5770944,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -4728,7 +4759,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -5716,7 +5748,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -5924,7 +5957,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.4375246
+                         "burglaryRate":  6.4375246,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -6184,7 +6218,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.7792035
+                         "burglaryRate":  8.7792035,
+                         "burglaryCount":  18
                      }
     },
     {
@@ -6288,7 +6323,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.4801562
+                         "burglaryRate":  5.4801562,
+                         "burglaryCount":  12
                      }
     },
     {
@@ -6444,7 +6480,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.0438718
+                         "burglaryRate":  3.0438718,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -6652,7 +6689,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.1224029
+                         "burglaryRate":  6.1224029,
+                         "burglaryCount":  19
                      }
     },
     {
@@ -6704,7 +6742,8 @@
                   },
         "security":  {
                          "score":  6.5,
-                         "burglaryRate":  2.1077836
+                         "burglaryRate":  2.1077836,
+                         "burglaryCount":  51
                      }
     },
     {
@@ -6912,7 +6951,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -7016,7 +7056,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -7120,7 +7161,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.8145933
+                         "burglaryRate":  3.8145933,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -7328,7 +7370,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.7278726
+                         "burglaryRate":  7.7278726,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -7744,7 +7787,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -7796,7 +7840,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -7848,7 +7893,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.8047872
+                         "burglaryRate":  3.8047872,
+                         "burglaryCount":  12
                      }
     },
     {
@@ -7900,7 +7946,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.9130973
+                         "burglaryRate":  8.9130973,
+                         "burglaryCount":  36
                      }
     },
     {
@@ -8524,7 +8571,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.839434
+                         "burglaryRate":  4.839434,
+                         "burglaryCount":  14
                      }
     },
     {
@@ -8732,7 +8780,8 @@
                   },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  12.291397
+                         "burglaryRate":  12.291397,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -8784,7 +8833,8 @@
                   },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  10.5442713
+                         "burglaryRate":  10.5442713,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -8888,7 +8938,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -9044,7 +9095,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.580339
+                         "burglaryRate":  3.580339,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -9356,7 +9408,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.0028011
+                         "burglaryRate":  7.0028011,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -9564,7 +9617,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.1318706
+                         "burglaryRate":  8.1318706,
+                         "burglaryCount":  705
                      }
     },
     {
@@ -10188,7 +10242,8 @@
                   },
         "security":  {
                          "score":  6.5,
-                         "burglaryRate":  2.4773206
+                         "burglaryRate":  2.4773206,
+                         "burglaryCount":  15
                      }
     },
     {
@@ -10396,7 +10451,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.2024037
+                         "burglaryRate":  4.2024037,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -10552,7 +10608,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  9.1683306
+                         "burglaryRate":  9.1683306,
+                         "burglaryCount":  18
                      }
     },
     {
@@ -10656,7 +10713,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.2661949
+                         "burglaryRate":  3.2661949,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -10708,7 +10766,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.2436191
+                         "burglaryRate":  8.2436191,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -10760,7 +10819,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -10812,7 +10872,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.7121498
+                         "burglaryRate":  8.7121498,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -10968,7 +11029,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  9.9557522
+                         "burglaryRate":  9.9557522,
+                         "burglaryCount":  36
                      }
     },
     {
@@ -11072,7 +11134,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -11176,7 +11239,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.5205404
+                         "burglaryRate":  4.5205404,
+                         "burglaryCount":  13
                      }
     },
     {
@@ -11280,7 +11344,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.3332572
+                         "burglaryRate":  4.3332572,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -11384,7 +11449,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.0683974
+                         "burglaryRate":  5.0683974,
+                         "burglaryCount":  5
                      }
     },
     {
@@ -11488,7 +11554,8 @@
                   },
         "security":  {
                          "score":  6.5,
-                         "burglaryRate":  2.4633697
+                         "burglaryRate":  2.4633697,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -11956,7 +12023,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -12060,7 +12128,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -12216,7 +12285,8 @@
                   },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  11.3483913
+                         "burglaryRate":  11.3483913,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -12268,7 +12338,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -12320,7 +12391,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.5304955
+                         "burglaryRate":  6.5304955,
+                         "burglaryCount":  23
                      }
     },
     {
@@ -12476,7 +12548,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -13048,7 +13121,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.1499079
+                         "burglaryRate":  8.1499079,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -13100,7 +13174,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.6777718
+                         "burglaryRate":  4.6777718,
+                         "burglaryCount":  33
                      }
     },
     {
@@ -13152,7 +13227,8 @@
                   },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  13.5477875
+                         "burglaryRate":  13.5477875,
+                         "burglaryCount":  31
                      }
     },
     {
@@ -13360,7 +13436,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.3140731
+                         "burglaryRate":  6.3140731,
+                         "burglaryCount":  15
                      }
     },
     {
@@ -13932,7 +14009,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.7637356
+                         "burglaryRate":  4.7637356,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -14036,7 +14114,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.2940202
+                         "burglaryRate":  3.2940202,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -14400,7 +14479,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -14452,7 +14532,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.6542401
+                         "burglaryRate":  8.6542401,
+                         "burglaryCount":  20
                      }
     },
     {
@@ -14556,7 +14637,8 @@
                   },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  23.6504681
+                         "burglaryRate":  23.6504681,
+                         "burglaryCount":  12
                      }
     },
     {
@@ -14972,7 +15054,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.8852855
+                         "burglaryRate":  7.8852855,
+                         "burglaryCount":  21
                      }
     },
     {
@@ -15024,7 +15107,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.2485432
+                         "burglaryRate":  8.2485432,
+                         "burglaryCount":  15
                      }
     },
     {
@@ -15232,7 +15316,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  9.8218542
+                         "burglaryRate":  9.8218542,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -15388,7 +15473,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.4856832
+                         "burglaryRate":  5.4856832,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -15544,7 +15630,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  9.0900501
+                         "burglaryRate":  9.0900501,
+                         "burglaryCount":  17
                      }
     },
     {
@@ -15648,7 +15735,8 @@
                   },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.1551247
+                         "burglaryRate":  4.1551247,
+                         "burglaryCount":  6
                      }
     },
     {
@@ -16064,7 +16152,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.7474011
+                         "burglaryRate":  6.7474011,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -16116,7 +16205,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -16376,7 +16466,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.9355993
+                         "burglaryRate":  3.9355993,
+                         "burglaryCount":  11
                      }
     },
     {
@@ -16896,7 +16987,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.3682008
+                         "burglaryRate":  8.3682008,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -16948,7 +17040,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -17000,7 +17093,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.0772478
+                         "burglaryRate":  3.0772478,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -17052,7 +17146,8 @@
                   },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.7956121
+                         "burglaryRate":  3.7956121,
+                         "burglaryCount":  23
                      }
     },
     {
@@ -17104,7 +17199,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -17416,7 +17512,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.5111565
+                         "burglaryRate":  6.5111565,
+                         "burglaryCount":  38
                      }
     },
     {
@@ -17572,7 +17669,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.0552359
+                         "burglaryRate":  8.0552359,
+                         "burglaryCount":  21
                      }
     },
     {
@@ -17676,7 +17774,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.5037079
+                         "burglaryRate":  7.5037079,
+                         "burglaryCount":  8
                      }
     },
     {
@@ -17780,7 +17879,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.5433044
+                         "burglaryRate":  6.5433044,
+                         "burglaryCount":  7
                      }
     },
     {
@@ -17936,7 +18036,8 @@
                   },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.7636181
+                         "burglaryRate":  5.7636181,
+                         "burglaryCount":  43
                      }
     },
     {
@@ -17988,7 +18089,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  9.083397
+                         "burglaryRate":  9.083397,
+                         "burglaryCount":  9
                      }
     },
     {
@@ -18040,7 +18142,8 @@
                   },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      }
     },
     {
@@ -18196,7 +18299,8 @@
                   },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.6717023
+                         "burglaryRate":  8.6717023,
+                         "burglaryCount":  12
                      }
     }
 ]

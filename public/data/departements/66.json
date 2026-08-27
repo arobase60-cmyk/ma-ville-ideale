@@ -41,7 +41,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "mapLat":  42.4833689,
         "mapLng":  2.8934766
@@ -88,7 +89,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.2422596
+                         "burglaryRate":  5.2422596,
+                         "burglaryCount":  10
                      },
         "mapLat":  42.6390997,
         "mapLng":  2.9806725
@@ -135,7 +137,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.3739616
+                         "burglaryRate":  3.3739616,
+                         "burglaryCount":  18
                      },
         "mapLat":  42.4508434,
         "mapLng":  2.6782493
@@ -323,7 +326,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "mapLat":  42.663411,
         "mapLng":  2.4858428
@@ -370,7 +374,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.8093802
+                         "burglaryRate":  3.8093802,
+                         "burglaryCount":  60
                      },
         "mapLat":  42.5476734,
         "mapLng":  3.0253613
@@ -417,7 +422,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.3997829
+                         "burglaryRate":  6.3997829,
+                         "burglaryCount":  12
                      },
         "mapLat":  42.4562149,
         "mapLng":  2.6343451
@@ -464,7 +470,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "mapLat":  42.5562715,
         "mapLng":  2.1888018
@@ -511,7 +518,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.226186
+                         "burglaryRate":  3.226186,
+                         "burglaryCount":  8
                      },
         "mapLat":  43.1236647,
         "mapLng":  2.9924502
@@ -746,7 +754,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.9370932
+                         "burglaryRate":  5.9370932,
+                         "burglaryCount":  30
                      },
         "mapLat":  42.4794084,
         "mapLng":  3.1275893
@@ -793,7 +802,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  7,
-                         "burglaryRate":  1.9209989
+                         "burglaryRate":  1.9209989,
+                         "burglaryCount":  32
                      },
         "mapLat":  42.7946794,
         "mapLng":  3.0335243
@@ -840,7 +850,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "mapLat":  42.546487,
         "mapLng":  2.5881237
@@ -981,7 +992,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.3224748
+                         "burglaryRate":  8.3224748,
+                         "burglaryCount":  32
                      },
         "mapLat":  42.8661676,
         "mapLng":  1.6139895
@@ -1028,7 +1040,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "mapLat":  42.5796325,
         "mapLng":  2.6137323
@@ -1122,7 +1135,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.41336
+                         "burglaryRate":  5.41336,
+                         "burglaryCount":  20
                      },
         "mapLat":  42.5259989,
         "mapLng":  2.8337158
@@ -1310,7 +1324,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.6395831
+                         "burglaryRate":  7.6395831,
+                         "burglaryCount":  38
                      },
         "mapLat":  42.6799514,
         "mapLng":  2.9403263
@@ -1404,7 +1419,8 @@
         "sunHours":  1732,
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "mapLat":  42.7580466,
         "mapLng":  2.7554474
@@ -1544,7 +1560,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6507135,
@@ -1591,7 +1608,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.709814,
@@ -1638,7 +1656,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5370948,
@@ -1685,7 +1704,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.6280312
+                         "burglaryRate":  5.6280312,
+                         "burglaryCount":  91
                      },
         "sunHours":  1732,
         "mapLat":  42.704359,
@@ -1732,7 +1752,8 @@
                        },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.6407923
+                         "burglaryRate":  4.6407923,
+                         "burglaryCount":  15
                      },
         "sunHours":  1732,
         "mapLat":  42.6533713,
@@ -1779,7 +1800,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7348587,
@@ -1826,7 +1848,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.615768,
@@ -1920,7 +1943,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  44.558174,
@@ -1967,7 +1991,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5320998,
@@ -2155,7 +2180,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5670807,
@@ -2202,7 +2228,8 @@
                        },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  10.6666667
+                         "burglaryRate":  10.6666667,
+                         "burglaryCount":  16
                      },
         "sunHours":  1732,
         "mapLat":  42.4412951,
@@ -2249,7 +2276,8 @@
                        },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.2616268
+                         "burglaryRate":  4.2616268,
+                         "burglaryCount":  23
                      },
         "sunHours":  1732,
         "mapLat":  42.485804,
@@ -2296,7 +2324,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.8960286
+                         "burglaryRate":  5.8960286,
+                         "burglaryCount":  14
                      },
         "sunHours":  1732,
         "mapLat":  42.7601553,
@@ -2484,7 +2513,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6137737,
@@ -2813,7 +2843,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.3675578,
@@ -3001,7 +3032,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.7481606
+                         "burglaryRate":  6.7481606,
+                         "burglaryCount":  34
                      },
         "sunHours":  1732,
         "mapLat":  42.6015016,
@@ -3142,7 +3174,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5366016,
@@ -3189,7 +3222,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.7816319
+                         "burglaryRate":  5.7816319,
+                         "burglaryCount":  10
                      },
         "sunHours":  1732,
         "mapLat":  42.7761929,
@@ -3283,7 +3317,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.3065272
+                         "burglaryRate":  5.3065272,
+                         "burglaryCount":  7
                      },
         "sunHours":  1732,
         "mapLat":  42.7719102,
@@ -3377,7 +3412,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6014178,
@@ -3471,7 +3507,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.4736324,
@@ -3659,7 +3696,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6144628,
@@ -3753,7 +3791,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6367266,
@@ -3847,7 +3886,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7881402,
@@ -3988,7 +4028,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5895138,
@@ -4035,7 +4076,8 @@
                        },
         "security":  {
                          "score":  6.5,
-                         "burglaryRate":  2.7949448
+                         "burglaryRate":  2.7949448,
+                         "burglaryCount":  9
                      },
         "sunHours":  1732,
         "mapLat":  42.6709665,
@@ -4176,7 +4218,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.3602429,
@@ -4223,7 +4266,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  43.2214113,
@@ -4270,7 +4314,8 @@
                        },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  14.8063781
+                         "burglaryRate":  14.8063781,
+                         "burglaryCount":  26
                      },
         "sunHours":  1732,
         "mapLat":  42.52284,
@@ -4458,7 +4503,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.8003165,
@@ -4599,7 +4645,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.4553415,
@@ -4693,7 +4740,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.4774046,
@@ -4787,7 +4835,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6235726,
@@ -4834,7 +4883,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5866989,
@@ -4881,7 +4931,8 @@
                        },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  8.3986562
+                         "burglaryRate":  8.3986562,
+                         "burglaryCount":  15
                      },
         "sunHours":  1732,
         "mapLat":  42.48966,
@@ -4975,7 +5026,8 @@
                        },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  11.727746
+                         "burglaryRate":  11.727746,
+                         "burglaryCount":  26
                      },
         "sunHours":  1732,
         "mapLat":  42.692017,
@@ -5022,7 +5074,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6524451,
@@ -5163,7 +5216,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.4843532,
@@ -5210,7 +5264,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.1811859
+                         "burglaryRate":  6.1811859,
+                         "burglaryCount":  5
                      },
         "sunHours":  1732,
         "mapLat":  42.6083382,
@@ -5351,7 +5406,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5096936,
@@ -5445,7 +5501,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6687546,
@@ -5633,7 +5690,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5330676,
@@ -5727,7 +5785,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5936269,
@@ -5868,7 +5927,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5595942,
@@ -6056,7 +6116,8 @@
                        },
         "security":  {
                          "score":  6.5,
-                         "burglaryRate":  2.915963
+                         "burglaryRate":  2.915963,
+                         "burglaryCount":  5
                      },
         "sunHours":  1732,
         "mapLat":  42.5717989,
@@ -6151,7 +6212,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.4261123
+                         "burglaryRate":  6.4261123,
+                         "burglaryCount":  479
                      },
         "sunHours":  1732,
         "mapLat":  42.6985304,
@@ -6292,7 +6354,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7382701,
@@ -6386,7 +6449,8 @@
                        },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  9.319903
+                         "burglaryRate":  9.319903,
+                         "burglaryCount":  45
                      },
         "sunHours":  1732,
         "mapLat":  42.7452716,
@@ -6433,7 +6497,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.4920348,
@@ -6480,7 +6545,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7666433,
@@ -6527,7 +6593,8 @@
                        },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  14.7655962
+                         "burglaryRate":  14.7655962,
+                         "burglaryCount":  40
                      },
         "sunHours":  1732,
         "mapLat":  42.6420519,
@@ -6715,7 +6782,8 @@
                        },
         "security":  {
                          "score":  7,
-                         "burglaryRate":  1.3259923
+                         "burglaryRate":  1.3259923,
+                         "burglaryCount":  5
                      },
         "sunHours":  1732,
         "mapLat":  42.5204146,
@@ -6856,7 +6924,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7441979,
@@ -7185,7 +7254,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7656419,
@@ -7232,7 +7302,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6308814,
@@ -7420,7 +7491,8 @@
                        },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  10.6023886
+                         "burglaryRate":  10.6023886,
+                         "burglaryCount":  52
                      },
         "sunHours":  1732,
         "mapLat":  42.7683568,
@@ -7655,7 +7727,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7796949,
@@ -7702,7 +7775,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6145969,
@@ -7749,7 +7823,8 @@
                        },
         "security":  {
                          "score":  7,
-                         "burglaryRate":  1.8687256
+                         "burglaryRate":  1.8687256,
+                         "burglaryCount":  33
                      },
         "sunHours":  1732,
         "mapLat":  44.8693315,
@@ -7796,7 +7871,8 @@
                        },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.3881318
+                         "burglaryRate":  4.3881318,
+                         "burglaryCount":  26
                      },
         "sunHours":  1732,
         "mapLat":  42.7100287,
@@ -7984,7 +8060,8 @@
                        },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.415914
+                         "burglaryRate":  4.415914,
+                         "burglaryCount":  7
                      },
         "sunHours":  1732,
         "mapLat":  44.8698075,
@@ -8031,7 +8108,8 @@
                        },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  14.287287
+                         "burglaryRate":  14.287287,
+                         "burglaryCount":  10
                      },
         "sunHours":  1732,
         "mapLat":  42.5807725,
@@ -8078,7 +8156,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.9841308
+                         "burglaryRate":  5.9841308,
+                         "burglaryCount":  8
                      },
         "sunHours":  1732,
         "mapLat":  42.5118003,
@@ -8172,7 +8251,8 @@
                        },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.0912622
+                         "burglaryRate":  3.0912622,
+                         "burglaryCount":  18
                      },
         "sunHours":  1732,
         "mapLat":  42.7732114,
@@ -8266,7 +8346,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  6.116633
+                         "burglaryRate":  6.116633,
+                         "burglaryCount":  32
                      },
         "sunHours":  1732,
         "mapLat":  42.7251,
@@ -8360,7 +8441,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7856191,
@@ -8595,7 +8677,8 @@
                        },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.1055901
+                         "burglaryRate":  3.1055901,
+                         "burglaryCount":  9
                      },
         "sunHours":  1732,
         "mapLat":  42.6555,
@@ -8642,7 +8725,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.0962627
+                         "burglaryRate":  5.0962627,
+                         "burglaryCount":  9
                      },
         "sunHours":  1732,
         "mapLat":  42.8333802,
@@ -8689,7 +8773,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6020429,
@@ -8736,7 +8821,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5129483,
@@ -8877,7 +8963,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.4789052
+                         "burglaryRate":  5.4789052,
+                         "burglaryCount":  21
                      },
         "sunHours":  1732,
         "mapLat":  42.6824044,
@@ -8924,7 +9011,8 @@
                        },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.3375394
+                         "burglaryRate":  4.3375394,
+                         "burglaryCount":  11
                      },
         "sunHours":  1732,
         "mapLat":  42.5304019,
@@ -8971,7 +9059,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5497781,
@@ -9018,7 +9107,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7279934,
@@ -9112,7 +9202,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6905567,
@@ -9347,7 +9438,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.4107113,
@@ -9441,7 +9533,8 @@
                        },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.8529219
+                         "burglaryRate":  4.8529219,
+                         "burglaryCount":  5
                      },
         "sunHours":  1732,
         "mapLat":  42.6383408,
@@ -9488,7 +9581,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.5254869,
@@ -9535,7 +9629,8 @@
                        },
         "security":  {
                          "score":  4,
-                         "burglaryRate":  5.1389964
+                         "burglaryRate":  5.1389964,
+                         "burglaryCount":  23
                      },
         "sunHours":  1732,
         "mapLat":  42.6291282,
@@ -9629,7 +9724,8 @@
                        },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.0823257
+                         "burglaryRate":  7.0823257,
+                         "burglaryCount":  22
                      },
         "sunHours":  1732,
         "mapLat":  42.7548029,
@@ -9676,7 +9772,8 @@
                        },
         "security":  {
                          "score":  2.5,
-                         "burglaryRate":  7.308942
+                         "burglaryRate":  7.308942,
+                         "burglaryCount":  27
                      },
         "sunHours":  1732,
         "mapLat":  42.6700342,
@@ -9770,7 +9867,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7083867,
@@ -9817,7 +9915,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7395352,
@@ -9958,7 +10057,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.6390779,
@@ -10005,7 +10105,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.3867996,
@@ -10052,7 +10153,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.538078,
@@ -10193,7 +10295,8 @@
                        },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.572332
+                         "burglaryRate":  3.572332,
+                         "burglaryCount":  6
                      },
         "sunHours":  1732,
         "mapLat":  42.7264387,
@@ -10240,7 +10343,8 @@
                        },
         "security":  {
                          "score":  1,
-                         "burglaryRate":  14.3987272
+                         "burglaryRate":  14.3987272,
+                         "burglaryCount":  15
                      },
         "sunHours":  1732,
         "mapLat":  42.5251612,
@@ -10334,7 +10438,8 @@
                        },
         "security":  {
                          "score":  6,
-                         "burglaryRate":  3.1602709
+                         "burglaryRate":  3.1602709,
+                         "burglaryCount":  7
                      },
         "sunHours":  1732,
         "mapLat":  42.6359815,
@@ -10428,7 +10533,8 @@
                        },
         "security":  {
                          "score":  5,
-                         "burglaryRate":  4.1340024
+                         "burglaryRate":  4.1340024,
+                         "burglaryCount":  6
                      },
         "sunHours":  1732,
         "mapLat":  42.6451061,
@@ -10522,7 +10628,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  43.0515123,
@@ -10616,7 +10723,8 @@
                        },
         "security":  {
                          "score":  8,
-                         "burglaryRate":  0
+                         "burglaryRate":  0,
+                         "burglaryCount":  0
                      },
         "sunHours":  1732,
         "mapLat":  42.7640255,

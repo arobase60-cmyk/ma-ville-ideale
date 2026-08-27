@@ -45,7 +45,8 @@
                   "lastFloodCatNat":  null
               },
     "security":  {
-                     "score":  null,
-                     "burglaryRate":  null
+                     "score":  4,
+                     "burglaryRate":  5.0545976,
+                     "burglaryCount":  7072
                  }
 }
