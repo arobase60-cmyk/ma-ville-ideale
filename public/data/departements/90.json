@@ -1,0 +1,5153 @@
+[
+    {
+        "id":  "90001",
+        "code":  "90001",
+        "slug":  "90001",
+        "name":  "Andelnans",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1093,
+        "lat":  47.6017,
+        "lng":  6.8628,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90002",
+        "code":  "90002",
+        "slug":  "90002",
+        "name":  "Angeot",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  354,
+        "lat":  47.6958,
+        "lng":  7.0032,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90003",
+        "code":  "90003",
+        "slug":  "90003",
+        "name":  "Anjoutey",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  611,
+        "lat":  47.7055,
+        "lng":  6.9227,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90004",
+        "code":  "90004",
+        "slug":  "90004",
+        "name":  "Argiésans",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  607,
+        "lat":  47.6072,
+        "lng":  6.8207,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90005",
+        "code":  "90005",
+        "slug":  "90005",
+        "name":  "Auxelles-Bas",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  417,
+        "lat":  47.7274,
+        "lng":  6.7846,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90006",
+        "code":  "90006",
+        "slug":  "90006",
+        "name":  "Auxelles-Haut",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  287,
+        "lat":  47.7529,
+        "lng":  6.7813,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90007",
+        "code":  "90007",
+        "slug":  "90007",
+        "name":  "Banvillars",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  289,
+        "lat":  47.5881,
+        "lng":  6.8127,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90008",
+        "code":  "90008",
+        "slug":  "90008",
+        "name":  "Bavilliers",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  4678,
+        "lat":  47.6214,
+        "lng":  6.8275,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  2,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90009",
+        "code":  "90009",
+        "slug":  "90009",
+        "name":  "Beaucourt",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  4966,
+        "lat":  47.4868,
+        "lng":  6.9251,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90010",
+        "code":  "90010",
+        "slug":  "90010",
+        "name":  "Belfort",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  45912,
+        "lat":  47.6458,
+        "lng":  6.841,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  13,
+                                            "tennis":  3,
+                                            "gymnasium":  22,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  1,
+                                            "cultural":  2,
+                                            "library":  5,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90011",
+        "code":  "90011",
+        "slug":  "90011",
+        "name":  "Bermont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  358,
+        "lat":  47.5757,
+        "lng":  6.8416,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90012",
+        "code":  "90012",
+        "slug":  "90012",
+        "name":  "Bessoncourt",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1309,
+        "lat":  47.6458,
+        "lng":  6.9417,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90013",
+        "code":  "90013",
+        "slug":  "90013",
+        "name":  "Bethonvilliers",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  232,
+        "lat":  47.6805,
+        "lng":  6.9672,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90014",
+        "code":  "90014",
+        "slug":  "90014",
+        "name":  "Boron",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  484,
+        "lat":  47.5556,
+        "lng":  7.016,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90015",
+        "code":  "90015",
+        "slug":  "90015",
+        "name":  "Botans",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  249,
+        "lat":  47.5955,
+        "lng":  6.8502,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90016",
+        "code":  "90016",
+        "slug":  "90016",
+        "name":  "Bourg-sous-Châtelet",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  115,
+        "lat":  47.7068,
+        "lng":  6.948,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90017",
+        "code":  "90017",
+        "slug":  "90017",
+        "name":  "Bourogne",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1741,
+        "lat":  47.5623,
+        "lng":  6.9063,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  2,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  2,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90018",
+        "code":  "90018",
+        "slug":  "90018",
+        "name":  "Brebotte",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  353,
+        "lat":  47.5769,
+        "lng":  6.9754,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90019",
+        "code":  "90019",
+        "slug":  "90019",
+        "name":  "Bretagne",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  319,
+        "lat":  47.5909,
+        "lng":  6.9972,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90020",
+        "code":  "90020",
+        "slug":  "90020",
+        "name":  "Buc",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  244,
+        "lat":  47.616,
+        "lng":  6.7886,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90021",
+        "code":  "90021",
+        "slug":  "90021",
+        "name":  "Charmois",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  369,
+        "lat":  47.5795,
+        "lng":  6.9403,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90022",
+        "code":  "90022",
+        "slug":  "90022",
+        "name":  "Châtenois-les-Forges",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  2608,
+        "lat":  47.5602,
+        "lng":  6.834,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90023",
+        "code":  "90023",
+        "slug":  "90023",
+        "name":  "Chaux",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1184,
+        "lat":  47.7141,
+        "lng":  6.8386,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90024",
+        "code":  "90024",
+        "slug":  "90024",
+        "name":  "Chavanatte",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  130,
+        "lat":  47.5815,
+        "lng":  7.0706,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90025",
+        "code":  "90025",
+        "slug":  "90025",
+        "name":  "Chavannes-les-Grands",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  345,
+        "lat":  47.5889,
+        "lng":  7.0519,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90026",
+        "code":  "90026",
+        "slug":  "90026",
+        "name":  "Chèvremont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1539,
+        "lat":  47.6268,
+        "lng":  6.9303,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90027",
+        "code":  "90027",
+        "slug":  "90027",
+        "name":  "Courcelles",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  132,
+        "lat":  47.4983,
+        "lng":  7.0668,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90028",
+        "code":  "90028",
+        "slug":  "90028",
+        "name":  "Courtelevant",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  379,
+        "lat":  47.5262,
+        "lng":  7.0846,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90029",
+        "code":  "90029",
+        "slug":  "90029",
+        "name":  "Cravanche",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1942,
+        "lat":  47.653,
+        "lng":  6.8238,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90030",
+        "code":  "90030",
+        "slug":  "90030",
+        "name":  "Croix",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  180,
+        "lat":  47.4447,
+        "lng":  6.9518,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90031",
+        "code":  "90031",
+        "slug":  "90031",
+        "name":  "Cunelières",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  341,
+        "lat":  47.6256,
+        "lng":  6.9928,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90032",
+        "code":  "90032",
+        "slug":  "90032",
+        "name":  "Danjoutin",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  3519,
+        "lat":  47.6187,
+        "lng":  6.8647,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  2,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90033",
+        "code":  "90033",
+        "slug":  "90033",
+        "name":  "Delle",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  5623,
+        "lat":  47.509,
+        "lng":  6.996,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  3,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  2,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90034",
+        "code":  "90034",
+        "slug":  "90034",
+        "name":  "Denney",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  763,
+        "lat":  47.6549,
+        "lng":  6.9054,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90035",
+        "code":  "90035",
+        "slug":  "90035",
+        "name":  "Dorans",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  824,
+        "lat":  47.5865,
+        "lng":  6.8398,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90036",
+        "code":  "90036",
+        "slug":  "90036",
+        "name":  "Eguenigue",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  272,
+        "lat":  47.6785,
+        "lng":  6.9351,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90037",
+        "code":  "90037",
+        "slug":  "90037",
+        "name":  "Éloie",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  952,
+        "lat":  47.687,
+        "lng":  6.873,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90039",
+        "code":  "90039",
+        "slug":  "90039",
+        "name":  "Essert",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  3417,
+        "lat":  47.6382,
+        "lng":  6.8127,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90041",
+        "code":  "90041",
+        "slug":  "90041",
+        "name":  "Étueffont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1393,
+        "lat":  47.7248,
+        "lng":  6.9171,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90042",
+        "code":  "90042",
+        "slug":  "90042",
+        "name":  "Évette-Salbert",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  2029,
+        "lat":  47.6693,
+        "lng":  6.8034,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90043",
+        "code":  "90043",
+        "slug":  "90043",
+        "name":  "Faverois",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  593,
+        "lat":  47.5291,
+        "lng":  7.0364,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90044",
+        "code":  "90044",
+        "slug":  "90044",
+        "name":  "Felon",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  222,
+        "lat":  47.7061,
+        "lng":  6.979,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90045",
+        "code":  "90045",
+        "slug":  "90045",
+        "name":  "Fêche-l\u0027Église",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  702,
+        "lat":  47.5008,
+        "lng":  6.9573,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90046",
+        "code":  "90046",
+        "slug":  "90046",
+        "name":  "Florimont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  473,
+        "lat":  47.5408,
+        "lng":  7.0519,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90047",
+        "code":  "90047",
+        "slug":  "90047",
+        "name":  "Fontaine",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  605,
+        "lat":  47.6567,
+        "lng":  6.997,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90048",
+        "code":  "90048",
+        "slug":  "90048",
+        "name":  "Fontenelle",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  135,
+        "lat":  47.6207,
+        "lng":  6.9564,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90049",
+        "code":  "90049",
+        "slug":  "90049",
+        "name":  "Foussemagne",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  869,
+        "lat":  47.6389,
+        "lng":  6.9959,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90050",
+        "code":  "90050",
+        "slug":  "90050",
+        "name":  "Frais",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  249,
+        "lat":  47.646,
+        "lng":  6.9823,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90051",
+        "code":  "90051",
+        "slug":  "90051",
+        "name":  "Froidefontaine",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  433,
+        "lat":  47.5684,
+        "lng":  6.9594,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90052",
+        "code":  "90052",
+        "slug":  "90052",
+        "name":  "Giromagny",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  2907,
+        "lat":  47.7425,
+        "lng":  6.8198,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90053",
+        "code":  "90053",
+        "slug":  "90053",
+        "name":  "Grandvillars",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  2947,
+        "lat":  47.5378,
+        "lng":  6.9754,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90054",
+        "code":  "90054",
+        "slug":  "90054",
+        "name":  "Grosmagny",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  569,
+        "lat":  47.7226,
+        "lng":  6.8787,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90055",
+        "code":  "90055",
+        "slug":  "90055",
+        "name":  "Grosne",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  321,
+        "lat":  47.5717,
+        "lng":  6.994,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90056",
+        "code":  "90056",
+        "slug":  "90056",
+        "name":  "Joncherey",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1451,
+        "lat":  47.5322,
+        "lng":  7.008,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90057",
+        "code":  "90057",
+        "slug":  "90057",
+        "name":  "Lachapelle-sous-Chaux",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  745,
+        "lat":  47.706,
+        "lng":  6.7995,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90058",
+        "code":  "90058",
+        "slug":  "90058",
+        "name":  "Lachapelle-sous-Rougemont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  539,
+        "lat":  47.7152,
+        "lng":  7.0149,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90059",
+        "code":  "90059",
+        "slug":  "90059",
+        "name":  "Lacollonge",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  234,
+        "lat":  47.6624,
+        "lng":  6.9577,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90060",
+        "code":  "90060",
+        "slug":  "90060",
+        "name":  "Lagrange",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  144,
+        "lat":  47.6844,
+        "lng":  6.9767,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90061",
+        "code":  "90061",
+        "slug":  "90061",
+        "name":  "Lamadeleine-Val-des-Anges",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  46,
+        "lat":  47.762,
+        "lng":  6.9067,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90062",
+        "code":  "90062",
+        "slug":  "90062",
+        "name":  "Larivière",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  282,
+        "lat":  47.6782,
+        "lng":  6.9962,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90063",
+        "code":  "90063",
+        "slug":  "90063",
+        "name":  "Lebetain",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  422,
+        "lat":  47.4855,
+        "lng":  6.9705,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90064",
+        "code":  "90064",
+        "slug":  "90064",
+        "name":  "Lepuix-Neuf",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  307,
+        "lat":  47.542,
+        "lng":  7.1071,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90065",
+        "code":  "90065",
+        "slug":  "90065",
+        "name":  "Lepuix",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1115,
+        "lat":  47.7858,
+        "lng":  6.82,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90066",
+        "code":  "90066",
+        "slug":  "90066",
+        "name":  "Leval",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  250,
+        "lat":  47.7324,
+        "lng":  6.9945,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90067",
+        "code":  "90067",
+        "slug":  "90067",
+        "name":  "Menoncourt",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  391,
+        "lat":  47.6804,
+        "lng":  6.954,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90068",
+        "code":  "90068",
+        "slug":  "90068",
+        "name":  "Meroux-Moval",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1440,
+        "lat":  47.5945,
+        "lng":  6.9136,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90069",
+        "code":  "90069",
+        "slug":  "90069",
+        "name":  "Méziré",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1255,
+        "lat":  47.5318,
+        "lng":  6.9239,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90070",
+        "code":  "90070",
+        "slug":  "90070",
+        "name":  "Montbouton",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  422,
+        "lat":  47.467,
+        "lng":  6.9235,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90071",
+        "code":  "90071",
+        "slug":  "90071",
+        "name":  "Montreux-Château",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1180,
+        "lat":  47.6089,
+        "lng":  6.9941,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90072",
+        "code":  "90072",
+        "slug":  "90072",
+        "name":  "Morvillars",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1113,
+        "lat":  47.5398,
+        "lng":  6.9353,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  2,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90074",
+        "code":  "90074",
+        "slug":  "90074",
+        "name":  "Novillard",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  300,
+        "lat":  47.6047,
+        "lng":  6.9622,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90075",
+        "code":  "90075",
+        "slug":  "90075",
+        "name":  "Offemont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  4051,
+        "lat":  47.6639,
+        "lng":  6.8734,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  3,
+                                            "tennis":  1,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90076",
+        "code":  "90076",
+        "slug":  "90076",
+        "name":  "Pérouse",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1196,
+        "lat":  47.6363,
+        "lng":  6.8925,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90077",
+        "code":  "90077",
+        "slug":  "90077",
+        "name":  "Petit-Croix",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  308,
+        "lat":  47.6218,
+        "lng":  6.9751,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90078",
+        "code":  "90078",
+        "slug":  "90078",
+        "name":  "Petitefontaine",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  193,
+        "lat":  47.7245,
+        "lng":  7.0071,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90079",
+        "code":  "90079",
+        "slug":  "90079",
+        "name":  "Petitmagny",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  315,
+        "lat":  47.7257,
+        "lng":  6.9003,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90080",
+        "code":  "90080",
+        "slug":  "90080",
+        "name":  "Phaffans",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  432,
+        "lat":  47.6593,
+        "lng":  6.9476,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90081",
+        "code":  "90081",
+        "slug":  "90081",
+        "name":  "Réchésy",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  764,
+        "lat":  47.5169,
+        "lng":  7.1175,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90082",
+        "code":  "90082",
+        "slug":  "90082",
+        "name":  "Autrechêne",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  281,
+        "lat":  47.5911,
+        "lng":  6.9626,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90083",
+        "code":  "90083",
+        "slug":  "90083",
+        "name":  "Recouvrance",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  147,
+        "lat":  47.5718,
+        "lng":  6.977,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90084",
+        "code":  "90084",
+        "slug":  "90084",
+        "name":  "Reppe",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  322,
+        "lat":  47.6623,
+        "lng":  7.0279,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90085",
+        "code":  "90085",
+        "slug":  "90085",
+        "name":  "Riervescemont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  83,
+        "lat":  47.7697,
+        "lng":  6.8805,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90086",
+        "code":  "90086",
+        "slug":  "90086",
+        "name":  "Romagny-sous-Rougemont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  213,
+        "lat":  47.7191,
+        "lng":  6.9658,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90087",
+        "code":  "90087",
+        "slug":  "90087",
+        "name":  "Roppe",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1041,
+        "lat":  47.6773,
+        "lng":  6.9073,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90088",
+        "code":  "90088",
+        "slug":  "90088",
+        "name":  "Rougegoutte",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  987,
+        "lat":  47.7335,
+        "lng":  6.861,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90089",
+        "code":  "90089",
+        "slug":  "90089",
+        "name":  "Rougemont-le-Château",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1487,
+        "lat":  47.7468,
+        "lng":  6.96,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  1,
+                                            "golf":  1,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90090",
+        "code":  "90090",
+        "slug":  "90090",
+        "name":  "Saint-Dizier-l\u0027Évêque",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  427,
+        "lat":  47.4683,
+        "lng":  6.9642,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90091",
+        "code":  "90091",
+        "slug":  "90091",
+        "name":  "Saint-Germain-le-Châtelet",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  654,
+        "lat":  47.7035,
+        "lng":  6.9637,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90093",
+        "code":  "90093",
+        "slug":  "90093",
+        "name":  "Sermamagny",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  929,
+        "lat":  47.6867,
+        "lng":  6.8304,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90094",
+        "code":  "90094",
+        "slug":  "90094",
+        "name":  "Sevenans",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  688,
+        "lat":  47.5898,
+        "lng":  6.8718,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90095",
+        "code":  "90095",
+        "slug":  "90095",
+        "name":  "Suarce",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  442,
+        "lat":  47.5638,
+        "lng":  7.0789,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90096",
+        "code":  "90096",
+        "slug":  "90096",
+        "name":  "Thiancourt",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  286,
+        "lat":  47.5222,
+        "lng":  6.9783,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90097",
+        "code":  "90097",
+        "slug":  "90097",
+        "name":  "Trévenans",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1310,
+        "lat":  47.5663,
+        "lng":  6.8696,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90098",
+        "code":  "90098",
+        "slug":  "90098",
+        "name":  "Urcerey",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  257,
+        "lat":  47.6118,
+        "lng":  6.8026,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90099",
+        "code":  "90099",
+        "slug":  "90099",
+        "name":  "Valdoie",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  5175,
+        "lat":  47.6727,
+        "lng":  6.8476,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90100",
+        "code":  "90100",
+        "slug":  "90100",
+        "name":  "Vauthiermont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  232,
+        "lat":  47.6801,
+        "lng":  7.0258,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90101",
+        "code":  "90101",
+        "slug":  "90101",
+        "name":  "Vellescot",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  257,
+        "lat":  47.5752,
+        "lng":  7.0176,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90102",
+        "code":  "90102",
+        "slug":  "90102",
+        "name":  "Vescemont",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  717,
+        "lat":  47.7539,
+        "lng":  6.8621,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90103",
+        "code":  "90103",
+        "slug":  "90103",
+        "name":  "Vétrigne",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  636,
+        "lat":  47.6693,
+        "lng":  6.8962,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90104",
+        "code":  "90104",
+        "slug":  "90104",
+        "name":  "Vézelois",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  1029,
+        "lat":  47.6082,
+        "lng":  6.9155,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "90105",
+        "code":  "90105",
+        "slug":  "90105",
+        "name":  "Villars-le-Sec",
+        "region":  "territoire de belfort, France",
+        "regionCode":  "",
+        "departmentCode":  "90",
+        "population":  176,
+        "lat":  47.4572,
+        "lng":  6.9862,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1549,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  0,
+                                            "tennis":  0,
+                                            "gymnasium":  0,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    }
+]

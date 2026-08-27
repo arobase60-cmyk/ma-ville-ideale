@@ -1,0 +1,181 @@
+.city-card {
+  cursor: pointer;
+}
+
+.city-card:hover {
+  transform: translateY(-2px);
+}
+
+.city-details {
+  margin-bottom: 24px;
+}
+
+.city-details-content {
+  position: relative;
+  padding: 24px;
+  border-radius: 16px;
+  background: white;
+  border: 1px solid #ddd;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.close-city-details {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* =================================
+   INFORMATIONS + CARTE
+   ================================= */
+
+.city-details-columns {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 24px;
+  align-items: start;
+}
+
+.city-info-column {
+  min-width: 0;
+}
+
+.city-map-section {
+  min-width: 0;
+  position: sticky;
+  top: 20px;
+}
+
+/* =================================
+   GRILLE DES INFORMATIONS
+   ================================= */
+
+.city-detail-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.detail-item {
+  padding: 14px;
+  border-radius: 10px;
+  background: #f5f5f5;
+}
+
+.detail-item strong,
+.detail-item span {
+  display: block;
+}
+
+.detail-item span {
+  margin-top: 6px;
+}
+
+/* =================================
+   SCORE FINAL
+   ================================= */
+
+.city-final-score {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  padding-top: 18px;
+  border-top: 1px solid #ddd;
+}
+
+.city-final-score strong {
+  font-size: 28px;
+}
+
+/* =================================
+   CARTE
+   ================================= */
+
+.city-map {
+  width: 100%;
+  height: 600px;
+  margin-top: 1rem;
+  border-radius: 12px;
+  border: 1px solid #d1d5db;
+  display: block;
+}
+
+.city-route-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.city-route-links a {
+  display: inline-block;
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.city-route-links a:hover {
+  background: #dbeafe;
+}
+
+/* =================================
+   AUTRES ELEMENTS
+   ================================= */
+
+.result-count {
+  margin: -0.5rem 0 1rem;
+  color: #475569;
+  font-weight: 600;
+}
+
+.info-icon {
+  display: inline-block;
+  margin-left: 0.35rem;
+  color: #2563eb;
+  font-weight: 700;
+  cursor: help;
+}
+
+/* =================================
+   MOBILE
+   ================================= */
+
+@media (max-width: 900px) {
+
+  .city-details-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .city-map-section {
+    position: static;
+  }
+
+  .city-map {
+    height: 350px;
+  }
+
+  .city-detail-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.criteria-help {
+  margin: -0.5rem 0 1.5rem;
+  padding: 0.8rem 1rem;
+  border-radius: 8px;
+  background: #f0f9ff;
+  color: #475569;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}

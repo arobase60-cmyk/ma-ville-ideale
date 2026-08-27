@@ -1,0 +1,141 @@
+mettre a jour les inondations
+node ".\scripts\update-catnat-test.mjs"
+
+Moyennes d'ensoleillement par departement :
+
+78 : 1507 h/an (106 communes)
+2A : 1760 h/an (109 communes)
+77 : 1515 h/an (104 communes)
+63 : 1618 h/an (105 communes)
+8 : 1477 h/an (103 communes)
+974 : 2437 h/an (85 communes)
+30 : 1678 h/an (101 communes)
+49 : 1564 h/an (155 communes)
+22 : 1527 h/an (124 communes)
+13 : 1694 h/an (156 communes)
+47 : 1672 h/an (98 communes)
+73 : 1622 h/an (115 communes)
+91 : 1518 h/an (103 communes)
+3 : 1595 h/an (321 communes)
+59 : 1449 h/an (105 communes)
+2B : 1742 h/an (120 communes)
+68 : 1544 h/an (106 communes)
+12 : 1670 h/an (122 communes)
+65 : 1720 h/an (104 communes)
+40 : 1694 h/an (99 communes)
+972 : 2633 h/an (86 communes)
+14 : 1501 h/an (140 communes)
+26 : 1651 h/an (109 communes)
+17 : 1623 h/an (93 communes)
+28 : 1524 h/an (106 communes)
+76 : 1479 h/an (99 communes)
+36 : 1583 h/an (101 communes)
+89 : 1541 h/an (119 communes)
+35 : 1538 h/an (104 communes)
+45 : 1538 h/an (102 communes)
+60 : 1487 h/an (101 communes)
+38 : 1627 h/an (107 communes)
+83 : 1699 h/an (104 communes)
+85 : 1591 h/an (118 communes)
+6 : 1687 h/an (119 communes)
+23 : 1606 h/an (102 communes)
+51 : 1499 h/an (101 communes)
+27 : 1499 h/an (134 communes)
+55 : 1497 h/an (112 communes)
+71 : 1584 h/an (103 communes)
+93 : 1504 h/an (41 communes)
+86 : 1591 h/an (103 communes)
+69 : 1610 h/an (113 communes)
+54 : 1506 h/an (107 communes)
+48 : 1659 h/an (112 communes)
+66 : 1732 h/an (105 communes)
+57 : 1498 h/an (103 communes)
+973 : 2679 h/an (25 communes)
+43 : 1638 h/an (102 communes)
+5 : 1657 h/an (104 communes)
+95 : 1499 h/an (104 communes)
+80 : 1467 h/an (103 communes)
+79 : 1594 h/an (134 communes)
+41 : 1551 h/an (98 communes)
+74 : 1605 h/an (108 communes)
+34 : 1696 h/an (99 communes)
+62 : 1448 h/an (102 communes)
+53 : 1539 h/an (102 communes)
+2 : 1479 h/an (830 communes)
+4 : 1675 h/an (244 communes)
+44 : 1567 h/an (108 communes)
+72 : 1540 h/an (100 communes)
+11 : 1714 h/an (115 communes)
+70 : 1548 h/an (104 communes)
+50 : 1502 h/an (110 communes)
+1 : 1603 h/an (457 communes)
+92 : 1507 h/an (41 communes)
+87 : 1616 h/an (106 communes)
+33 : 1659 h/an (94 communes)
+88 : 1526 h/an (100 communes)
+67 : 1514 h/an (117 communes)
+56 : 1550 h/an (94 communes)
+16 : 1626 h/an (106 communes)
+64 : 1713 h/an (101 communes)
+24 : 1646 h/an (111 communes)
+19 : 1637 h/an (100 communes)
+29 : 1533 h/an (104 communes)
+61 : 1518 h/an (115 communes)
+94 : 1509 h/an (51 communes)
+9 : 1722 h/an (100 communes)
+37 : 1568 h/an (98 communes)
+7 : 1649 h/an (100 communes)
+52 : 1530 h/an (130 communes)
+81 : 1690 h/an (101 communes)
+58 : 1564 h/an (106 communes)
+39 : 1578 h/an (109 communes)
+82 : 1683 h/an (98 communes)
+90 : 1549 h/an (99 communes)
+21 : 1556 h/an (100 communes)
+46 : 1661 h/an (98 communes)
+75 : 1506 h/an (21 communes)
+10 : 1524 h/an (119 communes)
+84 : 1677 h/an (100 communes)
+32 : 1697 h/an (101 communes)
+971 : 2608 h/an (66 communes)
+31 : 1709 h/an (102 communes)
+15 : 1643 h/an (119 communes)
+25 : 1562 h/an (107 communes)
+18 : 1572 h/an (101 communes)
+976 : 2605 h/an (21 communes)
+42 : 1616 h/an (99 communes)
+
+Communes enrichies : 659
+Communes sans donnÃ©e dÃ©partementale : 0
+
+=====================================
+ENSOLEILLEMENT TERMINE
+=====================================
+Communes enrichies : 659
+Communes sans donnÃ©e dÃ©partementale : 0
+powershell -ExecutionPolicy Bypass -File ".\scripts\enrich-activites.ps1"
+powershell -ExecutionPolicy Bypass -File ".\scripts\enrich-ensoleillement.ps1"
+
+securite
+powershell -ExecutionPolicy Bypass -File ".\scripts\enrich-securite.ps1"
+puis
+powershell -ExecutionPolicy Bypass -File ".\scripts\enrich-securite-score.ps1"
+pour les hôpitaux
+powershell -ExecutionPolicy Bypass -File ".\scripts\enrich-hopitaux.ps1"
+ajouter departement avec le script
+immobilier
+powershell -ExecutionPolicy Bypass -File ".\scripts\enrich-immobilier.ps1"
+mettre a jour bpe
+powershell -ExecutionPolicy Bypass -File ".\scripts\enrich-bpe.ps1"
+puis catastrophe
+node .\scripts\update-catnat-test.mjs
+puis
+Copy-Item "src\data\municipalities.json" "src\data\municipalities.json.before-catnat-var" -Force
+
+Copy-Item "src\data\municipalities-catnat-test.json" "src\data\municipalities.json" -Force
+
+
+ajouetr villes
+.\scripts\ajouter-var.ps1
+
+

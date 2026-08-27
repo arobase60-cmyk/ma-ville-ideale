@@ -1,0 +1,130 @@
+[
+  {
+    "id": "tautavel",
+    "slug": "tautavel",
+    "name": "Tautavel",
+    "region": "Pyrénées-Orientales, France",
+    "departmentCode": "66",
+    "regionCode": "76",
+    "lat": 42.814,
+    "lng": 2.749,
+
+    "population": 945,
+    "priceSqm": 2158,
+    "sunHours": 2500,
+    "distanceSeaKm": 25,
+
+    "scores": {
+      "price": 8,
+      "commerce": 5,
+      "health": 5,
+      "safety": 8,
+      "tranquility": 9,
+      "sun": 9,
+      "accessibility": 6,
+      "risk": 7
+    }
+  },
+  {
+    "id": "marquixanes",
+    "slug": "marquixanes",
+    "name": "Marquixanes",
+    "region": "Pyrénées-Orientales, France",
+    "departmentCode": "66",
+    "regionCode": "76",
+    "lat": 42.642,
+    "lng": 2.486,
+
+    "population": 599,
+    "priceSqm": 2005,
+    "sunHours": 2500,
+    "distanceSeaKm": 45,
+
+    "scores": {
+      "price": 8,
+      "commerce": 6,
+      "health": 6,
+      "safety": 8,
+      "tranquility": 9,
+      "sun": 9,
+      "accessibility": 7,
+      "risk": 7
+    }
+  },
+  {
+    "id": "vinca",
+    "slug": "vinca",
+    "name": "Vinça",
+    "region": "Pyrénées-Orientales, France",
+    "departmentCode": "66",
+    "regionCode": "76",
+    "lat": 42.644,
+    "lng": 2.529,
+
+    "population": 2260,
+    "priceSqm": 2173,
+    "sunHours": 2500,
+    "distanceSeaKm": 50,
+
+    "scores": {
+      "price": 7,
+      "commerce": 8,
+      "health": 8,
+      "safety": 8,
+      "tranquility": 7,
+      "sun": 9,
+      "accessibility": 8,
+      "risk": 7
+    }
+  },
+  {
+    "id": "saint-paul-de-fenouillet",
+    "slug": "saint-paul-de-fenouillet",
+    "name": "Saint-Paul-de-Fenouillet",
+    "region": "Pyrénées-Orientales, France",
+    "departmentCode": "66",
+    "regionCode": "76",
+    "lat": 42.811,
+    "lng": 2.504,
+
+    "population": 1742,
+    "priceSqm": 1452,
+    "sunHours": 2450,
+    "distanceSeaKm": 55,
+
+    "scores": {
+      "price": 10,
+      "commerce": 8,
+      "health": 7,
+      "safety": 7,
+      "tranquility": 8,
+      "sun": 9,
+      "accessibility": 6,
+      "risk": 6
+    }
+  },
+  {
+    "id": "latour-de-france",
+    "slug": "latour-de-france",
+    "name": "Latour-de-France",
+    "region": "Pyrénées-Orientales, France",
+    "lat": 42.769,
+    "lng": 2.653,
+
+    "population": 1043,
+    "priceSqm": 1892,
+    "sunHours": 2500,
+    "distanceSeaKm": 40,
+
+    "scores": {
+      "price": 9,
+      "commerce": 5,
+      "health": 5,
+      "safety": 8,
+      "tranquility": 9,
+      "sun": 9,
+      "accessibility": 7,
+      "risk": 6
+    }
+  }
+]

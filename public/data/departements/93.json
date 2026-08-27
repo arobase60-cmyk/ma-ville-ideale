@@ -1,0 +1,1991 @@
+[
+    {
+        "id":  "93001",
+        "code":  "93001",
+        "slug":  "93001",
+        "name":  "Aubervilliers",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  88365,
+        "lat":  48.9128,
+        "lng":  2.3886,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  7,
+                                            "tennis":  3,
+                                            "gymnasium":  10,
+                                            "golf":  0,
+                                            "theatre":  5,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  4,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93005",
+        "code":  "93005",
+        "slug":  "93005",
+        "name":  "Aulnay-sous-Bois",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  87599,
+        "lat":  48.9457,
+        "lng":  2.4918,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  6,
+                                            "tennis":  3,
+                                            "gymnasium":  16,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  2,
+                                            "cultural":  1,
+                                            "library":  6,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93006",
+        "code":  "93006",
+        "slug":  "93006",
+        "name":  "Bagnolet",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  43086,
+        "lat":  48.8671,
+        "lng":  2.4252,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  3,
+                                            "tennis":  1,
+                                            "gymnasium":  8,
+                                            "golf":  0,
+                                            "theatre":  3,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93007",
+        "code":  "93007",
+        "slug":  "93007",
+        "name":  "Le Blanc-Mesnil",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  62376,
+        "lat":  48.9372,
+        "lng":  2.4576,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  4,
+                                            "tennis":  1,
+                                            "gymnasium":  10,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93008",
+        "code":  "93008",
+        "slug":  "93008",
+        "name":  "Bobigny",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  56927,
+        "lat":  48.9073,
+        "lng":  2.4432,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  5,
+                                            "tennis":  2,
+                                            "gymnasium":  11,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  0,
+                                            "cultural":  2,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93010",
+        "code":  "93010",
+        "slug":  "93010",
+        "name":  "Bondy",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  50595,
+        "lat":  48.9036,
+        "lng":  2.4846,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  5,
+                                            "tennis":  1,
+                                            "gymnasium":  10,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93013",
+        "code":  "93013",
+        "slug":  "93013",
+        "name":  "Le Bourget",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  15925,
+        "lat":  48.9378,
+        "lng":  2.4287,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  2,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93014",
+        "code":  "93014",
+        "slug":  "93014",
+        "name":  "Clichy-sous-Bois",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  29354,
+        "lat":  48.9081,
+        "lng":  2.5432,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  7,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93015",
+        "code":  "93015",
+        "slug":  "93015",
+        "name":  "Coubron",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  5175,
+        "lat":  48.9173,
+        "lng":  2.5759,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93027",
+        "code":  "93027",
+        "slug":  "93027",
+        "name":  "La Courneuve",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  47167,
+        "lat":  48.9341,
+        "lng":  2.3986,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  4,
+                                            "gymnasium":  8,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  2,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93029",
+        "code":  "93029",
+        "slug":  "93029",
+        "name":  "Drancy",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  72390,
+        "lat":  48.925,
+        "lng":  2.4446,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  6,
+                                            "tennis":  5,
+                                            "gymnasium":  13,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  5,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93030",
+        "code":  "93030",
+        "slug":  "93030",
+        "name":  "Dugny",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  11700,
+        "lat":  48.9494,
+        "lng":  2.4255,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  4,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93031",
+        "code":  "93031",
+        "slug":  "93031",
+        "name":  "Épinay-sur-Seine",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  52833,
+        "lat":  48.9544,
+        "lng":  2.3172,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  3,
+                                            "tennis":  2,
+                                            "gymnasium":  9,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  2,
+                                            "cultural":  0,
+                                            "library":  3,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93032",
+        "code":  "93032",
+        "slug":  "93032",
+        "name":  "Gagny",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  42313,
+        "lat":  48.8826,
+        "lng":  2.545,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  4,
+                                            "tennis":  1,
+                                            "gymnasium":  10,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93033",
+        "code":  "93033",
+        "slug":  "93033",
+        "name":  "Gournay-sur-Marne",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  7320,
+        "lat":  48.8607,
+        "lng":  2.5761,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  1,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93039",
+        "code":  "93039",
+        "slug":  "93039",
+        "name":  "L\u0027Île-Saint-Denis",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  8696,
+        "lat":  48.9465,
+        "lng":  2.3204,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  3,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93045",
+        "code":  "93045",
+        "slug":  "93045",
+        "name":  "Les Lilas",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  23843,
+        "lat":  48.8821,
+        "lng":  2.4207,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  5,
+                                            "golf":  0,
+                                            "theatre":  3,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93046",
+        "code":  "93046",
+        "slug":  "93046",
+        "name":  "Livry-Gargan",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  47228,
+        "lat":  48.9184,
+        "lng":  2.5351,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  3,
+                                            "tennis":  1,
+                                            "gymnasium":  9,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93047",
+        "code":  "93047",
+        "slug":  "93047",
+        "name":  "Montfermeil",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  28703,
+        "lat":  48.8976,
+        "lng":  2.5678,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  4,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93048",
+        "code":  "93048",
+        "slug":  "93048",
+        "name":  "Montreuil",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  111934,
+        "lat":  48.8637,
+        "lng":  2.4491,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  11,
+                                            "tennis":  1,
+                                            "gymnasium":  24,
+                                            "golf":  0,
+                                            "theatre":  3,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  4,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93049",
+        "code":  "93049",
+        "slug":  "93049",
+        "name":  "Neuilly-Plaisance",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  21941,
+        "lat":  48.8641,
+        "lng":  2.5097,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  3,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93050",
+        "code":  "93050",
+        "slug":  "93050",
+        "name":  "Neuilly-sur-Marne",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  39800,
+        "lat":  48.8645,
+        "lng":  2.5419,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  4,
+                                            "tennis":  3,
+                                            "gymnasium":  4,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93051",
+        "code":  "93051",
+        "slug":  "93051",
+        "name":  "Noisy-le-Grand",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  72978,
+        "lat":  48.8327,
+        "lng":  2.556,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  4,
+                                            "tennis":  1,
+                                            "gymnasium":  11,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  2,
+                                            "cultural":  1,
+                                            "library":  4,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93053",
+        "code":  "93053",
+        "slug":  "93053",
+        "name":  "Noisy-le-Sec",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  45510,
+        "lat":  48.8917,
+        "lng":  2.4578,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  5,
+                                            "tennis":  1,
+                                            "gymnasium":  7,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  0,
+                                            "cultural":  2,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93055",
+        "code":  "93055",
+        "slug":  "93055",
+        "name":  "Pantin",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  61929,
+        "lat":  48.9006,
+        "lng":  2.4085,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  5,
+                                            "tennis":  3,
+                                            "gymnasium":  12,
+                                            "golf":  0,
+                                            "theatre":  4,
+                                            "cinema":  2,
+                                            "cultural":  1,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93057",
+        "code":  "93057",
+        "slug":  "93057",
+        "name":  "Les Pavillons-sous-Bois",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  25804,
+        "lat":  48.907,
+        "lng":  2.5057,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  3,
+                                            "tennis":  1,
+                                            "gymnasium":  7,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93061",
+        "code":  "93061",
+        "slug":  "93061",
+        "name":  "Le Pré-Saint-Gervais",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  16993,
+        "lat":  48.884,
+        "lng":  2.4054,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  0,
+                                            "tennis":  2,
+                                            "gymnasium":  2,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93062",
+        "code":  "93062",
+        "slug":  "93062",
+        "name":  "Le Raincy",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  14735,
+        "lat":  48.8959,
+        "lng":  2.5196,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  0,
+                                            "tennis":  1,
+                                            "gymnasium":  8,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93063",
+        "code":  "93063",
+        "slug":  "93063",
+        "name":  "Romainville",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  37152,
+        "lat":  48.8849,
+        "lng":  2.4391,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  2,
+                                            "gymnasium":  4,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  2,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93064",
+        "code":  "93064",
+        "slug":  "93064",
+        "name":  "Rosny-sous-Bois",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  47180,
+        "lat":  48.8744,
+        "lng":  2.4872,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  12,
+                                            "golf":  1,
+                                            "theatre":  2,
+                                            "cinema":  2,
+                                            "cultural":  0,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93066",
+        "code":  "93066",
+        "slug":  "93066",
+        "name":  "Saint-Denis",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  149077,
+        "lat":  48.9378,
+        "lng":  2.3657,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  5,
+                                            "stadium":  18,
+                                            "tennis":  6,
+                                            "gymnasium":  24,
+                                            "golf":  0,
+                                            "theatre":  3,
+                                            "cinema":  2,
+                                            "cultural":  2,
+                                            "library":  6,
+                                            "conservatory":  2
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93070",
+        "code":  "93070",
+        "slug":  "93070",
+        "name":  "Saint-Ouen-sur-Seine",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  53615,
+        "lat":  48.9118,
+        "lng":  2.3329,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  4,
+                                            "tennis":  2,
+                                            "gymnasium":  9,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93071",
+        "code":  "93071",
+        "slug":  "93071",
+        "name":  "Sevran",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  52535,
+        "lat":  48.9378,
+        "lng":  2.5311,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  7,
+                                            "tennis":  2,
+                                            "gymnasium":  7,
+                                            "golf":  1,
+                                            "theatre":  1,
+                                            "cinema":  0,
+                                            "cultural":  1,
+                                            "library":  5,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93072",
+        "code":  "93072",
+        "slug":  "93072",
+        "name":  "Stains",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  41388,
+        "lat":  48.9578,
+        "lng":  2.3868,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  2,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93073",
+        "code":  "93073",
+        "slug":  "93073",
+        "name":  "Tremblay-en-France",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  38348,
+        "lat":  48.9744,
+        "lng":  2.5481,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  5,
+                                            "tennis":  2,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  2,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93074",
+        "code":  "93074",
+        "slug":  "93074",
+        "name":  "Vaujours",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  8007,
+        "lat":  48.9338,
+        "lng":  2.5799,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  3,
+                                            "tennis":  2,
+                                            "gymnasium":  3,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93077",
+        "code":  "93077",
+        "slug":  "93077",
+        "name":  "Villemomble",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  29795,
+        "lat":  48.8866,
+        "lng":  2.5085,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  3,
+                                            "gymnasium":  9,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93078",
+        "code":  "93078",
+        "slug":  "93078",
+        "name":  "Villepinte",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  41470,
+        "lat":  48.956,
+        "lng":  2.5323,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  5,
+                                            "tennis":  1,
+                                            "gymnasium":  5,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "93079",
+        "code":  "93079",
+        "slug":  "93079",
+        "name":  "Villetaneuse",
+        "region":  "seine saint denis, France",
+        "regionCode":  "",
+        "departmentCode":  "93",
+        "population":  12530,
+        "lat":  48.9574,
+        "lng":  2.3441,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1504,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  2,
+                                            "tennis":  0,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    }
+]

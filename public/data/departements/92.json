@@ -1,0 +1,1838 @@
+[
+    {
+        "id":  "92002",
+        "code":  "92002",
+        "slug":  "92002",
+        "name":  "Antony",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  64263,
+        "lat":  48.7507,
+        "lng":  2.2976,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  4,
+                                            "stadium":  8,
+                                            "tennis":  4,
+                                            "gymnasium":  13,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92004",
+        "code":  "92004",
+        "slug":  "92004",
+        "name":  "Asnières-sur-Seine",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  93941,
+        "lat":  48.9181,
+        "lng":  2.2935,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  4,
+                                            "tennis":  3,
+                                            "gymnasium":  13,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  3,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92007",
+        "code":  "92007",
+        "slug":  "92007",
+        "name":  "Bagneux",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  44572,
+        "lat":  48.798,
+        "lng":  2.3093,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  6,
+                                            "tennis":  2,
+                                            "gymnasium":  8,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92009",
+        "code":  "92009",
+        "slug":  "92009",
+        "name":  "Bois-Colombes",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  28909,
+        "lat":  48.9151,
+        "lng":  2.2688,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  0,
+                                            "tennis":  2,
+                                            "gymnasium":  3,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92012",
+        "code":  "92012",
+        "slug":  "92012",
+        "name":  "Boulogne-Billancourt",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  119019,
+        "lat":  48.8375,
+        "lng":  2.2429,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  2,
+                                            "tennis":  4,
+                                            "gymnasium":  27,
+                                            "golf":  0,
+                                            "theatre":  3,
+                                            "cinema":  2,
+                                            "cultural":  7,
+                                            "library":  5,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92014",
+        "code":  "92014",
+        "slug":  "92014",
+        "name":  "Bourg-la-Reine",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  21019,
+        "lat":  48.7801,
+        "lng":  2.3167,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  2,
+                                            "gymnasium":  7,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92019",
+        "code":  "92019",
+        "slug":  "92019",
+        "name":  "Châtenay-Malabry",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  35825,
+        "lat":  48.7697,
+        "lng":  2.2603,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  5,
+                                            "tennis":  4,
+                                            "gymnasium":  11,
+                                            "golf":  1,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  2,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92020",
+        "code":  "92020",
+        "slug":  "92020",
+        "name":  "Châtillon",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  36705,
+        "lat":  48.8031,
+        "lng":  2.2887,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  1,
+                                            "tennis":  3,
+                                            "gymnasium":  7,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92022",
+        "code":  "92022",
+        "slug":  "92022",
+        "name":  "Chaville",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  20594,
+        "lat":  48.8091,
+        "lng":  2.191,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92023",
+        "code":  "92023",
+        "slug":  "92023",
+        "name":  "Clamart",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  58576,
+        "lat":  48.7957,
+        "lng":  2.2518,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  8,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  4,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92024",
+        "code":  "92024",
+        "slug":  "92024",
+        "name":  "Clichy",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  64410,
+        "lat":  48.9041,
+        "lng":  2.3041,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  2,
+                                            "gymnasium":  8,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  2,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92025",
+        "code":  "92025",
+        "slug":  "92025",
+        "name":  "Colombes",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  91053,
+        "lat":  48.9218,
+        "lng":  2.2469,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  5,
+                                            "tennis":  3,
+                                            "gymnasium":  12,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  2,
+                                            "cultural":  2,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92026",
+        "code":  "92026",
+        "slug":  "92026",
+        "name":  "Courbevoie",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  82902,
+        "lat":  48.8976,
+        "lng":  2.2574,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  3,
+                                            "tennis":  2,
+                                            "gymnasium":  11,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  2,
+                                            "cultural":  2,
+                                            "library":  4,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92032",
+        "code":  "92032",
+        "slug":  "92032",
+        "name":  "Fontenay-aux-Roses",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  24070,
+        "lat":  48.7895,
+        "lng":  2.2876,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  4,
+                                            "tennis":  2,
+                                            "gymnasium":  5,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  2,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92033",
+        "code":  "92033",
+        "slug":  "92033",
+        "name":  "Garches",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  17743,
+        "lat":  48.8469,
+        "lng":  2.1861,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  0,
+                                            "tennis":  2,
+                                            "gymnasium":  4,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92035",
+        "code":  "92035",
+        "slug":  "92035",
+        "name":  "La Garenne-Colombes",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  30197,
+        "lat":  48.9071,
+        "lng":  2.2437,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  2,
+                                            "gymnasium":  3,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  2,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92036",
+        "code":  "92036",
+        "slug":  "92036",
+        "name":  "Gennevilliers",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  50979,
+        "lat":  48.9319,
+        "lng":  2.288,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  5,
+                                            "tennis":  1,
+                                            "gymnasium":  8,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  4,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92040",
+        "code":  "92040",
+        "slug":  "92040",
+        "name":  "Issy-les-Moulineaux",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  67669,
+        "lat":  48.824,
+        "lng":  2.2628,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  4,
+                                            "tennis":  3,
+                                            "gymnasium":  13,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  2,
+                                            "cultural":  2,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92044",
+        "code":  "92044",
+        "slug":  "92044",
+        "name":  "Levallois-Perret",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  68092,
+        "lat":  48.8946,
+        "lng":  2.2874,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  2,
+                                            "gymnasium":  7,
+                                            "golf":  1,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92046",
+        "code":  "92046",
+        "slug":  "92046",
+        "name":  "Malakoff",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  30557,
+        "lat":  48.817,
+        "lng":  2.2943,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  3,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92047",
+        "code":  "92047",
+        "slug":  "92047",
+        "name":  "Marnes-la-Coquette",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  1752,
+        "lat":  48.8286,
+        "lng":  2.1689,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  0,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  0,
+                                            "golf":  1,
+                                            "theatre":  0,
+                                            "cinema":  0,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92048",
+        "code":  "92048",
+        "slug":  "92048",
+        "name":  "Meudon",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  46334,
+        "lat":  48.8028,
+        "lng":  2.2288,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  3,
+                                            "stadium":  12,
+                                            "tennis":  9,
+                                            "gymnasium":  11,
+                                            "golf":  0,
+                                            "theatre":  2,
+                                            "cinema":  2,
+                                            "cultural":  4,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92049",
+        "code":  "92049",
+        "slug":  "92049",
+        "name":  "Montrouge",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  46324,
+        "lat":  48.8159,
+        "lng":  2.3163,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  3,
+                                            "tennis":  2,
+                                            "gymnasium":  12,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92050",
+        "code":  "92050",
+        "slug":  "92050",
+        "name":  "Nanterre",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  97783,
+        "lat":  48.8974,
+        "lng":  2.2018,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  4,
+                                            "stadium":  9,
+                                            "tennis":  8,
+                                            "gymnasium":  21,
+                                            "golf":  0,
+                                            "theatre":  3,
+                                            "cinema":  2,
+                                            "cultural":  0,
+                                            "library":  6,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92051",
+        "code":  "92051",
+        "slug":  "92051",
+        "name":  "Neuilly-sur-Seine",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  59538,
+        "lat":  48.8862,
+        "lng":  2.2651,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  6,
+                                            "gymnasium":  11,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  3,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92060",
+        "code":  "92060",
+        "slug":  "92060",
+        "name":  "Le Plessis-Robinson",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  28848,
+        "lat":  48.7815,
+        "lng":  2.2592,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92062",
+        "code":  "92062",
+        "slug":  "92062",
+        "name":  "Puteaux",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  44002,
+        "lat":  48.8824,
+        "lng":  2.2384,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  3,
+                                            "stadium":  3,
+                                            "tennis":  4,
+                                            "gymnasium":  9,
+                                            "golf":  2,
+                                            "theatre":  2,
+                                            "cinema":  2,
+                                            "cultural":  1,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92063",
+        "code":  "92063",
+        "slug":  "92063",
+        "name":  "Rueil-Malmaison",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  82874,
+        "lat":  48.8717,
+        "lng":  2.1806,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  4,
+                                            "stadium":  12,
+                                            "tennis":  11,
+                                            "gymnasium":  14,
+                                            "golf":  2,
+                                            "theatre":  2,
+                                            "cinema":  2,
+                                            "cultural":  4,
+                                            "library":  3,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92064",
+        "code":  "92064",
+        "slug":  "92064",
+        "name":  "Saint-Cloud",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  29855,
+        "lat":  48.844,
+        "lng":  2.2032,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  3,
+                                            "stadium":  6,
+                                            "tennis":  8,
+                                            "gymnasium":  10,
+                                            "golf":  1,
+                                            "theatre":  1,
+                                            "cinema":  0,
+                                            "cultural":  2,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92071",
+        "code":  "92071",
+        "slug":  "92071",
+        "name":  "Sceaux",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  20884,
+        "lat":  48.776,
+        "lng":  2.2963,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  4,
+                                            "gymnasium":  11,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92072",
+        "code":  "92072",
+        "slug":  "92072",
+        "name":  "Sèvres",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  22303,
+        "lat":  48.8223,
+        "lng":  2.2056,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  2,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92073",
+        "code":  "92073",
+        "slug":  "92073",
+        "name":  "Suresnes",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  48956,
+        "lat":  48.871,
+        "lng":  2.2183,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  2,
+                                            "tennis":  1,
+                                            "gymnasium":  6,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  1,
+                                            "library":  2,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92075",
+        "code":  "92075",
+        "slug":  "92075",
+        "name":  "Vanves",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  28622,
+        "lat":  48.8214,
+        "lng":  2.2869,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  2,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  4,
+                                            "golf":  0,
+                                            "theatre":  1,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92076",
+        "code":  "92076",
+        "slug":  "92076",
+        "name":  "Vaucresson",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  8432,
+        "lat":  48.8377,
+        "lng":  2.1628,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  3,
+                                            "tennis":  2,
+                                            "gymnasium":  3,
+                                            "golf":  2,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  0,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92077",
+        "code":  "92077",
+        "slug":  "92077",
+        "name":  "Ville-d\u0027Avray",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  11089,
+        "lat":  48.8215,
+        "lng":  2.1759,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  1,
+                                            "tennis":  1,
+                                            "gymnasium":  1,
+                                            "golf":  1,
+                                            "theatre":  0,
+                                            "cinema":  1,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  1
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    },
+    {
+        "id":  "92078",
+        "code":  "92078",
+        "slug":  "92078",
+        "name":  "Villeneuve-la-Garenne",
+        "region":  "hauts de seine, France",
+        "regionCode":  "",
+        "departmentCode":  "92",
+        "population":  26021,
+        "lat":  48.9354,
+        "lng":  2.3231,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1507,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  null,
+                         "grocery":  null,
+                         "bakeries":  null,
+                         "doctors":  null,
+                         "dentists":  null,
+                         "pharmacies":  null,
+                         "activities":  {
+                                            "swimmingPool":  1,
+                                            "stadium":  3,
+                                            "tennis":  2,
+                                            "gymnasium":  7,
+                                            "golf":  0,
+                                            "theatre":  0,
+                                            "cinema":  2,
+                                            "cultural":  0,
+                                            "library":  1,
+                                            "conservatory":  0
+                                        }
+                     },
+        "scores":  {
+
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  null,
+                         "burglaryRate":  null
+                     }
+    }
+]

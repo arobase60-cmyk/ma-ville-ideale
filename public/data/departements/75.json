@@ -1,0 +1,51 @@
+{
+    "id":  "75056",
+    "code":  "75056",
+    "slug":  "75056",
+    "name":  "Paris",
+    "region":  "paris, France",
+    "regionCode":  "32",
+    "departmentCode":  "75",
+    "population":  2103778,
+    "lat":  48.8589,
+    "lng":  2.347,
+    "immobilier":  {
+                       "housePriceM2":  null,
+                       "houseSales":  0
+                   },
+    "priceSqm":  null,
+    "sunHours":  1506,
+    "distanceSeaKm":  null,
+    "services":  {
+                     "supermarkets":  null,
+                     "grocery":  null,
+                     "bakeries":  null,
+                     "doctors":  null,
+                     "dentists":  null,
+                     "pharmacies":  null,
+                     "activities":  {
+                                        "swimmingPool":  84,
+                                        "stadium":  47,
+                                        "tennis":  78,
+                                        "gymnasium":  267,
+                                        "golf":  5,
+                                        "theatre":  139,
+                                        "cinema":  77,
+                                        "cultural":  81,
+                                        "library":  69,
+                                        "conservatory":  17
+                                    }
+                 },
+    "scores":  {
+
+               },
+    "risks":  {
+                  "floodCatNat":  null,
+                  "floodCatNat10Years":  null,
+                  "lastFloodCatNat":  null
+              },
+    "security":  {
+                     "score":  null,
+                     "burglaryRate":  null
+                 }
+}

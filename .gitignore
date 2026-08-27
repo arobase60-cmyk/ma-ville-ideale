@@ -22,3 +22,12 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+# fichiers sources volumineux
+*.zip
+*.csv
+*.xlsx
+# sauvegardes locales
+*.bak
+*.bak-*
+*.before-*
+* - Copie.json
