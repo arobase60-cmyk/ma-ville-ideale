@@ -1,4 +1,4 @@
-{
+﻿{
     "id":  "75056",
     "code":  "75056",
     "slug":  "75056",
@@ -17,12 +17,12 @@
     "sunHours":  1506,
     "distanceSeaKm":  null,
     "services":  {
-                     "supermarkets":  null,
-                     "grocery":  null,
-                     "bakeries":  null,
-                     "doctors":  null,
-                     "dentists":  null,
-                     "pharmacies":  null,
+                     "supermarkets":  715,
+                     "grocery":  2106,
+                     "bakeries":  2307,
+                     "doctors":  2722,
+                     "dentists":  2446,
+                     "pharmacies":  864,
                      "activities":  {
                                         "swimmingPool":  84,
                                         "stadium":  47,
@@ -34,7 +34,8 @@
                                         "cultural":  81,
                                         "library":  69,
                                         "conservatory":  17
-                                    }
+                                    },
+                     "hospitals":  61
                  },
     "scores":  {
 

@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  "94001",
         "code":  "94001",
@@ -18,12 +18,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  0,
+                         "grocery":  2,
+                         "bakeries":  4,
+                         "doctors":  3,
+                         "dentists":  1,
+                         "pharmacies":  2,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -35,15 +35,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  4,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-01-15"
                   },
         "security":  {
                          "score":  5,
@@ -70,12 +71,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  4,
+                         "grocery":  42,
+                         "bakeries":  31,
+                         "doctors":  23,
+                         "dentists":  14,
+                         "pharmacies":  11,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  2,
@@ -87,15 +88,16 @@
                                             "cultural":  0,
                                             "library":  2,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  6,
+                      "floodCatNat10Years":  3,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  4,
@@ -122,12 +124,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  6,
+                         "grocery":  10,
+                         "bakeries":  13,
+                         "doctors":  6,
+                         "dentists":  6,
+                         "pharmacies":  5,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  3,
@@ -139,15 +141,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  8,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2017-07-09"
                   },
         "security":  {
                          "score":  2.5,
@@ -174,12 +177,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  4,
+                         "grocery":  5,
+                         "bakeries":  6,
+                         "doctors":  7,
+                         "dentists":  5,
+                         "pharmacies":  4,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  1,
@@ -191,15 +194,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-07-13"
                   },
         "security":  {
                          "score":  4,
@@ -226,12 +230,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  8,
+                         "grocery":  8,
+                         "bakeries":  11,
+                         "doctors":  8,
+                         "dentists":  3,
+                         "pharmacies":  5,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  1,
@@ -243,15 +247,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  6.5,
@@ -278,12 +283,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  4,
+                         "grocery":  5,
+                         "bakeries":  13,
+                         "doctors":  23,
+                         "dentists":  18,
+                         "pharmacies":  4,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -295,15 +300,16 @@
                                             "cultural":  1,
                                             "library":  1,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  2
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  7,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-01-15"
                   },
         "security":  {
                          "score":  2.5,
@@ -330,12 +336,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  4,
+                         "grocery":  11,
+                         "bakeries":  14,
+                         "doctors":  17,
+                         "dentists":  7,
+                         "pharmacies":  8,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  3,
@@ -347,15 +353,16 @@
                                             "cultural":  0,
                                             "library":  3,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  7,
+                      "floodCatNat10Years":  0,
+                      "lastFloodCatNat":  "2001-07-06"
                   },
         "security":  {
                          "score":  2.5,
@@ -382,12 +389,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  13,
+                         "grocery":  48,
+                         "bakeries":  53,
+                         "doctors":  49,
+                         "dentists":  31,
+                         "pharmacies":  21,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  8,
@@ -399,15 +406,16 @@
                                             "cultural":  1,
                                             "library":  3,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  11,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  5,
@@ -434,12 +442,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  6,
+                         "grocery":  13,
+                         "bakeries":  29,
+                         "doctors":  22,
+                         "dentists":  31,
+                         "pharmacies":  9,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  1,
@@ -451,15 +459,16 @@
                                             "cultural":  1,
                                             "library":  2,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  3,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-01-15"
                   },
         "security":  {
                          "score":  5,
@@ -486,12 +495,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  6,
+                         "grocery":  12,
+                         "bakeries":  16,
+                         "doctors":  10,
+                         "dentists":  4,
+                         "pharmacies":  5,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  3,
@@ -503,15 +512,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  9,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  2.5,
@@ -538,12 +548,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  3,
+                         "grocery":  9,
+                         "bakeries":  10,
+                         "doctors":  6,
+                         "dentists":  12,
+                         "pharmacies":  5,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  1,
@@ -555,15 +565,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  11,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  1,
@@ -590,12 +601,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  8,
+                         "grocery":  36,
+                         "bakeries":  30,
+                         "doctors":  22,
+                         "dentists":  18,
+                         "pharmacies":  10,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  4,
@@ -607,15 +618,16 @@
                                             "cultural":  0,
                                             "library":  4,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  9,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  5,
@@ -642,12 +654,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  17,
+                         "grocery":  32,
+                         "bakeries":  49,
+                         "doctors":  72,
+                         "dentists":  62,
+                         "pharmacies":  23,
                          "activities":  {
                                             "swimmingPool":  4,
                                             "stadium":  6,
@@ -659,15 +671,16 @@
                                             "cultural":  1,
                                             "library":  7,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  3
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  7,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  6,
@@ -694,12 +707,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  8,
+                         "grocery":  35,
+                         "bakeries":  27,
+                         "doctors":  27,
+                         "dentists":  37,
+                         "pharmacies":  13,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  3,
@@ -711,15 +724,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  4,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  2.5,
@@ -746,12 +760,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  8,
+                         "grocery":  8,
+                         "bakeries":  14,
+                         "doctors":  9,
+                         "dentists":  8,
+                         "pharmacies":  6,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  3,
@@ -763,15 +777,16 @@
                                             "cultural":  1,
                                             "library":  1,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  13,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-06-11"
                   },
         "security":  {
                          "score":  1,
@@ -798,12 +813,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  5,
+                         "grocery":  12,
+                         "bakeries":  17,
+                         "doctors":  10,
+                         "dentists":  6,
+                         "pharmacies":  5,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -815,15 +830,16 @@
                                             "cultural":  0,
                                             "library":  2,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  0,
+                      "lastFloodCatNat":  "2001-07-06"
                   },
         "security":  {
                          "score":  4,
@@ -850,12 +866,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  2,
+                         "grocery":  8,
+                         "bakeries":  15,
+                         "doctors":  6,
+                         "dentists":  21,
+                         "pharmacies":  9,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  3,
@@ -867,15 +883,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  12,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-06-11"
                   },
         "security":  {
                          "score":  4,
@@ -902,12 +919,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  8,
+                         "grocery":  53,
+                         "bakeries":  46,
+                         "doctors":  27,
+                         "dentists":  26,
+                         "pharmacies":  16,
                          "activities":  {
                                             "swimmingPool":  2,
                                             "stadium":  11,
@@ -919,15 +936,16 @@
                                             "cultural":  2,
                                             "library":  2,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  9,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  4,
@@ -954,12 +972,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  7,
+                         "grocery":  6,
+                         "bakeries":  9,
+                         "doctors":  10,
+                         "dentists":  12,
+                         "pharmacies":  5,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  0,
@@ -971,15 +989,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  7,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  4,
@@ -1006,12 +1025,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  3,
+                         "grocery":  10,
+                         "bakeries":  15,
+                         "doctors":  17,
+                         "dentists":  18,
+                         "pharmacies":  8,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  1,
@@ -1023,15 +1042,16 @@
                                             "cultural":  1,
                                             "library":  1,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  6,
@@ -1058,12 +1078,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  5,
+                         "bakeries":  10,
+                         "doctors":  11,
+                         "dentists":  8,
+                         "pharmacies":  7,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  8,
@@ -1075,15 +1095,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  7,
+                      "floodCatNat10Years":  3,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  6.5,
@@ -1110,12 +1131,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  8,
+                         "grocery":  31,
+                         "bakeries":  37,
+                         "doctors":  41,
+                         "dentists":  33,
+                         "pharmacies":  15,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  6,
@@ -1127,15 +1148,16 @@
                                             "cultural":  1,
                                             "library":  4,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  8,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-01-15"
                   },
         "security":  {
                          "score":  5,
@@ -1162,12 +1184,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  0,
+                         "grocery":  2,
+                         "bakeries":  4,
+                         "doctors":  5,
+                         "dentists":  1,
+                         "pharmacies":  1,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -1179,15 +1201,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  11,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  1,
@@ -1214,12 +1237,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  0,
+                         "bakeries":  1,
+                         "doctors":  5,
+                         "dentists":  2,
+                         "pharmacies":  1,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  0,
@@ -1231,15 +1254,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  9,
+                      "floodCatNat10Years":  3,
+                      "lastFloodCatNat":  "2021-07-13"
                   },
         "security":  {
                          "score":  1,
@@ -1266,12 +1290,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  7,
+                         "grocery":  15,
+                         "bakeries":  18,
+                         "doctors":  27,
+                         "dentists":  26,
+                         "pharmacies":  9,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  1,
@@ -1283,15 +1307,16 @@
                                             "cultural":  2,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-01-15"
                   },
         "security":  {
                          "score":  4,
@@ -1318,12 +1343,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  1,
+                         "bakeries":  2,
+                         "doctors":  3,
+                         "dentists":  3,
+                         "pharmacies":  1,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  2,
@@ -1335,15 +1360,16 @@
                                             "cultural":  0,
                                             "library":  0,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  1,
@@ -1370,12 +1396,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  2,
+                         "grocery":  13,
+                         "bakeries":  19,
+                         "doctors":  22,
+                         "dentists":  2,
+                         "pharmacies":  5,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  5,
@@ -1387,15 +1413,16 @@
                                             "cultural":  0,
                                             "library":  2,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  8,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  6,
@@ -1422,12 +1449,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  0,
+                         "grocery":  2,
+                         "bakeries":  4,
+                         "doctors":  10,
+                         "dentists":  11,
+                         "pharmacies":  2,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -1439,15 +1466,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  9,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2022-08-16"
                   },
         "security":  {
                          "score":  4,
@@ -1474,12 +1502,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  0,
+                         "bakeries":  0,
+                         "doctors":  1,
+                         "dentists":  1,
+                         "pharmacies":  0,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -1491,15 +1519,16 @@
                                             "cultural":  0,
                                             "library":  0,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  2.5,
@@ -1526,12 +1555,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  4,
+                         "grocery":  21,
+                         "bakeries":  14,
+                         "doctors":  31,
+                         "dentists":  16,
+                         "pharmacies":  9,
                          "activities":  {
                                             "swimmingPool":  2,
                                             "stadium":  2,
@@ -1543,15 +1572,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  8,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  2.5,
@@ -1578,12 +1608,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  5,
+                         "bakeries":  4,
+                         "doctors":  12,
+                         "dentists":  8,
+                         "pharmacies":  6,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  1,
@@ -1595,15 +1625,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  6,
@@ -1630,12 +1661,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  2,
+                         "grocery":  6,
+                         "bakeries":  7,
+                         "doctors":  7,
+                         "dentists":  4,
+                         "pharmacies":  3,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  3,
@@ -1647,15 +1678,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  11,
+                      "floodCatNat10Years":  6,
+                      "lastFloodCatNat":  "2024-10-08"
                   },
         "security":  {
                          "score":  6,
@@ -1682,12 +1714,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  4,
+                         "bakeries":  7,
+                         "doctors":  5,
+                         "dentists":  7,
+                         "pharmacies":  2,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -1699,15 +1731,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  4,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2018-06-11"
                   },
         "security":  {
                          "score":  6.5,
@@ -1734,12 +1767,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  6,
+                         "grocery":  9,
+                         "bakeries":  18,
+                         "doctors":  13,
+                         "dentists":  20,
+                         "pharmacies":  8,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  0,
@@ -1751,15 +1784,16 @@
                                             "cultural":  1,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  1,
+                      "floodCatNat10Years":  0,
+                      "lastFloodCatNat":  "1999-12-25"
                   },
         "security":  {
                          "score":  4,
@@ -1786,12 +1820,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  16,
+                         "grocery":  42,
+                         "bakeries":  64,
+                         "doctors":  100,
+                         "dentists":  79,
+                         "pharmacies":  22,
                          "activities":  {
                                             "swimmingPool":  2,
                                             "stadium":  4,
@@ -1803,15 +1837,16 @@
                                             "cultural":  1,
                                             "library":  4,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  13,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  2.5,
@@ -1838,12 +1873,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  3,
+                         "grocery":  7,
+                         "bakeries":  15,
+                         "doctors":  12,
+                         "dentists":  7,
+                         "pharmacies":  4,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -1855,15 +1890,16 @@
                                             "cultural":  0,
                                             "library":  2,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2018-07-27"
                   },
         "security":  {
                          "score":  5,
@@ -1890,12 +1926,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  0,
+                         "bakeries":  4,
+                         "doctors":  4,
+                         "dentists":  1,
+                         "pharmacies":  1,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  2,
@@ -1907,15 +1943,16 @@
                                             "cultural":  0,
                                             "library":  0,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  8,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  1,
@@ -1942,12 +1979,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  4,
+                         "grocery":  6,
+                         "bakeries":  14,
+                         "doctors":  20,
+                         "dentists":  14,
+                         "pharmacies":  7,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  2,
@@ -1959,15 +1996,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  11,
+                      "floodCatNat10Years":  4,
+                      "lastFloodCatNat":  "2021-07-13"
                   },
         "security":  {
                          "score":  2.5,
@@ -1994,12 +2032,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  3,
+                         "grocery":  8,
+                         "bakeries":  15,
+                         "doctors":  15,
+                         "dentists":  15,
+                         "pharmacies":  10,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  3,
@@ -2011,15 +2049,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  5,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  4,
@@ -2046,12 +2085,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  3,
+                         "grocery":  9,
+                         "bakeries":  5,
+                         "doctors":  9,
+                         "dentists":  2,
+                         "pharmacies":  3,
                          "activities":  {
                                             "swimmingPool":  0,
                                             "stadium":  1,
@@ -2063,15 +2102,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  4,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  5,
@@ -2098,12 +2138,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  3,
+                         "grocery":  7,
+                         "bakeries":  9,
+                         "doctors":  8,
+                         "dentists":  13,
+                         "pharmacies":  2,
                          "activities":  {
                                             "swimmingPool":  2,
                                             "stadium":  3,
@@ -2115,15 +2155,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  14,
+                      "floodCatNat10Years":  6,
+                      "lastFloodCatNat":  "2024-10-08"
                   },
         "security":  {
                          "score":  2.5,
@@ -2150,12 +2191,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  4,
+                         "grocery":  35,
+                         "bakeries":  26,
+                         "doctors":  30,
+                         "dentists":  17,
+                         "pharmacies":  15,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  4,
@@ -2167,15 +2208,16 @@
                                             "cultural":  0,
                                             "library":  3,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  1
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  10,
+                      "floodCatNat10Years":  2,
+                      "lastFloodCatNat":  "2021-06-22"
                   },
         "security":  {
                          "score":  2.5,
@@ -2202,12 +2244,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  1,
+                         "grocery":  16,
+                         "bakeries":  17,
+                         "doctors":  11,
+                         "dentists":  10,
+                         "pharmacies":  7,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  2,
@@ -2219,15 +2261,16 @@
                                             "cultural":  0,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  9,
+                      "floodCatNat10Years":  3,
+                      "lastFloodCatNat":  "2018-07-27"
                   },
         "security":  {
                          "score":  4,
@@ -2254,12 +2297,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  2,
+                         "grocery":  33,
+                         "bakeries":  25,
+                         "doctors":  16,
+                         "dentists":  6,
+                         "pharmacies":  9,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  6,
@@ -2271,15 +2314,16 @@
                                             "cultural":  1,
                                             "library":  2,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  2
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  15,
+                      "floodCatNat10Years":  4,
+                      "lastFloodCatNat":  "2024-10-08"
                   },
         "security":  {
                          "score":  6,
@@ -2306,12 +2350,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  5,
+                         "grocery":  14,
+                         "bakeries":  10,
+                         "doctors":  12,
+                         "dentists":  10,
+                         "pharmacies":  8,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  2,
@@ -2323,15 +2367,16 @@
                                             "cultural":  2,
                                             "library":  1,
                                             "conservatory":  0
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  6,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  1,
@@ -2358,12 +2403,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  17,
+                         "grocery":  23,
+                         "bakeries":  47,
+                         "doctors":  47,
+                         "dentists":  61,
+                         "pharmacies":  17,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  0,
@@ -2375,15 +2420,16 @@
                                             "cultural":  0,
                                             "library":  4,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  0
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  3,
+                      "floodCatNat10Years":  1,
+                      "lastFloodCatNat":  "2021-06-19"
                   },
         "security":  {
                          "score":  6.5,
@@ -2410,12 +2456,12 @@
         "sunHours":  1509,
         "distanceSeaKm":  null,
         "services":  {
-                         "supermarkets":  null,
-                         "grocery":  null,
-                         "bakeries":  null,
-                         "doctors":  null,
-                         "dentists":  null,
-                         "pharmacies":  null,
+                         "supermarkets":  41,
+                         "grocery":  57,
+                         "bakeries":  44,
+                         "doctors":  57,
+                         "dentists":  31,
+                         "pharmacies":  23,
                          "activities":  {
                                             "swimmingPool":  1,
                                             "stadium":  6,
@@ -2427,15 +2473,16 @@
                                             "cultural":  1,
                                             "library":  4,
                                             "conservatory":  1
-                                        }
+                                        },
+                         "hospitals":  2
                      },
         "scores":  {
 
                    },
         "risks":  {
-                      "floodCatNat":  null,
-                      "floodCatNat10Years":  null,
-                      "lastFloodCatNat":  null
+                      "floodCatNat":  11,
+                      "floodCatNat10Years":  3,
+                      "lastFloodCatNat":  "2021-06-22"
                   },
         "security":  {
                          "score":  4,

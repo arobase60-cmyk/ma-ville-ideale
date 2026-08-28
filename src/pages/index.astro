@@ -552,9 +552,13 @@ async function loadDepartments() {
       '<option value="">-- Choisissez un département --</option>';
 
     departments
-      .sort((a, b) => a.nom.localeCompare(b.nom, "fr"))
-      .forEach((department) => {
-        const option = document.createElement("option");
+      departments
+  .filter((department) => !["971", "972", "973", "974", "976", "977", "978"].includes(department.code))
+  .sort((a, b) => a.nom.localeCompare(b.nom, "fr"))
+  .forEach((department) => {
+		
+		
+		const option = document.createElement("option");
 
         option.value = department.code;
         option.dataset.region = department.codeRegion;
@@ -959,7 +963,11 @@ async function loadDepartmentCities(departmentCode) {
       );
     }
 
-    const communes = await communesResponse.json();
+    const communesData = await communesResponse.json();
+
+const communes = Array.isArray(communesData)
+  ? communesData
+  : [communesData];
 
     // ==============================
     // CHARGEMENT IMMOBILIER
@@ -999,48 +1007,79 @@ async function loadDepartmentCities(departmentCode) {
     // CONSTRUCTION DES VILLES
     // ==============================
 
-    return communes.map((city) => {
+    
 
-      const code = String(city.code).padStart(5, "0");
 
-      const immobilierData = immobilierByCode.get(code);
+return communes.map((city) => {
 
-      return {
+  const code = String(city.code).padStart(5, "0");
 
-        id: city.id,
-        code: code,
-        slug: city.slug,
+  const immobilierData = immobilierByCode.get(code);
 
-        name: city.name,
+  // ==============================
+  // PRIX IMMOBILIER
+  // ==============================
 
-        region: city.region ?? "",
-        regionCode: city.regionCode ?? "",
-        departmentCode:
-          city.departmentCode ?? departmentCode,
+  const immoPrice = Number(immobilierData?.housePriceM2);
+  const cityPrice = Number(city.immobilier?.housePriceM2);
 
-        population: city.population ?? 0,
+  const finalHousePriceM2 =
+    Number.isFinite(immoPrice) && immoPrice > 0
+      ? immoPrice
+      : Number.isFinite(cityPrice) && cityPrice > 0
+        ? cityPrice
+        : null;
 
-        // ==============================
-        // COORDONNEES
-        // ==============================
+  const immoSales = Number(immobilierData?.houseSales);
+  const citySales = Number(city.immobilier?.houseSales);
 
-        lat: city.lat ?? null,
-        lng: city.lng ?? null,
+  const finalHouseSales =
+    Number.isFinite(immoSales) && immoSales > 0
+      ? immoSales
+      : Number.isFinite(citySales) && citySales > 0
+        ? citySales
+        : 0;
+let parisPrice = finalHousePriceM2;
 
-        // ==============================
-        // IMMOBILIER
-        // ==============================
+if (code === "75056") {
+  parisPrice = 10088;
+}
+  return {
 
-        immobilier: {
-          housePriceM2:
-            immobilierData?.housePriceM2 ?? null,
+    id: city.id,
+    code: code,
+    slug: city.slug,
 
-          houseSales:
-            immobilierData?.houseSales ?? 0
-        },
+    name: city.name,
 
-        priceSqm:
-          immobilierData?.housePriceM2 ?? null,
+    region: city.region ?? "",
+    regionCode: city.regionCode ?? "",
+    departmentCode:
+      city.departmentCode ?? departmentCode,
+
+    population: city.population ?? 0,
+
+    // ==============================
+    // COORDONNEES
+    // ==============================
+
+    lat: city.lat ?? null,
+    lng: city.lng ?? null,
+
+    // ==============================
+    // IMMOBILIER
+    // ==============================
+
+    immobilier: {
+  housePriceM2: parisPrice,
+  houseSales: finalHouseSales
+},
+
+priceSqm: parisPrice,
+
+      
+
+
 
         // ==============================
         // ENSOLEILLEMENT
@@ -1129,7 +1168,7 @@ const hasCoordinates =
 
   const activitiesScore = calculateActivitiesScore(city); 
 
-console.log(
+(
   "ACTIVITES",
   city.name,
   city.services?.activities,
@@ -1165,7 +1204,7 @@ console.log("SCORE :", calculateActivitiesScore(city));
         ✕ Fermer
       </button>
 
-      <h2>${city.name}</h2>
+      <h2>${cityconsole.log.name}</h2>
 
       <p>
         ${city.region || ""}
@@ -1434,7 +1473,10 @@ console.log("SCORE :", calculateActivitiesScore(city));
 
   if (searchArea.value === "department" && selectedDepartment) {
     filteredCities = await loadDepartmentCities(selectedDepartment);
-  }
+  
+
+
+}
 console.log(
   "DÉPARTEMENT CHARGÉ :",
   selectedDepartment,

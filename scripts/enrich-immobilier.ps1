@@ -29,8 +29,10 @@ foreach ($row in $rows) {
 
     $code = ([string]$row.code_geo).Trim()
 
-    # Uniquement l allier
-if (-not $code.StartsWith("03")) {
+   # Départements à traiter
+$departementsCibles = @("57", "67", "68", "2A", "2B")
+
+if (-not ($departementsCibles | Where-Object { $code.StartsWith($_) })) {
     continue
 }
 
