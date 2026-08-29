@@ -551,7 +551,7 @@ async function loadDepartments() {
     departmentSelect.innerHTML =
       '<option value="">-- Choisissez un département --</option>';
 
-    departments
+    
       departments
   .filter((department) => !["971", "972", "973", "974", "976", "977", "978"].includes(department.code))
   .sort((a, b) => a.nom.localeCompare(b.nom, "fr"))
@@ -954,8 +954,8 @@ async function loadDepartmentCities(departmentCode) {
     // ==============================
 
     const communesResponse = await fetch(
-      `/data/departements/${departmentCode}.json`
-    );
+  `${import.meta.env.BASE_URL}data/departements/${departmentCode}.json`
+);
 
     if (!communesResponse.ok) {
       throw new Error(
@@ -973,9 +973,9 @@ const communes = Array.isArray(communesData)
     // CHARGEMENT IMMOBILIER
     // ==============================
 
-    const immobilierResponse = await fetch(
-      `/data/immobilier/${departmentCode}.json`
-    );
+   const immobilierResponse = await fetch(
+  `${import.meta.env.BASE_URL}data/immobilier/${departmentCode}.json`
+);
 
     let immobilier = [];
 
@@ -1204,7 +1204,7 @@ console.log("SCORE :", calculateActivitiesScore(city));
         ✕ Fermer
       </button>
 
-      <h2>${cityconsole.log.name}</h2>
+      <h2>${city.name}</h2>
 
       <p>
         ${city.region || ""}
