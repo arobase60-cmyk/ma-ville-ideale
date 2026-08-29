@@ -955,7 +955,7 @@ async function loadDepartmentCities(departmentCode) {
     // ==============================
 
     const communesResponse = await fetch(
-  `${baseUrl}/data/departements/${departmentCode}.json`
+  `/data/departements/${departmentCode}.json`
 );
 
     if (!communesResponse.ok) {
@@ -975,7 +975,7 @@ const communes = Array.isArray(communesData)
     // ==============================
 
   const immobilierResponse = await fetch(
-  `${baseUrl}/data/immobilier/${departmentCode}.json`
+  `/data/immobilier/${departmentCode}.json`
 );
 
     let immobilier = [];
