@@ -1,15 +1,29 @@
 ---
-import cities from "../../data/cities.json";
+import fs from "node:fs";
+import path from "node:path";
 
 export function getStaticPaths() {
-  return cities.map((city) => ({
-    params: { slug: city.slug },
-    props: { city }
-  }));
+  const directory = path.join(process.cwd(), "public/data/departements");
+
+  const files = fs.readdirSync(directory)
+    .filter((file) => /^\d{2,3}\.json$/.test(file));
+
+  return files.flatMap((file) => {
+    const communes = JSON.parse(
+      fs.readFileSync(path.join(directory, file), "utf-8")
+    );
+
+    return communes.map((city: { code: string }) => ({
+      params: { slug: city.code },
+      props: { city }
+    }));
+  });
 }
 
 const { city } = Astro.props;
 ---
+
+
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -141,25 +155,46 @@ const { city } = Astro.props;
       </a>
 
       <h1>{city.name}</h1>
-      <p>{city.region}</p>
+      
+<p>
+  {city.postalCodes?.join(", ") || "Code postal non renseigné"}
+</p>
+
 
     </div>
   </header>
 
   <main class="container">
 
-    <div class="score">
-      <div>Profil global de la commune</div>
-      <div class="score-number">—</div>
-      <div>Score personnalisé selon vos critères</div>
-    </div>
+    
+<div class="score">
+  <h2>Informations générales</h2>
+  <div class="score-number">{city.name}</div>
+  <p>
+    Code INSEE : {city.code}
+    —
+    Code postal : {city.postalCodes?.join(", ") || "Non renseigné"}
+  </p>
+  <p>
+    Population :
+    {city.population != null
+      ? city.population.toLocaleString("fr-FR")
+      : "Non renseignée"}
+    habitants
+  </p>
+</div>
+
 
     <div class="grid">
 
       <div class="card">
         <h2>🏠 Immobilier</h2>
         <div class="big-value">
-          {city.priceSqm.toLocaleString("fr-FR")} €/m²
+          
+{city.immobilier?.housePriceM2 != null
+  ? `${city.immobilier.housePriceM2.toLocaleString("fr-FR")} €/m²`
+  : "Donnée indisponible"}
+
         </div>
         <p>Prix indicatif des maisons</p>
       </div>
@@ -189,51 +224,213 @@ const { city } = Astro.props;
 
     </div>
 
-    <h2>Les critères</h2>
+<h2>🏥 Santé et services médicaux</h2>
 
-    <div class="scores">
-
-      <div class="score-item">
-        🛒 Commerces
-        <strong>{city.scores.commerce}/10</strong>
-      </div>
-
-      <div class="score-item">
-        🏥 Santé
-        <strong>{city.scores.health}/10</strong>
-      </div>
-
-      <div class="score-item">
-        🛡️ Sécurité
-        <strong>{city.scores.safety}/10</strong>
-      </div>
-
-      <div class="score-item">
-        🌳 Tranquillité
-        <strong>{city.scores.tranquility}/10</strong>
-      </div>
-
-      <div class="score-item">
-        ☀️ Soleil
-        <strong>{city.scores.sun}/10</strong>
-      </div>
-
-      <div class="score-item">
-        🚗 Accessibilité
-        <strong>{city.scores.accessibility}/10</strong>
-      </div>
-
-      <div class="score-item">
-        🌧️ Risques
-        <strong>{city.scores.risk}/10</strong>
-      </div>
-
-      <div class="score-item">
-        🏠 Prix
-        <strong>{city.scores.price}/10</strong>
-      </div>
-
+<div class="grid">
+  <div class="card">
+    <h2>👨‍⚕️ Médecins</h2>
+    <div class="big-value">
+      {city.services?.doctors ?? "Non renseigné"}
     </div>
+  </div>
+
+  <div class="card">
+    <h2>💊 Pharmacies</h2>
+    <div class="big-value">
+      {city.services?.pharmacies ?? "Non renseigné"}
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>🦷 Dentistes</h2>
+    <div class="big-value">
+      {city.services?.dentists ?? "Non renseigné"}
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>🏥 Hôpitaux</h2>
+    <div class="big-value">
+      {city.services?.hospitals ?? "Non renseigné"}
+    </div>
+  </div>
+</div>
+
+
+<h2>🛒 Commerces de proximité</h2>
+
+<div class="grid">
+  <div class="card">
+    <h2>🛒 Supermarchés</h2>
+    <div class="big-value">
+      {city.services?.supermarkets ?? "Non renseigné"}
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>🥖 Boulangeries</h2>
+    <div class="big-value">
+      {city.services?.bakeries ?? "Non renseigné"}
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>🏪 Épiceries</h2>
+    <div class="big-value">
+      {city.services?.grocery ?? "Non renseigné"}
+    </div>
+  </div>
+</div>
+
+
+    
+
+    
+<h2>🛡️ Sécurité de la commune</h2>
+
+<div class="grid">
+  <div class="card">
+    <h2>Score de sécurité</h2>
+    <div class="big-value">
+      {city.security?.score != null
+        ? `${city.security.score}/10`
+        : "Non renseigné"}
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Nombre de cambriolages en 2025</h2>
+    <div class="big-value">
+      {city.security?.burglaryCount ?? "Non renseigné"}
+    </div>
+    <p>Nombre recensé dans les données disponibles</p>
+  </div>
+
+  <div class="card">
+    <h2>Taux de cambriolages en 2025</h2>
+    <div class="big-value">
+      {city.security?.burglaryRate != null
+
+       ? `${city.security.burglaryRate.toLocaleString("fr-FR", {
+    maximumFractionDigits: 2
+  })} ‰`
+
+
+        : "Non renseigné"}
+    </div>
+    <p>Pour 1 000 logements — année 2025 (‰)</p>
+  </div>
+</div>
+
+<h2>📊 Détail des faits de délinquance — 2025</h2>
+<p>
+  Données de délinquance enregistrée pour l'année 2025.
+  Les nombres correspondent aux faits recensés durant cette année.
+  Les taux sont exprimés pour 1 000 habitants lorsque cet indicateur
+  utilise la population comme référence.
+  Certaines données ne sont pas diffusées pour des raisons de confidentialité statistique.
+</p>
+<div class="grid">
+  {Object.entries(city.security?.details ?? {}).map(([label, info]: [string, any]) => (
+    <div class="card">
+      <h2>{label}</h2>
+
+<style>
+  .unavailable-value {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #64748b;
+    margin: 1rem 0;
+  }
+</style>
+
+
+     <div class={info.published === true && info.count != null
+  ? "big-value"
+  : "unavailable-value"}>
+  {info.published === true && info.count != null
+    ? info.count.toLocaleString("fr-FR")
+    : "Données non diffusées"}
+</div>
+
+      <p>
+        {info.published === true && info.rate != null
+          ? `Taux : ${info.rate.toLocaleString("fr-FR", { maximumFractionDigits: 2 })} ‰`
+          : "Taux non disponible"}
+      </p>
+    </div>
+  ))}
+</div>
+
+<h2>🌧️ Risques naturels — Inondations</h2>
+
+<div class="grid">
+  <div class="card">
+    <h2>Arrêtés de catastrophe naturelle</h2>
+    <div class="big-value">
+      {city.risks?.floodCatNat ?? "Non renseigné"}
+    </div>
+    <p>Nombre d'arrêtés liés aux inondations dans les données disponibles</p>
+  </div>
+
+  <div class="card">
+    <h2>Arrêtés d'inondation sur les 10 dernières années</h2>
+    <div class="big-value">
+      {city.risks?.floodCatNat10Years ?? "Non renseigné"}
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Dernier arrêté recensé</h2>
+    <div class="big-value">
+      {city.risks?.lastFloodCatNat
+        ? new Date(city.risks.lastFloodCatNat).toLocaleDateString("fr-FR")
+        : "Non renseigné"}
+    </div>
+  </div>
+</div>
+
+<p>
+  ℹ️ Ces informations concernent les arrêtés de catastrophe
+  naturelle. Elles ne permettent pas, à elles seules,
+  de déterminer si une maison se trouve en zone inondable.
+  Pour une adresse précise, consultez Géorisques.
+</p>
+
+<p>
+  <a
+    href="https://www.georisques.gouv.fr/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Consulter le site officiel Géorisques ↗
+  </a>
+</p>
+
+
+<h2>🎭 Sports, loisirs et culture</h2>
+
+<div class="grid">
+  {[
+    ["🏊 Piscines", city.services?.activities?.swimmingPool],
+    ["⚽ Stades", city.services?.activities?.stadium],
+    ["🎾 Tennis", city.services?.activities?.tennis],
+    ["🏀 Gymnases", city.services?.activities?.gymnasium],
+    ["⛳ Golfs", city.services?.activities?.golf],
+    ["🎭 Théâtres", city.services?.activities?.theatre],
+    ["🎬 Cinémas", city.services?.activities?.cinema],
+    ["🎨 Équipements culturels", city.services?.activities?.cultural],
+    ["📚 Bibliothèques", city.services?.activities?.library],
+    ["🎵 Conservatoires", city.services?.activities?.conservatory]
+  ].map(([label, value]) => (
+    <div class="card">
+      <h2>{label}</h2>
+      <div class="big-value">
+        {value ?? "Non renseigné"}
+      </div>
+    </div>
+  ))}
+</div>
 
   </main>
 

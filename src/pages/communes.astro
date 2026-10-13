@@ -1,0 +1,198 @@
+
+---
+const title = "Fiche détaillée d'une commune — Ma Ville Idéale";
+---
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      background: #f5f7fa;
+      color: #172033;
+    }
+
+    header {
+      background: linear-gradient(135deg, #2563eb, #0f766e);
+      color: white;
+      padding: 45px 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 650px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .panel {
+      background: white;
+      padding: 30px;
+      border-radius: 14px;
+      box-shadow: 0 4px 20px #00000012;
+    }
+
+    label {
+      display: block;
+      margin: 20px 0 8px;
+      font-weight: 600;
+    }
+
+    select, button {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 13px;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+
+    select {
+      border: 1px solid #cbd5e1;
+      background: white;
+    }
+
+    button {
+      margin-top: 25px;
+      border: 0;
+      background: #2563eb;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:disabled {
+      background: #94a3b8;
+      cursor: not-allowed;
+    }
+
+    .back {
+      color: white;
+      text-decoration: none;
+    }
+
+    #message {
+      color: #b91c1c;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <a class="back" href="/">← Retour au comparateur</a>
+    <h1>Fiche détaillée d'une commune</h1>
+    <p>Retrouvez les informations essentielles de votre commune.</p>
+  </header>
+
+  <main>
+    <div class="panel">
+      <label for="department">Choisissez un département</label>
+      <select id="department">
+        <option value="">-- Choisissez un département --</option>
+      </select>
+
+      <label for="commune">Choisissez une commune</label>
+      <select id="commune" disabled>
+        <option value="">-- Choisissez une commune --</option>
+      </select>
+
+      <button id="show-fiche" disabled>
+        Afficher la fiche complète
+      </button>
+
+      <p id="message" role="status" aria-live="polite"></p>
+    </div>
+  </main>
+
+  <script>
+    const departmentSelect =
+      document.querySelector<HTMLSelectElement>("#department")!;
+
+    const communeSelect =
+      document.querySelector<HTMLSelectElement>("#commune")!;
+
+    const button =
+      document.querySelector<HTMLButtonElement>("#show-fiche")!;
+
+    const message =
+      document.querySelector<HTMLElement>("#message")!;
+
+    async function loadDepartments() {
+      try {
+        const response = await fetch(
+          "https://geo.api.gouv.fr/departements?fields=code,nom"
+        );
+
+        if (!response.ok) throw new Error("Chargement impossible");
+
+        const departments = await response.json();
+
+        departments
+          .sort((a: { nom: string }, b: { nom: string }) =>
+            a.nom.localeCompare(b.nom, "fr")
+          )
+          .forEach((department: { code: string; nom: string }) => {
+            const option = document.createElement("option");
+            option.value = department.code;
+            option.textContent =
+              `${department.nom} (${department.code})`;
+            departmentSelect.appendChild(option);
+          });
+      } catch {
+        message.textContent = "Impossible de charger les départements.";
+      }
+    }
+
+    departmentSelect.addEventListener("change", async () => {
+      communeSelect.innerHTML =
+        '<option value="">-- Choisissez une commune --</option>';
+      communeSelect.disabled = true;
+      button.disabled = true;
+      message.textContent = "";
+
+      const code = departmentSelect.value;
+      if (!code) return;
+
+      try {
+        const response = await fetch(`/data/departements/${code}.json`);
+        if (!response.ok) throw new Error("Département indisponible");
+
+        const data = await response.json();
+        const communes = Array.isArray(data) ? data : [data];
+
+        communes
+          .sort((a: { name: string }, b: { name: string }) =>
+            a.name.localeCompare(b.name, "fr")
+          )
+          .forEach((city: { code: string; name: string }) => {
+            const option = document.createElement("option");
+            option.value = city.code;
+            option.textContent = city.name;
+            communeSelect.appendChild(option);
+          });
+
+        communeSelect.disabled = false;
+      } catch {
+        message.textContent =
+          "Les données de ce département ne sont pas disponibles.";
+      }
+    });
+
+    communeSelect.addEventListener("change", () => {
+      button.disabled = !communeSelect.value;
+    });
+
+    button.addEventListener("click", () => {
+      if (communeSelect.value) {
+        window.location.href = `/villes/${communeSelect.value}`;
+      }
+    });
+
+    loadDepartments();
+  </script>
+</body>
+</html>

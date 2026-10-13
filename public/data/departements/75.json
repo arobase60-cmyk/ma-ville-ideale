@@ -1,53 +1,162 @@
-﻿{
-    "id":  "75056",
-    "code":  "75056",
-    "slug":  "75056",
-    "name":  "Paris",
-    "region":  "paris, France",
-    "regionCode":  "32",
-    "departmentCode":  "75",
-    "population":  2103778,
-    "lat":  48.8589,
-    "lng":  2.347,
-    "immobilier":  {
-                       "housePriceM2":  null,
-                       "houseSales":  0
-                   },
-    "priceSqm":  null,
-    "sunHours":  1506,
-    "distanceSeaKm":  null,
-    "services":  {
-                     "supermarkets":  715,
-                     "grocery":  2106,
-                     "bakeries":  2307,
-                     "doctors":  2722,
-                     "dentists":  2446,
-                     "pharmacies":  864,
-                     "activities":  {
-                                        "swimmingPool":  84,
-                                        "stadium":  47,
-                                        "tennis":  78,
-                                        "gymnasium":  267,
-                                        "golf":  5,
-                                        "theatre":  139,
-                                        "cinema":  77,
-                                        "cultural":  81,
-                                        "library":  69,
-                                        "conservatory":  17
-                                    },
-                     "hospitals":  61
-                 },
-    "scores":  {
+[
+    {
+        "id":  "75056",
+        "code":  "75056",
+        "slug":  "75056",
+        "name":  "Paris",
+        "region":  "paris, France",
+        "regionCode":  "32",
+        "departmentCode":  "75",
+        "population":  2103778,
+        "lat":  48.8589,
+        "lng":  2.347,
+        "immobilier":  {
+                           "housePriceM2":  null,
+                           "houseSales":  0
+                       },
+        "priceSqm":  null,
+        "sunHours":  1506,
+        "distanceSeaKm":  null,
+        "services":  {
+                         "supermarkets":  715,
+                         "grocery":  2106,
+                         "bakeries":  2307,
+                         "doctors":  2722,
+                         "dentists":  2446,
+                         "pharmacies":  864,
+                         "activities":  {
+                                            "swimmingPool":  84,
+                                            "stadium":  47,
+                                            "tennis":  78,
+                                            "gymnasium":  267,
+                                            "golf":  5,
+                                            "theatre":  139,
+                                            "cinema":  77,
+                                            "cultural":  81,
+                                            "library":  69,
+                                            "conservatory":  17
+                                        },
+                         "hospitals":  61
+                     },
+        "scores":  {
 
-               },
-    "risks":  {
-                  "floodCatNat":  null,
-                  "floodCatNat10Years":  null,
-                  "lastFloodCatNat":  null
-              },
-    "security":  {
-                     "score":  4,
-                     "burglaryRate":  5.0545976,
-                     "burglaryCount":  7072
-                 }
-}
+                   },
+        "risks":  {
+                      "floodCatNat":  null,
+                      "floodCatNat10Years":  null,
+                      "lastFloodCatNat":  null
+                  },
+        "security":  {
+                         "score":  4,
+                         "burglaryRate":  5.0545976,
+                         "burglaryCount":  7072,
+                         "details":  {
+                                         "Violences physiques intrafamiliales":  {
+                                                                                     "indicator":  "Violences physiques intrafamiliales",
+                                                                                     "year":  2025,
+                                                                                     "count":  6259,
+                                                                                     "rate":  2.9751238,
+                                                                                     "published":  true
+                                                                                 },
+                                         "Violences physiques hors cadre familial":  {
+                                                                                         "indicator":  "Violences physiques hors cadre familial",
+                                                                                         "year":  2025,
+                                                                                         "count":  11095,
+                                                                                         "rate":  5.2738454,
+                                                                                         "published":  true
+                                                                                     },
+                                         "Violences sexuelles":  {
+                                                                     "indicator":  "Violences sexuelles",
+                                                                     "year":  2025,
+                                                                     "count":  6320,
+                                                                     "rate":  3.0041193,
+                                                                     "published":  true
+                                                                 },
+                                         "Vols avec armes":  {
+                                                                 "indicator":  "Vols avec armes",
+                                                                 "year":  2025,
+                                                                 "count":  393,
+                                                                 "rate":  0.1868068,
+                                                                 "published":  true
+                                                             },
+                                         "Vols violents sans arme":  {
+                                                                         "indicator":  "Vols violents sans arme",
+                                                                         "year":  2025,
+                                                                         "count":  7268,
+                                                                         "rate":  3.4547371,
+                                                                         "published":  true
+                                                                     },
+                                         "Vols sans violence contre des personnes":  {
+                                                                                         "indicator":  "Vols sans violence contre des personnes",
+                                                                                         "year":  2025,
+                                                                                         "count":  94924,
+                                                                                         "rate":  45.1207304,
+                                                                                         "published":  true
+                                                                                     },
+                                         "Cambriolages de logement":  {
+                                                                          "indicator":  "Cambriolages de logement",
+                                                                          "year":  2025,
+                                                                          "count":  7072,
+                                                                          "rate":  5.0545976,
+                                                                          "published":  true
+                                                                      },
+                                         "Vols de véhicule":  {
+                                                                  "indicator":  "Vols de véhicule",
+                                                                  "year":  2025,
+                                                                  "count":  3648,
+                                                                  "rate":  1.7340233,
+                                                                  "published":  true
+                                                              },
+                                         "Vols dans les véhicules":  {
+                                                                         "indicator":  "Vols dans les véhicules",
+                                                                         "year":  2025,
+                                                                         "count":  13902,
+                                                                         "rate":  6.6081117,
+                                                                         "published":  true
+                                                                     },
+                                         "Vols d\u0027accessoires sur véhicules":  {
+                                                                                       "indicator":  "Vols d\u0027accessoires sur véhicules",
+                                                                                       "year":  2025,
+                                                                                       "count":  2065,
+                                                                                       "rate":  0.9815674,
+                                                                                       "published":  true
+                                                                                   },
+                                         "Destructions et dégradations volontaires":  {
+                                                                                          "indicator":  "Destructions et dégradations volontaires",
+                                                                                          "year":  2025,
+                                                                                          "count":  18877,
+                                                                                          "rate":  8.9729049,
+                                                                                          "published":  true
+                                                                                      },
+                                         "Usage de stupéfiants":  {
+                                                                      "indicator":  "Usage de stupéfiants",
+                                                                      "year":  2025,
+                                                                      "count":  28485,
+                                                                      "rate":  13.5399267,
+                                                                      "published":  true
+                                                                  },
+                                         "Usage de stupéfiants (AFD)":  {
+                                                                            "indicator":  "Usage de stupéfiants (AFD)",
+                                                                            "year":  2025,
+                                                                            "count":  21176,
+                                                                            "rate":  10.0657008,
+                                                                            "published":  true
+                                                                        },
+                                         "Trafic de stupéfiants":  {
+                                                                       "indicator":  "Trafic de stupéfiants",
+                                                                       "year":  2025,
+                                                                       "count":  5570,
+                                                                       "rate":  2.6476178,
+                                                                       "published":  true
+                                                                   },
+                                         "Escroqueries et fraudes aux moyens de paiement":  {
+                                                                                                "indicator":  "Escroqueries et fraudes aux moyens de paiement",
+                                                                                                "year":  2025,
+                                                                                                "count":  25014,
+                                                                                                "rate":  11.8900378,
+                                                                                                "published":  true
+                                                                                            }
+                                     }
+                     }
+    }
+]

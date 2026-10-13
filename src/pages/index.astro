@@ -1,9 +1,5 @@
 ---
 import cities from "../data/cities.json";
-
-
-
-
 const title = "Ma Ville Idéale";
 ---
 
@@ -170,10 +166,27 @@ const title = "Ma Ville Idéale";
 
 <body>
 
-  <header class="hero">
-    <h1>🏡 {title}</h1>
-    <p>Trouvez les villes qui correspondent vraiment à vos critères.</p>
-  </header>
+ <header class="hero">
+  <h1>🏡 {title}</h1>
+  <p>Trouvez les villes qui correspondent vraiment à vos critères.</p>
+
+  <a
+    href="/communes/"
+    style="
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 1rem 1.8rem;
+      background: white;
+      color: #1d4ed8;
+      border-radius: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    "
+  >
+    🔎 Rechercher une commune et consulter sa fiche
+  </a>
+</header>
 
   <main class="container">
 
@@ -1824,10 +1837,18 @@ if (resultCount) {
         </div>
 
         <div class="score">
-          ${city.finalScore}/100
-        </div>
+  ${city.finalScore}/100
+</div>
 
-      </article>
+<a
+  href="/villes/${encodeURIComponent(String(city.code))}/"
+  class="fiche-link"
+  onclick="event.stopPropagation()"
+>
+  📋 Voir la fiche complète →
+</a>
+
+</article>
     `;
   }).join("");
 
